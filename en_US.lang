@@ -1,0 +1,185 @@
+fluid.molten.angmallen=Molten Angmallen
+fluid.molten.damascus.steel=Molten Damascus Steel
+fluid.molten.hepatizon=Molten Hepatizon
+fluid.molten.manganese=Molten Manganese
+
+fluid.molten.brass=Molten Brass
+fluid.molten.platinum=Molten Platinum
+fluid.molten.zinc=Molten Zinc
+
+fluid.molten.amordrine=Molten Amordrine
+fluid.molten.alduorite=Molten Alduorite
+fluid.molten.ceruclase=Molten Ceruclase
+fluid.molten.ignatius=Molten Ignatius
+fluid.molten.inolashite=Molten Inolashite
+fluid.molten.kalendrite=Molten Kalendrite
+fluid.molten.lemurite=Molten Lemurite
+fluid.molten.midasium=Molten Midasium
+fluid.molten.sanguinite=Molten Sanguinite
+fluid.molten.shadow.iron=Molten Shadow Iron
+fluid.molten.shadow.steel=Molten Shadow Steel
+fluid.molten.vulcanite=Molten Vulcanite
+fluid.molten.vyroxeres=Molten Vyroxeres
+
+fluid.molten.adamantine=Molten Adamantine
+fluid.molten.astral.silver=Molten Astral Silver
+fluid.molten.atlarus=Molten Atlarus
+fluid.molten.black.steel=Molten Black Steel
+fluid.molten.carmot=Molten Carmot
+fluid.molten.celenegil=Molten Celenegil
+fluid.molten.deep.iron=Molten Deep Iron
+fluid.molten.haderoth=Molten Haderoth
+fluid.molten.infuscolium=Molten Infuscolium
+fluid.molten.mithril=Molten Mithril
+fluid.molten.orichalcum=Molten Orichalcum
+fluid.molten.oureclase=Molten Oureclase
+fluid.molten.prometheum=Molten Prometheum
+fluid.molten.quicksilver=Molten Quicksilver
+fluid.molten.rubracium=Molten Rubracium
+fluid.molten.tartarite=Molten Tartarite
+
+fluid.molten.desichalkos=Molten Desichalkos
+fluid.molten.eximite=Molten Eximite
+fluid.molten.meutoite=Molten Meutoite
+
+fluid.molten.refined.glowstone=Molten Refined Glowstone
+fluid.molten.osmium=Molten Osmium
+
+fluid.molten.pokefennium=Molten Pokefennium
+fluid.molten.fairy=Molten Fairy
+
+tile.molten.angmallen.name=Molten Angmallen
+tile.molten.damascus.steel.name=Molten Damascus Steel
+tile.molten.hepatizon.name=Molten Hepatizon
+tile.molten.manganese.name=Molten Manganese
+
+tile.molten.brass.name=Molten Brass
+tile.molten.platinum.name=Molten Platinum
+tile.molten.zinc.name=Molten Zinc
+
+tile.molten.amordrine.name=Molten Amordrine
+tile.molten.alduorite.name=Molten Alduorite
+tile.molten.ceruclase.name=Molten Ceruclase
+tile.molten.ignatius.name=Molten Ignatius
+tile.molten.inolashite.name=Molten Inolashite
+tile.molten.kalendrite.name=Molten Kalendrite
+tile.molten.lemurite.name=Molten Lemurite
+tile.molten.midasium.name=Molten Midasium
+tile.molten.sanguinite.name=Molten Sanguinite
+tile.molten.shadow.iron.name=Molten Shadow Iron
+tile.molten.shadow.steel.name=Molten Shadow Steel
+tile.molten.vulcanite.name=Molten Vulcanite
+tile.molten.vyroxeres.name=Molten Vyroxeres
+
+tile.molten.adamantine.name=Molten Adamantine
+tile.molten.astral.silver.name=Molten Astral Silver
+tile.molten.atlarus.name=Molten Atlarus
+tile.molten.black.steel.name=Molten Black Steel
+tile.molten.carmot.name=Molten Carmot
+tile.molten.celenegil.name=Molten Celenegil
+tile.molten.deep.iron.name=Molten Deep Iron
+tile.molten.haderoth.name=Molten Haderoth
+tile.molten.infuscolium.name=Molten Infuscolium
+tile.molten.mithril.name=Molten Mithril
+tile.molten.orichalcum.name=Molten Orichalcum
+tile.molten.oureclase.name=Molten Oureclase
+tile.molten.prometheum.name=Molten Prometheum
+tile.molten.quicksilver.name=Molten Quicksilver
+tile.molten.rubracium.name=Molten Rubracium
+tile.molten.tartarite.name=Molten Tartarite
+
+tile.molten.desichalkos.name=Molten Desichalkos
+tile.molten.eximite.name=Molten Eximite
+tile.molten.meutoite.name=Molten Meutoite
+
+tile.molten.refined.glowstone.name=Molten Refined Glowstone
+tile.molten.osmium.name=Molten Osmium
+
+tile.molten.pokefennium.name=Molten Pokefennium
+tile.molten.fairy.name=Molten Fairy
+
+material.angmanllen=Angamallen
+material.damascus.steel=Damascus Steel
+material.hepatizon=Hepatizon
+
+material.brass=Brass
+material.electrum=Electrum
+material.platinum=Platinum
+material.silver=Silver
+
+material.amordrine=Amordrine
+material.ceruclase=Ceruclase
+material.ignatius=Ignatius
+material.inolashite=Inolashite
+material.kalendrite=Kalendrite
+material.midasium=Midasium
+material.sanguinite=Sanguinite
+material.shadow.iron=Shadow Iron
+material.shadow.steel=Shadow Steel
+material.vulcanite=Vulcanite
+material.vyroxeres=Vyroxeres
+
+material.adamantine=Adamantine
+material.astral.silver=Astral Silver
+material.atlarus=Atlarus
+material.black.steel=Black Steel
+material.carmot=Carmot
+material.celenegil=Celenegil
+material.deep.iron=Deep Iron
+material.haderoth=Haderoth
+material.mithril=Mithril
+material.orichalcum=Orichalcum
+material.oureclase=Oureclase
+material.prometheum=Prometheum
+material.quicksilver=Quicksilver
+material.tartarite=Tartarite
+
+material.desichalkos=Desichalkos
+material.eximite=Eximite
+
+material.bloodwood=Bloodwood
+material.darkwood=Darkwood
+material.fusewood=Fusewood
+material.ghostwood=Ghostwood
+material.nether.quartz=Nether Quartz
+
+material.refined.glowstone=Refined Glowstone
+material.osmium=Osmium
+
+material.pokefennium=Pokefennium
+material.fairy=Fairy
+
+material.certus.quartz=Certus Quartz
+
+material.amethyst=Amethyst
+
+part.arrowhead=@material@ Arrowhead
+part.axe.head=@material@ Axe Head
+part.battle.sign=@material@ Battle Sign
+part.binding=@material@ Binding
+part.chisel.head=@material@ Chisel Head
+part.chunk=@material@ Chunk
+part.crossbar=@material@ Crossbar
+part.excavator.head=@material@ Excavator Head
+part.frypan.head=@material@ Pan Head
+part.full.guard=@material@ Full Guard
+part.hammer.head=@material@ Hammer Head
+part.knife.blade=@material@ Knife Blade
+part.large.guard=@material@ Large Guard
+part.large.sword.blade=@material@ Large Sword Blade
+part.largeplate=@material@ Large Plate
+part.lumberaxe.head=@material@ Broad Axe Head
+part.medium.guard=@material@ Medium Guard
+part.pickaxe.head=@material@ Pickaxe Head
+part.scythe.head=@material@ Scythe Head
+part.shovel.head=@material@ Shovel Head
+part.sword.blade=@material@ Sword Blade
+part.toolrod=@material@ Tool Rod
+part.toughbind=@material@ Tough Binding
+part.toughrod=@material@ Tough Rod
+
+tile.fairy.block.name=Fairy Block
+tile.pokefennium.block.name=Pokefennium Block
+
+item.fairy.ingot.name=Fairy Ingot
+item.pokefennium.ingot.name=Pokefennium Ingot
