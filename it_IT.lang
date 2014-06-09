@@ -42,7 +42,7 @@ fluid.molten.desichalkos=Desichalkos Fuso
 fluid.molten.eximite=Eximite Fuso
 fluid.molten.meutoite=Meutoite Fuso
 
-fluid.molten.refined.glowstone=Pietraluce Ridefinito Fuso
+fluid.molten.refined.glowstone=Pietraluce Raffinato Fuso
 fluid.molten.osmium=Osmio Fuso
 
 fluid.molten.pokefennium=Pokefennio Fuso
@@ -92,7 +92,7 @@ tile.molten.desichalkos=Desichalkos Fuso
 tile.molten.eximite=Eximite Fuso
 tile.molten.meutoite=Meutoite Fuso
 
-tile.molten.refined.glowstone=Pietraluce Ridefinito Fuso
+tile.molten.refined.glowstone=Pietraluce Raffinato Fuso
 tile.molten.osmium=Osmio Fuso
 
 tile.molten.pokefennium=Pokefennio Fuso
@@ -143,7 +143,7 @@ material.fusewood=Legno Esplosivo
 material.ghostwood=Legno Fantasma
 material.nether.quartz=Quarzo
 
-material.refined.glowstone=Pietraluce Ridefinito
+material.refined.glowstone=Pietraluce Raffinato
 material.osmium=Osmio
 
 material.pokefennium=Pokefennio
