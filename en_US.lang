@@ -51,57 +51,6 @@ fluid.molten.osmium=Molten Osmium
 fluid.molten.pokefennium=Molten Pokefennium
 fluid.molten.fairy=Molten Fairy
 
-# Fluids (for other mods that add fluid storage and WAILA)
-molten.angmallen=Molten Angmallen
-molten.damascus.steel=Molten Damascus Steel
-molten.hepatizon=Molten Hepatizon
-molten.manganese=Molten Manganese
-
-molten.brass=Molten Brass
-molten.platinum=Molten Platinum
-molten.zinc=Molten Zinc
-
-molten.amordrine=Molten Amordrine
-molten.alduorite=Molten Alduorite
-molten.ceruclase=Molten Ceruclase
-molten.ignatius=Molten Ignatius
-molten.inolashite=Molten Inolashite
-molten.kalendrite=Molten Kalendrite
-molten.lemurite=Molten Lemurite
-molten.midasium=Molten Midasium
-molten.sanguinite=Molten Sanguinite
-molten.shadow.iron=Molten Shadow Iron
-molten.shadow.steel=Molten Shadow Steel
-molten.vulcanite=Molten Vulcanite
-molten.vyroxeres=Molten Vyroxeres
-
-molten.adamantine=Molten Adamantine
-molten.astral.silver=Molten Astral Silver
-molten.atlarus=Molten Atlarus
-molten.black.steel=Molten Black Steel
-molten.carmot=Molten Carmot
-molten.celenegil=Molten Celenegil
-molten.deep.iron=Molten Deep Iron
-molten.haderoth=Molten Haderoth
-molten.infuscolium=Molten Infuscolium
-molten.mithril=Molten Mithril
-molten.orichalcum=Molten Orichalcum
-molten.oureclase=Molten Oureclase
-molten.prometheum=Molten Prometheum
-molten.quicksilver=Molten Quicksilver
-molten.rubracium=Molten Rubracium
-molten.tartarite=Molten Tartarite
-
-molten.desichalkos=Molten Desichalkos
-molten.eximite=Molten Eximite
-molten.meutoite=Molten Meutoite
-
-molten.refined.glowstone=Molten Refined Glowstone
-molten.osmium=Molten Osmium
-
-molten.pokefennium=Molten Pokefennium
-molten.fairy=Molten Fairy
-
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.angmallen.name=Molten Angmallen
 tile.molten.damascus.steel.name=Molten Damascus Steel
