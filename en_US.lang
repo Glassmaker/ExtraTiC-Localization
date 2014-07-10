@@ -1,3 +1,6 @@
+#English localization for ExtraTic
+
+# Fluids (for smelteries)
 fluid.molten.angmallen=Molten Angmallen
 fluid.molten.damascus.steel=Molten Damascus Steel
 fluid.molten.hepatizon=Molten Hepatizon
@@ -48,6 +51,7 @@ fluid.molten.osmium=Molten Osmium
 fluid.molten.pokefennium=Molten Pokefennium
 fluid.molten.fairy=Molten Fairy
 
+# Fluids (for NEI and the fluid blocks in the world)
 tile.molten.angmallen.name=Molten Angmallen
 tile.molten.damascus.steel.name=Molten Damascus Steel
 tile.molten.hepatizon.name=Molten Hepatizon
@@ -98,6 +102,58 @@ tile.molten.osmium.name=Molten Osmium
 tile.molten.pokefennium.name=Molten Pokefennium
 tile.molten.fairy.name=Molten Fairy
 
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.angmallen.name=Molten Angmallen Bucket
+item.extratic.bucket.filled.molten.damascus.steel.name=Molten Damascus Steel Bucket
+item.extratic.bucket.filled.molten.hepatizon.name=Molten Hepatizon Bucket
+item.extratic.bucket.filled.molten.manganese.name=Molten Manganese Bucket
+
+item.extratic.bucket.filled.molten.brass.name=Molten Brass Bucket
+item.extratic.bucket.filled.molten.platinum.name=Molten Platinum Bucket
+item.extratic.bucket.filled.molten.zinc.name=Molten Zinc Bucket
+
+item.extratic.bucket.filled.molten.amordrine.name=Molten Amordrine Bucket
+item.extratic.bucket.filled.molten.alduorite.name=Molten Alduorite Bucket
+item.extratic.bucket.filled.molten.ceruclase.name=Molten Ceruclase Bucket
+item.extratic.bucket.filled.molten.ignatius.name=Molten Ignatius Bucket
+item.extratic.bucket.filled.molten.inolashite.name=Molten Inolashite Bucket
+item.extratic.bucket.filled.molten.kalendrite.name=Molten Kalendrite Bucket
+item.extratic.bucket.filled.molten.lemurite.name=Molten Lemurite Bucket
+item.extratic.bucket.filled.molten.midasium.name=Molten Midasium Bucket
+item.extratic.bucket.filled.molten.sanguinite.name=Molten Sanguinite Bucket
+item.extratic.bucket.filled.molten.shadow.iron.name=Molten Shadow Iron Bucket
+item.extratic.bucket.filled.molten.shadow.steel.name=Molten Shadow Steel Bucket
+item.extratic.bucket.filled.molten.vulcanite.name=Molten Vulcanite Bucket
+item.extratic.bucket.filled.molten.vyroxeres.name=Molten Vyroxeres Bucket
+
+item.extratic.bucket.filled.molten.adamantine.name=Molten Adamantine Bucket
+item.extratic.bucket.filled.molten.astral.silver.name=Molten Astral Silver Bucket
+item.extratic.bucket.filled.molten.atlarus.name=Molten Atlarus Bucket
+item.extratic.bucket.filled.molten.black.steel.name=Molten Black Steel Bucket
+item.extratic.bucket.filled.molten.carmot.name=Molten Carmot Bucket
+item.extratic.bucket.filled.molten.celenegil.name=Molten Celenegil Bucket
+item.extratic.bucket.filled.molten.deep.iron.name=Molten Deep Iron Bucket
+item.extratic.bucket.filled.molten.haderoth.name=Molten Haderoth Bucket
+item.extratic.bucket.filled.molten.infuscolium.name=Molten Infuscolium Bucket
+item.extratic.bucket.filled.molten.mithril.name=Molten Mithril Bucket
+item.extratic.bucket.filled.molten.orichalcum.name=Molten Orichalcum Bucket
+item.extratic.bucket.filled.molten.oureclase.name=Molten Oureclase Bucket
+item.extratic.bucket.filled.molten.prometheum.name=Molten Prometheum Bucket
+item.extratic.bucket.filled.molten.quicksilver.name=Molten Quicksilver Bucket
+item.extratic.bucket.filled.molten.rubracium.name=Molten Rubracium Bucket
+item.extratic.bucket.filled.molten.tartarite.name=Molten Tartarite Bucket
+
+item.extratic.bucket.filled.molten.desichalkos.name=Molten Desichalkos Bucket
+item.extratic.bucket.filled.molten.eximite.name=Molten Eximite Bucket
+item.extratic.bucket.filled.molten.meutoite.name=Molten Meutoite Bucket
+
+item.extratic.bucket.filled.molten.refined.glowstone.name=Molten Refined Glowstone Bucket
+item.extratic.bucket.filled.molten.osmium.name=Molten Osmium Bucket
+
+item.extratic.bucket.filled.molten.pokefennium.name=Molten Pokefennium Bucket
+item.extratic.bucket.filled.molten.fairy.name=Molten Fairy Bucket
+
+# Materials (for toolparts)
 material.angmanllen=Angmallen
 material.damascus.steel=Damascus Steel
 material.hepatizon=Hepatizon
@@ -153,6 +209,7 @@ material.certus.quartz=Certus Quartz
 
 material.amethyst=Amethyst
 
+# Toolparts
 part.arrowhead=@material@ Arrowhead
 part.axe.head=@material@ Axe Head
 part.battle.sign=@material@ Battle Sign
@@ -178,6 +235,7 @@ part.toolrod=@material@ Tool Rod
 part.toughbind=@material@ Tough Binding
 part.toughrod=@material@ Tough Rod
 
+# Blocks and ingots
 tile.fairy.block.name=Fairy Block
 tile.pokefennium.block.name=Pokefennium Block
 

@@ -1,3 +1,6 @@
+#Italian localization for ExtraTic
+
+# Fluids (for smelteries)
 fluid.molten.angmallen=Angmallen fuso
 fluid.molten.damascus.steel=Acciaio damasco fuso
 fluid.molten.hepatizon=Hepatizon fuso
@@ -48,136 +51,191 @@ fluid.molten.osmium=Osmio fuso
 fluid.molten.pokefennium=Pokefennio fuso
 fluid.molten.fairy=Fatato fuso
 
-tile.molten.angmallen=Angmallen fuso
-tile.molten.damascus.steel=Acciaio damasco fuso
-tile.molten.hepatizon=Hepatizon fuso
-tile.molten.manganese=Manganese fuso
+# Fluids (for NEI and the fluid blocks in the world)
+tile.molten.angmallen.name=Angmallen fuso
+tile.molten.damascus.steel.name=Acciaio damasco fuso
+tile.molten.hepatizon.name=Hepatizon fuso
+tile.molten.manganese.name=Manganese fuso
 
-tile.molten.brass=Ottone fuso
-tile.molten.platinum=Platino fuso
-tile.molten.zinc=Zinco fuso
+tile.molten.brass.name=Ottone fuso
+tile.molten.platinum.name=Platino fuso
+tile.molten.zinc.name=Zinco fuso
 
-tile.molten.amordrine=Amordrine fuso
-tile.molten.alduorite=Alduorite fuso
-tile.molten.ceruclase=Ceruclase fuso
-tile.molten.ignatius=Ignatius fuso
-tile.molten.inolashite=Inolashite fuso
-tile.molten.kalendrite=Kalendrite fuso
-tile.molten.lemurite=Lemurite fuso
-tile.molten.midasium=Midasium fuso
-tile.molten.sanguinite=Sanguinite fuso
-tile.molten.shadow.iron=Ferro spettrale fuso
-tile.molten.shadow.steel=Acciaio spettrale fuso
-tile.molten.vulcanite=Vulcanite fuso
-tile.molten.vyroxeres=Vyroxeres fuso
+tile.molten.amordrine.name=Amordrine fuso
+tile.molten.alduorite.name=Alduorite fuso
+tile.molten.ceruclase.name=Ceruclase fuso
+tile.molten.ignatius.name=Ignatius fuso
+tile.molten.inolashite.name=Inolashite fuso
+tile.molten.kalendrite.name=Kalendrite fuso
+tile.molten.lemurite.name=Lemurite fuso
+tile.molten.midasium.name=Midasium fuso
+tile.molten.sanguinite.name=Sanguinite fuso
+tile.molten.shadow.iron.name=Ferro spettrale fuso
+tile.molten.shadow.steel.name=Acciaio spettrale fuso
+tile.molten.vulcanite.name=Vulcanite fuso
+tile.molten.vyroxeres.name=Vyroxeres fuso
 
-tile.molten.adamantine=Adamantine fuso
-tile.molten.astral.silver=Argento astrale fuso
-tile.molten.atlarus=Atlarus fuso
-tile.molten.black.steel=Acciaio nero fuso
-tile.molten.carmot=Carmot fuso
-tile.molten.celenegil=Celenegil fuso
-tile.molten.deep.iron=Ferro profondo fuso
-tile.molten.haderoth=Haderoth fuso
-tile.molten.infuscolium=Infuscolium fuso
-tile.molten.mithril=Mithril fuso
-tile.molten.orichalcum=Orichalcum fuso
-tile.molten.oureclase=Oureclase fuso
-tile.molten.prometheum=Prometheum fuso
-tile.molten.quicksilver=Mercurio fuso
-tile.molten.rubracium=Rubracium fuso
-tile.molten.tartarite=Tartarite fuso
+tile.molten.adamantine.name=Adamantine fuso
+tile.molten.astral.silver.name=Argento astrale fuso
+tile.molten.atlarus.name=Atlarus fuso
+tile.molten.black.steel.name=Acciaio nero fuso
+tile.molten.carmot.name=Carmot fuso
+tile.molten.celenegil.name=Celenegil fuso
+tile.molten.deep.iron.name=Ferro profondo fuso
+tile.molten.haderoth.name=Haderoth fuso
+tile.molten.infuscolium.name=Infuscolium fuso
+tile.molten.mithril.name=Mithril fuso
+tile.molten.orichalcum.name=Orichalcum fuso
+tile.molten.oureclase.name=Oureclase fuso
+tile.molten.prometheum.name=Prometheum fuso
+tile.molten.quicksilver.name=Mercurio fuso
+tile.molten.rubracium.name=Rubracium fuso
+tile.molten.tartarite.name=Tartarite fuso
 
-tile.molten.desichalkos=Desichalkos fuso
-tile.molten.eximite=Eximite fuso
-tile.molten.meutoite=Meutoite fuso
+tile.molten.desichalkos.name=Desichalkos fuso
+tile.molten.eximite.name=Eximite fuso
+tile.molten.meutoite.name=Meutoite fuso
 
-tile.molten.refined.glowstone=Luminite raffinato fuso
-tile.molten.osmium=Osmio fuso
+tile.molten.refined.glowstone.name=Luminite raffinato fuso
+tile.molten.osmium.name=Osmio fuso
 
-tile.molten.pokefennium=Pokefennio fuso
-tile.molten.fairy=Fatato fuso
+tile.molten.pokefennium.name=Pokefennio fuso
+tile.molten.fairy.name=Fatato fuso
 
-material.angmanllen=Angamallen
-material.damascus.steel=Acciaio damasco
-material.hepatizon=Hepatizon
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.angmallen.name=Secchio di angmallen fuso
+item.extratic.bucket.filled.molten.damascus.steel.name=Secchio di acciaio damasco fuso
+item.extratic.bucket.filled.molten.hepatizon.name=Secchio di hepatizon fuso
+item.extratic.bucket.filled.molten.manganese.name=Secchio di manganese fuso
 
-material.brass=Ottono
-material.electrum=Electro
-material.platinum=Platino
-material.silver=Argento
+item.extratic.bucket.filled.molten.brass.name=Secchio di ottone fuso
+item.extratic.bucket.filled.molten.platinum.name=Secchio di platino fuso
+item.extratic.bucket.filled.molten.zinc.name=Secchio di zinco fuso
 
-material.amordrine=Amordrine
-material.ceruclase=Ceruclase
-material.ignatius=Ignatius
-material.inolashite=Inolashite
-material.kalendrite=Kalendrite
-material.midasium=Midasium
-material.sanguinite=Sanguinite
-material.shadow.iron=Ferro spettrale
-material.shadow.steel=Acciaio spettrale
-material.vulcanite=Vulcanite
-material.vyroxeres=Vyroxeres
+item.extratic.bucket.filled.molten.amordrine.name=Secchio di amordrine fuso
+item.extratic.bucket.filled.molten.alduorite.name=Secchio di alduorite fuso
+item.extratic.bucket.filled.molten.ceruclase.name=Secchio di ceruclase fuso
+item.extratic.bucket.filled.molten.ignatius.name=Secchio di ignatius fuso
+item.extratic.bucket.filled.molten.inolashite.name=Secchio di inolashite fuso
+item.extratic.bucket.filled.molten.kalendrite.name=Secchio di kalendrite fuso
+item.extratic.bucket.filled.molten.lemurite.name=Secchio di lemurite fuso
+item.extratic.bucket.filled.molten.midasium.name=Secchio di midasium fuso
+item.extratic.bucket.filled.molten.sanguinite.name=Secchio di sanguinite fuso
+item.extratic.bucket.filled.molten.shadow.iron.name=Secchio di ferro spettrale fuso
+item.extratic.bucket.filled.molten.shadow.steel.name=Secchio di acciaio spettrale fuso
+item.extratic.bucket.filled.molten.vulcanite.name=Secchio di vulcanite fuso
+item.extratic.bucket.filled.molten.vyroxeres.name=Secchio di vyroxeres fuso
 
-material.adamantine=Adamantine
-material.astral.silver=Argento astrale
-material.atlarus=Atarus
-material.black.steel=Acciaio nero
-material.carmot=Carmot
-material.celenegil=Celengil
-material.deep.iron=Ferro profondo
-material.haderoth=Haderoth
-material.mithril=Mithril
-material.orichalcum=Orichalcum
-material.oureclase=Oureclase
-material.prometheum=Prometheum
-material.quicksilver=Mercurio
-material.tartarite=Tartarite
+item.extratic.bucket.filled.molten.adamantine.name=Secchio di adamantine fuso
+item.extratic.bucket.filled.molten.astral.silver.name=Secchio di argento astrale fuso
+item.extratic.bucket.filled.molten.atlarus.name=Secchio di atlarus fuso
+item.extratic.bucket.filled.molten.black.steel.name=Secchio di acciaio nero fuso
+item.extratic.bucket.filled.molten.carmot.name=Secchio di carmot fuso
+item.extratic.bucket.filled.molten.celenegil.name=Secchio di celenegil fuso
+item.extratic.bucket.filled.molten.deep.iron.name=Secchio di ferro profondo fuso
+item.extratic.bucket.filled.molten.haderoth.name=Secchio di haderoth fuso
+item.extratic.bucket.filled.molten.infuscolium.name=Secchio di infuscolium fuso
+item.extratic.bucket.filled.molten.mithril.name=Secchio di mithril fuso
+item.extratic.bucket.filled.molten.orichalcum.name=Secchio di orichalcum fuso
+item.extratic.bucket.filled.molten.oureclase.name=Secchio di oureclase fuso
+item.extratic.bucket.filled.molten.prometheum.name=Secchio di prometheum fuso
+item.extratic.bucket.filled.molten.quicksilver.name=Secchio di mercurio fuso
+item.extratic.bucket.filled.molten.rubracium.name=Secchio di rubracium fuso
+item.extratic.bucket.filled.molten.tartarite.name=Secchio di tartarite fuso
 
-material.desichalkos=Desichalkos
-material.eximite=Eximite
+item.extratic.bucket.filled.molten.desichalkos.name=Secchio di desichalkos fuso
+item.extratic.bucket.filled.molten.eximite.name=Secchio di eximite fuso
+item.extratic.bucket.filled.molten.meutoite.name=Secchio di meutoite fuso
 
-material.bloodwood=Legno insanguinato
-material.darkwood=Legno oscuro
-material.fusewood=Legno esplosivo
-material.ghostwood=Legno fantasma
-material.nether.quartz=Quarzo
+item.extratic.bucket.filled.molten.refined.glowstone.name=Secchio di luminite raffinato fuso
+item.extratic.bucket.filled.molten.osmium.name=Secchio di osmio fuso
 
-material.refined.glowstone=Luminite raffinato
-material.osmium=Osmio
+item.extratic.bucket.filled.molten.pokefennium.name=Secchio di pokefennio fuso
+item.extratic.bucket.filled.molten.fairy.name=Secchio di fatato fuso
 
-material.pokefennium=Pokefennio
-material.fairy=Fatato
+# Materials (for toolparts)
+material.angmanllen=d'angamallen
+material.damascus.steel=d'acciaio damasco
+material.hepatizon=di hepatizon
 
-material.certus.quartz=Quarzo certus
+material.brass=d'ottone
+material.electrum=di electro
+material.platinum=di platino
+material.silver=d'argento
 
-material.amethyst=Ametista
+material.amordrine=d'amordrine
+material.ceruclase=di ceruclase
+material.ignatius=di ignatius
+material.inolashite=di inolashite
+material.kalendrite=di kalendrite
+material.midasium=di midasium
+material.sanguinite=di sanguinite
+material.shadow.iron=di ferro spettrale
+material.shadow.steel=d'acciaio spettrale
+material.vulcanite=di vulcanite
+material.vyroxeres=di vyroxeres
 
-part.arrowhead=Testa di freccia di @material@
-part.axe.head=Testa d'ascia di @material@
-part.battle.sign=Testa di cartello di @material@
-part.binding=Legatura di @material@
-part.chisel.head=Testa di cesellatore di @material@
-part.chunk=Frammento di @material@
-part.crossbar=Guardia traversa di @material@
-part.excavator.head=Testa di scavatore  di @material@
-part.frypan.head=Padella di @material@
-part.full.guard=Guardia piena di @material@
-part.hammer.head=Testa di martello di @material@
-part.knife.blade=Lama di coltello di @material@
-part.large.guard=Guardia larga di @material@
-part.large.sword.blade=Lama di spada grande di @material@
-part.largeplate=Piastra grande di @material@
-part.lumberaxe.head=Testa d'ascia larga di @material@
-part.medium.guard=Guardia media di @material@
-part.pickaxe.head=Testa di piccone di @material@
-part.scythe.head=Testa di falce di @material@
-part.shovel.head=Testa di pala di @material@
-part.sword.blade=Lama di spada di @material@
-part.toolrod=Manico di @material@
-part.toughbind=Legatura resistente di @material@
-part.toughrod=Manico resistente di @material@
+material.adamantine=di adamantine
+material.astral.silver=d'argento astrale
+material.atlarus=di atarus
+material.black.steel=d'acciaio nero
+material.carmot=di carmot
+material.celenegil=di celengil
+material.deep.iron=di ferro profondo
+material.haderoth=di haderoth
+material.mithril=di mithril
+material.orichalcum=di orichalcum
+material.oureclase=di oureclase
+material.prometheum=di prometheum
+material.quicksilver=di mercurio
+material.tartarite=di tartarite
 
+material.desichalkos=di desichalkos
+material.eximite=di eximite
+
+material.bloodwood=di legno insanguinato
+material.darkwood=di legno oscuro
+material.fusewood=di legno esplosivo
+material.ghostwood=di legno fantasma
+material.nether.quartz=di quarzo
+
+material.refined.glowstone=di luminite raffinato
+material.osmium=di osmio
+
+material.pokefennium=di pokefennio
+material.fairy=di fatato
+
+material.certus.quartz=di quarzo certus
+
+material.amethyst=di ametista
+
+# Toolparts
+part.arrowhead=Testa di freccia @material@
+part.axe.head=Testa d'ascia @material@
+part.battle.sign=Testa di cartello @material@
+part.binding=Legatura @material@
+part.chisel.head=Testa di cesellatore @material@
+part.chunk=Frammento @material@
+part.crossbar=Guardia traversa @material@
+part.excavator.head=Testa di scavatore @material@
+part.frypan.head=Padella @material@
+part.full.guard=Guardia piena @material@
+part.hammer.head=Testa di martello @material@
+part.knife.blade=Lama di coltello @material@
+part.large.guard=Guardia larga @material@
+part.large.sword.blade=Lama di spada grande @material@
+part.largeplate=Piastra grande @material@
+part.lumberaxe.head=Testa d'ascia larga @material@
+part.medium.guard=Guardia media @material@
+part.pickaxe.head=Testa di piccone @material@
+part.scythe.head=Testa di falce @material@
+part.shovel.head=Testa di pala @material@
+part.sword.blade=Lama di spada @material@
+part.toolrod=Manico @material@
+part.toughbind=Legatura resistente @material@
+part.toughrod=Manico resistente @material@
+
+# Blocks and ingots
 tile.fairy.block.name=Blocco di fatato
 tile.pokefennium.block.name=Blocco di pokefennio
 
