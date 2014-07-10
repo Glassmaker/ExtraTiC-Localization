@@ -51,57 +51,6 @@ fluid.molten.osmium=Osmio fuso
 fluid.molten.pokefennium=Pokefennio fuso
 fluid.molten.fairy=Fatato fuso
 
-# Fluids (for other mods that add fluid storage and WAILA)
-molten.angmallen=Angmallen fuso
-molten.damascus.steel=Acciaio damasco fuso
-molten.hepatizon=Hepatizon fuso
-molten.manganese=Manganese fuso
-
-molten.brass=Ottone fuso
-molten.platinum=Platino fuso
-molten.zinc=Zinco fuso
-
-molten.amordrine=Amordrine fuso
-molten.alduorite=Alduorite fuso
-molten.ceruclase=Ceruclase fuso
-molten.ignatius=Ignatius fuso
-molten.inolashite=Inolashite fuso
-molten.kalendrite=Kalendrite fuso
-molten.lemurite=Lemurite fuso
-molten.midasium=Midasium fuso
-molten.sanguinite=Sanguinite fuso
-molten.shadow.iron=Ferro spettrale fuso
-molten.shadow.steel=Acciaio spettrale fuso
-molten.vulcanite=Vulcanite fuso
-molten.vyroxeres=Vyroxeres fuso
-
-molten.adamantine=Adamantine fuso
-molten.astral.silver=Argento astrale fuso
-molten.atlarus=Atlarus fuso
-molten.black.steel=Acciaio nero fuso
-molten.carmot=Carmot fuso
-molten.celenegil=Celenegil fuso
-molten.deep.iron=Ferro profondo fuso
-molten.haderoth=Haderoth fuso
-molten.infuscolium=Infuscolium fuso
-molten.mithril=Mithril fuso
-molten.orichalcum=Orichalcum fuso
-molten.oureclase=Oureclase fuso
-molten.prometheum=Prometheum fuso
-molten.quicksilver=Mercurio fuso
-molten.rubracium=Rubracium fuso
-molten.tartarite=Tartarite fuso
-
-molten.desichalkos=Desichalkos fuso
-molten.eximite=Eximite fuso
-molten.meutoite=Meutoite fuso
-
-molten.refined.glowstone=Luminite raffinato fuso
-molten.osmium=Osmio fuso
-
-molten.pokefennium=Pokefennio fuso
-molten.fairy=Fatato fuso
-
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.angmallen.name=Angmallen fuso
 tile.molten.damascus.steel.name=Acciaio damasco fuso
