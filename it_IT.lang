@@ -104,7 +104,7 @@ tile.molten.fairy.name=Fatato fuso
 
 # Buckets of molten metals
 item.extratic.bucket.filled.molten.angmallen.name=Secchio di angmallen fuso
-item.extratic.bucket.filled.molten.damascus.steel.name=Secchio di acciaio damasco fuso
+item.extratic.bucket.filled.molten.damascus.steel.name=Secchio d'acciaio damasco fuso
 item.extratic.bucket.filled.molten.hepatizon.name=Secchio di hepatizon fuso
 item.extratic.bucket.filled.molten.manganese.name=Secchio di manganese fuso
 
@@ -122,14 +122,14 @@ item.extratic.bucket.filled.molten.lemurite.name=Secchio di lemurite fuso
 item.extratic.bucket.filled.molten.midasium.name=Secchio di midasium fuso
 item.extratic.bucket.filled.molten.sanguinite.name=Secchio di sanguinite fuso
 item.extratic.bucket.filled.molten.shadow.iron.name=Secchio di ferro spettrale fuso
-item.extratic.bucket.filled.molten.shadow.steel.name=Secchio di acciaio spettrale fuso
+item.extratic.bucket.filled.molten.shadow.steel.name=Secchio d'acciaio spettrale fuso
 item.extratic.bucket.filled.molten.vulcanite.name=Secchio di vulcanite fuso
 item.extratic.bucket.filled.molten.vyroxeres.name=Secchio di vyroxeres fuso
 
 item.extratic.bucket.filled.molten.adamantine.name=Secchio di adamantine fuso
-item.extratic.bucket.filled.molten.astral.silver.name=Secchio di argento astrale fuso
+item.extratic.bucket.filled.molten.astral.silver.name=Secchio d'argento astrale fuso
 item.extratic.bucket.filled.molten.atlarus.name=Secchio di atlarus fuso
-item.extratic.bucket.filled.molten.black.steel.name=Secchio di acciaio nero fuso
+item.extratic.bucket.filled.molten.black.steel.name=Secchio d'acciaio nero fuso
 item.extratic.bucket.filled.molten.carmot.name=Secchio di carmot fuso
 item.extratic.bucket.filled.molten.celenegil.name=Secchio di celenegil fuso
 item.extratic.bucket.filled.molten.deep.iron.name=Secchio di ferro profondo fuso
@@ -241,3 +241,4 @@ tile.pokefennium.block.name=Blocco di pokefennio
 
 item.fairy.ingot.name=Lingotto di fatato
 item.pokefennium.ingot.name=Lingotto di pokefennio
+
