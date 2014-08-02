@@ -1,3 +1,6 @@
+#Russian localization for ExtraTic
+
+# Fluids (for smelteries)
 fluid.molten.angmallen=Расплавленный ангмаллен
 fluid.molten.damascus.steel=Расплавленная дамасская сталь
 fluid.molten.hepatizon=Расплавленный гепатизон
@@ -48,6 +51,7 @@ fluid.molten.osmium=Расплавленный осмий
 fluid.molten.pokefennium=Расплавленный покфениум
 fluid.molten.fairy=Расплавленный волшебный металл
 
+# Fluids (for NEI and the fluid blocks in the world)
 tile.molten.angmallen.name.name=Расплавленный ангмаллен
 tile.molten.damascus.steel.name=Расплавленная дамасская сталь
 tile.molten.hepatizon.name=Расплавленный гепатизон
@@ -98,6 +102,58 @@ tile.molten.osmium.name=Расплавленный осмий
 tile.molten.pokefennium.name=Расплавленный покфениум
 tile.molten.fairy.name=Расплавленный волшебный металл
 
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.angmallen.name=Ведро расплавленного ангмаллена
+item.extratic.bucket.filled.molten.damascus.steel.name=Ведро расплавленной дамасской стали
+item.extratic.bucket.filled.molten.hepatizon.name=Ведро расплавленного гепатизона
+item.extratic.bucket.filled.molten.manganese.name=Ведро расплавленного марганца
+
+item.extratic.bucket.filled.molten.brass.name=Ведро расплавленной латуни
+item.extratic.bucket.filled.molten.platinum.name=Ведро расплавленной платины
+item.extratic.bucket.filled.molten.zinc.name=Ведро расплавленного цинка
+
+item.extratic.bucket.filled.amordrine.molten.name=Ведро расплавленного амордрина
+item.extratic.bucket.filled.alduorite.molten.name=Ведро расплавленного алдурита
+item.extratic.bucket.filled.ceruclase.molten.name=Ведро расплавленного церукласса
+item.extratic.bucket.filled.ignatius.molten.name=Ведро расплавленной игнатиевой руды
+item.extratic.bucket.filled.inolashite.molten.name=Ведро расплавленного инолашита
+item.extratic.bucket.filled.kalendrite.molten.name=Ведро расплавленного календрита
+item.extratic.bucket.filled.lemurite.molten.name=Ведро расплавленного лемурита
+item.extratic.bucket.filled.midasium.molten.name=Ведро расплавленного мидасия
+item.extratic.bucket.filled.sanguinite.molten.name=Ведро расплавленного сангвинита
+item.extratic.bucket.filled.shadow.iron.molten.name=Ведро расплавленного тёмного железа
+item.extratic.bucket.filled.shadow.steel.molten.name=Ведро расплавленной тёмной стали
+item.extratic.bucket.filled.vulcanite.molten.name=Ведро расплавленного вулканита
+item.extratic.bucket.filled.vyroxeres.molten.name=Ведро расплавленного вироксера
+
+item.extratic.bucket.filled.adamantine.molten.name=Ведро расплавленного адамантина
+item.extratic.bucket.filled.astral.silver.molten.name=Ведро расплавленного астрального серебра
+item.extratic.bucket.filled.atlarus.molten.name=Ведро расплавленного атлариса
+item.extratic.bucket.filled.black.steel.molten.name=Ведро расплавленной чёрной стали
+item.extratic.bucket.filled.carmot.molten.name=Ведро расплавленного кармота
+item.extratic.bucket.filled.celenegil.molten.name=Ведро расплавленного целенегила
+item.extratic.bucket.filled.deep.iron.molten.name=Ведро расплавленного глубинного железа
+item.extratic.bucket.filled.haderoth.molten.name=Ведро расплавленного хадерота
+item.extratic.bucket.filled.infuscolium.molten.name=Ведро расплавленного инфузкола
+item.extratic.bucket.filled.mithril.molten.name=Ведро расплавленного мифрила
+item.extratic.bucket.filled.orichalcum.molten.name=Ведро расплавленного орихалка
+item.extratic.bucket.filled.oureclase.molten.name=Ведро расплавленного ауркласса
+item.extratic.bucket.filled.prometheum.molten.name=Ведро расплавленной прометеевой руды
+item.extratic.bucket.filled.quicksilver.molten.name=Ведро расплавленной ртути
+item.extratic.bucket.filled.rubracium.molten.name=Ведро расплавленного рубракия
+item.extratic.bucket.filled.tartarite.molten.name=Ведро расплавленного тартарита
+
+item.extratic.bucket.filled.molten.desichalkos.name=Ведро расплавленного дезихалькия
+item.extratic.bucket.filled.molten.eximite.name=Ведро расплавленного эксимита
+item.extratic.bucket.filled.molten.meutoite.name=Ведро расплавленного мьютвата
+
+item.extratic.bucket.filled.molten.refined.glowstone.name=Ведро расплавленного очищенного светокамня
+item.extratic.bucket.filled.molten.osmium.name=Ведро расплавленного осмия
+
+item.extratic.bucket.filled.molten.pokefennium.name=Ведро расплавленного покфениума
+item.extratic.bucket.filled.molten.fairy.name=Ведро расплавленного волшебного металла
+
+# Materials (for toolparts)
 material.angmanllen=Ангмаллен.
 material.damascus.steel=Дамасскостальн.
 material.hepatizon=Гепатизон.
@@ -153,6 +209,7 @@ material.certus.quartz=Истиннокварц.
 
 material.amethyst=Аметистов.
 
+# Toolparts
 part.arrowhead=@material@ наконечник стрелы
 part.axe.head=@material@ обух топора
 part.battle.sign=@material@ боевая табличка
@@ -178,6 +235,7 @@ part.toolrod=@material@ стержень
 part.toughbind=@material@ прочное крепление
 part.toughrod=@material@ прочный стержень
 
+# Blocks and ingots
 tile.fairy.block.name=Волшебный блок
 tile.pokefennium.block.name=Покфениумный блок
 
