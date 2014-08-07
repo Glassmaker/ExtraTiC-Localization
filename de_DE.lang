@@ -1,0 +1,112 @@
+#German localization for ExtraTic
+# Don't take my word, everything is probably wrong! D:
+
+# Fluids (for smelteries)
+fluid.molten.refined.glowstone=Geschmolzener verfeinerter Leuchtstein
+fluid.molten.osmium=Geschmolzenes Osmium
+
+fluid.molten.pokefennium=Geschmolzenes Pokefennium
+fluid.molten.fairy=Geschmolzene Fee
+
+# Fluids (for NEI and the fluid blocks in the world)
+tile.molten.refined.glowstone.name=Geschmolzener verfeinerter Leuchtstein
+tile.molten.osmium.name=Geschmolzenes Pokefennium
+
+tile.molten.pokefennium.name=Geschmolzenes Pokefennium
+tile.molten.fairy.name=Geschmolzenes Osmium
+
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.refined.glowstone.name=Eimer mit geschmolzenem verfeinertem Leuchtstein
+item.extratic.bucket.filled.molten.osmium.name=Eimer mit geschmolzenem Osmium
+
+item.extratic.bucket.filled.molten.pokefennium.name=Eimer mit geschmolzenem Pokefennium
+item.extratic.bucket.filled.molten.fairy.name=Eimer mit geschmolzener Fee
+
+# Materials (for toolparts)
+material.angmanllen=Angmallen
+material.damascus.steel=Damaskus Stahl
+material.hepatizon=Hepatizon
+
+material.brass=Messing
+material.electrum=Elektrum
+material.platinum=Platin
+material.silver=Silber
+
+material.amordrine=Amordrin
+material.ceruclase=Ceruclase
+material.ignatius=Ignatius
+material.inolashite=Inolashit
+material.kalendrite=Kalendrit
+material.midasium=Midasium
+material.sanguinite=Sanguinit
+material.shadow.iron=Schatten Eisen
+material.shadow.steel=Schatten Stahl
+material.vulcanite=Vulkanit
+material.vyroxeres=Vyroxeres
+
+material.adamantine=Adamantin
+material.astral.silver=Astral Silber
+material.atlarus=Atlarus
+material.black.steel=Schwarzer Stahl
+material.carmot=Karmot
+material.celenegil=Celenegil
+material.deep.iron=Tiefeisen
+material.haderoth=Haderoth
+material.mithril=Mithril
+material.orichalcum=Orichalkum
+material.oureclase=Oureclase
+material.prometheum=Prometheum
+material.quicksilver=Quecksilber
+material.tartarite=Tartarit
+
+material.desichalkos=Desichalkos
+material.eximite=Eximit
+
+material.bloodwood=Blutholz
+material.darkwood=Dunkelholz
+material.fusewood=Zündholz
+material.ghostwood=Geistholz
+material.nether.quartz=Nether Quarz
+
+material.refined.glowstone=Verfeinerter Leuchtstein
+material.osmium=Osmium
+
+material.pokefennium=Pokefennium
+material.fairy=Fee
+
+material.certus.quartz=Certus Quarz
+
+material.amethyst=Amethyst
+
+# Toolparts
+part.arrowhead=@material@ene Pfeilspitze
+part.axe.head=@material@axt Kopf
+part.battle.sign=@material@ Kampf Schild
+part.binding=@material@ Bindung
+part.chisel.head=Meißelkopf aus @material@
+part.chunk=@material@ Teil
+part.crossbar=@material@ Querstange
+part.excavator.head=Kopf vom @material@ Grabungsgerät
+part.frypan.head=@material@ Pfannen kopf
+part.full.guard=Voller Schutz aus @material@
+part.hammer.head=Hammer Kopf aus @material@ 
+part.knife.blade=Messerklinge aus @material@
+part.large.guard=Großer Schutz aus @material@
+part.large.sword.blade=Große Schwertklinge aus @material@
+part.largeplate=Große @material@platte
+part.lumberaxe.head=@material@ener Breitaxt Kopf
+part.medium.guard=Mitteler Schutz aus @material@
+part.pickaxe.head=Spitzhacken Kopf aus @material@
+part.scythe.head=Sensen Kopf aus @material@
+part.shovel.head=Schaufel Kopf aus @material@
+part.sword.blade=Schwertklinge aus @material@
+part.toolrod=Werkzeug Stab aus @material@
+part.toughbind=Zähe Bindung aus @material@
+part.toughrod=Zäher Stab aus @material@
+
+# Blocks and ingots
+tile.fairy.block.name=Feen Block
+tile.pokefennium.block.name=Pokefennium Block
+
+item.fairy.ingot.name=Feen Barren
+item.pokefennium.ingot.name=Pokefennium Barren
