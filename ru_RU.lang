@@ -1,50 +1,6 @@
 #Russian localization for ExtraTic
 
 # Fluids (for smelteries)
-fluid.molten.angmallen=Расплавленный ангмаллен
-fluid.molten.damascus.steel=Расплавленная дамасская сталь
-fluid.molten.hepatizon=Расплавленный гепатизон
-fluid.molten.manganese=Расплавленный марганец
-
-fluid.molten.brass=Расплавленная латунь
-fluid.molten.platinum=Расплавленная платина
-fluid.molten.zinc=Расплавленный цинк
-
-fluid.molten.amordrine=Расплавленный амордрин
-fluid.molten.alduorite=Расплавленный алдурит
-fluid.molten.ceruclase=Расплавленный церукласс
-fluid.molten.ignatius=Расплавленная игнатиевая руда
-fluid.molten.inolashite=Расплавленный инолашит
-fluid.molten.kalendrite=Расплавленный календрит
-fluid.molten.lemurite=Расплавленный лемурит
-fluid.molten.midasium=Расплавленный мидасий
-fluid.molten.sanguinite=Расплавленный сангвинит
-fluid.molten.shadow.iron=Расплавленное тёмное железо
-fluid.molten.shadow.steel=Расплавленная тёмная сталь
-fluid.molten.vulcanite=Расплавленный вулканит
-fluid.molten.vyroxeres=Расплавленный вироксер
-
-fluid.molten.adamantine=Расплавленный адамантин
-fluid.molten.astral.silver=Расплавленное астральное серебро
-fluid.molten.atlarus=Расплавленный атларис
-fluid.molten.black.steel=Расплавленная чёрная сталь
-fluid.molten.carmot=Расплавленный кармот
-fluid.molten.celenegil=Расплавленный целенегил
-fluid.molten.deep.iron=Расплавленное глубинное железо
-fluid.molten.haderoth=Расплавленный хадерот
-fluid.molten.infuscolium=Расплавленный инфузкол
-fluid.molten.mithril=Расплавленный мифрил
-fluid.molten.orichalcum=Расплавленный орихалк
-fluid.molten.oureclase=Расплавленный ауркласс
-fluid.molten.prometheum=Расплавленная прометеевая руда
-fluid.molten.quicksilver=Расплавленная ртуть
-fluid.molten.rubracium=Расплавленный рубракий
-fluid.molten.tartarite=Расплавленный тартарит
-
-fluid.molten.desichalkos=Расплавленный дезихалький
-fluid.molten.eximite=Расплавленный эксимит
-fluid.molten.meutoite=Расплавленный мьютват
-
 fluid.molten.refined.glowstone=Расплавленный очищенный светокамень
 fluid.molten.osmium=Расплавленный осмий
 
@@ -52,50 +8,6 @@ fluid.molten.pokefennium=Расплавленный покфениум
 fluid.molten.fairy=Расплавленный волшебный металл
 
 # Fluids (for NEI and the fluid blocks in the world)
-tile.molten.angmallen.name.name=Расплавленный ангмаллен
-tile.molten.damascus.steel.name=Расплавленная дамасская сталь
-tile.molten.hepatizon.name=Расплавленный гепатизон
-tile.molten.manganese.name=Расплавленный марганец
-
-tile.molten.brass.name=Расплавленная латунь
-tile.molten.platinum.name=Расплавленная платина
-tile.molten.zinc.name=Расплавленный цинк
-
-tile.molten.amordrine.name=Расплавленный амордрин
-tile.molten.alduorite.name=Расплавленный алдурит
-tile.molten.ceruclase.name=Расплавленный церукласс
-tile.molten.ignatius.name=Расплавленная игнатиевая руда
-tile.molten.inolashite.name=Расплавленный инолашит
-tile.molten.kalendrite.name=Расплавленный календрит
-tile.molten.lemurite.name=Расплавленный лемурит
-tile.molten.midasium.name=Расплавленный мидасий
-tile.molten.sanguinite.name=Расплавленный сангвинит
-tile.molten.shadow.iron.name=Расплавленное тёмное железо
-tile.molten.shadow.steel.name=Расплавленная тёмная сталь
-tile.molten.vulcanite.name=Расплавленный вулканит
-tile.molten.vyroxeres.name=Расплавленный вироксер
-
-tile.molten.adamantine.name=Расплавленный адамантин
-tile.molten.astral.silver.name=Расплавленное астральное серебро
-tile.molten.atlarus.name=Расплавленный атларис
-tile.molten.black.steel.name=Расплавленная чёрная сталь
-tile.molten.carmot.name=Расплавленный кармот
-tile.molten.celenegil.name=Расплавленный целенегил
-tile.molten.deep.iron.name=Расплавленное глубинное железо
-tile.molten.haderoth.name=Расплавленный хадерот
-tile.molten.infuscolium.name=Расплавленный инфузкол
-tile.molten.mithril.name=Расплавленный мифрил
-tile.molten.orichalcum.name=Расплавленный орихалк
-tile.molten.oureclase.name=Расплавленный ауркласс
-tile.molten.prometheum.name=Расплавленная прометеевая руда
-tile.molten.quicksilver.name=Расплавленная ртуть
-tile.molten.rubracium.name=Расплавленный рубракий
-tile.molten.tartarite.name=Расплавленный тартарит
-
-tile.molten.desichalkos.name=Расплавленный дезихалький
-tile.molten.eximite.name=Расплавленный эксимит
-tile.molten.meutoite.name=Расплавленный мьютват
-
 tile.molten.refined.glowstone.name=Расплавленный очищенный светокамень
 tile.molten.osmium.name=Расплавленный осмий
 
@@ -103,50 +15,6 @@ tile.molten.pokefennium.name=Расплавленный покфениум
 tile.molten.fairy.name=Расплавленный волшебный металл
 
 # Buckets of molten metals
-item.extratic.bucket.filled.molten.angmallen.name=Ведро расплавленного ангмаллена
-item.extratic.bucket.filled.molten.damascus.steel.name=Ведро расплавленной дамасской стали
-item.extratic.bucket.filled.molten.hepatizon.name=Ведро расплавленного гепатизона
-item.extratic.bucket.filled.molten.manganese.name=Ведро расплавленного марганца
-
-item.extratic.bucket.filled.molten.brass.name=Ведро расплавленной латуни
-item.extratic.bucket.filled.molten.platinum.name=Ведро расплавленной платины
-item.extratic.bucket.filled.molten.zinc.name=Ведро расплавленного цинка
-
-item.extratic.bucket.filled.amordrine.molten.name=Ведро расплавленного амордрина
-item.extratic.bucket.filled.alduorite.molten.name=Ведро расплавленного алдурита
-item.extratic.bucket.filled.ceruclase.molten.name=Ведро расплавленного церукласса
-item.extratic.bucket.filled.ignatius.molten.name=Ведро расплавленной игнатиевой руды
-item.extratic.bucket.filled.inolashite.molten.name=Ведро расплавленного инолашита
-item.extratic.bucket.filled.kalendrite.molten.name=Ведро расплавленного календрита
-item.extratic.bucket.filled.lemurite.molten.name=Ведро расплавленного лемурита
-item.extratic.bucket.filled.midasium.molten.name=Ведро расплавленного мидасия
-item.extratic.bucket.filled.sanguinite.molten.name=Ведро расплавленного сангвинита
-item.extratic.bucket.filled.shadow.iron.molten.name=Ведро расплавленного тёмного железа
-item.extratic.bucket.filled.shadow.steel.molten.name=Ведро расплавленной тёмной стали
-item.extratic.bucket.filled.vulcanite.molten.name=Ведро расплавленного вулканита
-item.extratic.bucket.filled.vyroxeres.molten.name=Ведро расплавленного вироксера
-
-item.extratic.bucket.filled.adamantine.molten.name=Ведро расплавленного адамантина
-item.extratic.bucket.filled.astral.silver.molten.name=Ведро расплавленного астрального серебра
-item.extratic.bucket.filled.atlarus.molten.name=Ведро расплавленного атлариса
-item.extratic.bucket.filled.black.steel.molten.name=Ведро расплавленной чёрной стали
-item.extratic.bucket.filled.carmot.molten.name=Ведро расплавленного кармота
-item.extratic.bucket.filled.celenegil.molten.name=Ведро расплавленного целенегила
-item.extratic.bucket.filled.deep.iron.molten.name=Ведро расплавленного глубинного железа
-item.extratic.bucket.filled.haderoth.molten.name=Ведро расплавленного хадерота
-item.extratic.bucket.filled.infuscolium.molten.name=Ведро расплавленного инфузкола
-item.extratic.bucket.filled.mithril.molten.name=Ведро расплавленного мифрила
-item.extratic.bucket.filled.orichalcum.molten.name=Ведро расплавленного орихалка
-item.extratic.bucket.filled.oureclase.molten.name=Ведро расплавленного ауркласса
-item.extratic.bucket.filled.prometheum.molten.name=Ведро расплавленной прометеевой руды
-item.extratic.bucket.filled.quicksilver.molten.name=Ведро расплавленной ртути
-item.extratic.bucket.filled.rubracium.molten.name=Ведро расплавленного рубракия
-item.extratic.bucket.filled.tartarite.molten.name=Ведро расплавленного тартарита
-
-item.extratic.bucket.filled.molten.desichalkos.name=Ведро расплавленного дезихалькия
-item.extratic.bucket.filled.molten.eximite.name=Ведро расплавленного эксимита
-item.extratic.bucket.filled.molten.meutoite.name=Ведро расплавленного мьютвата
-
 item.extratic.bucket.filled.molten.refined.glowstone.name=Ведро расплавленного очищенного светокамня
 item.extratic.bucket.filled.molten.osmium.name=Ведро расплавленного осмия
 

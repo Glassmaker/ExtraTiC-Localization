@@ -1,50 +1,6 @@
 #Italian localization for ExtraTic
 
 # Fluids (for smelteries)
-fluid.molten.angmallen=Angmallen fuso
-fluid.molten.damascus.steel=Acciaio damasco fuso
-fluid.molten.hepatizon=Hepatizon fuso
-fluid.molten.manganese=Manganese fuso
-
-fluid.molten.brass=Ottone fuso
-fluid.molten.platinum=Platino fuso
-fluid.molten.zinc=Zinco fuso
-
-fluid.molten.amordrine=Amordrine fuso
-fluid.molten.alduorite=Alduorite fuso
-fluid.molten.ceruclase=Ceruclase fuso
-fluid.molten.ignatius=Ignatius fuso
-fluid.molten.inolashite=Inolashite fuso
-fluid.molten.kalendrite=Kalendrite fuso
-fluid.molten.lemurite=Lemurite fuso
-fluid.molten.midasium=Midasium fuso
-fluid.molten.sanguinite=Sanguinite fuso
-fluid.molten.shadow.iron=Ferro spettrale fuso
-fluid.molten.shadow.steel=Acciaio spettrale fuso
-fluid.molten.vulcanite=Vulcanite fuso
-fluid.molten.vyroxeres=Vyroxeres fuso
-
-fluid.molten.adamantine=Adamantine fuso
-fluid.molten.astral.silver=Argento astrale fuso
-fluid.molten.atlarus=Atlarus fuso
-fluid.molten.black.steel=Acciaio nero fuso
-fluid.molten.carmot=Carmot fuso
-fluid.molten.celenegil=Celenegil fuso
-fluid.molten.deep.iron=Ferro profondo fuso
-fluid.molten.haderoth=Haderoth fuso
-fluid.molten.infuscolium=Infuscolium fuso
-fluid.molten.mithril=Mithril fuso
-fluid.molten.orichalcum=Orichalcum fuso
-fluid.molten.oureclase=Oureclase fuso
-fluid.molten.prometheum=Prometheum fuso
-fluid.molten.quicksilver=Mercurio fuso
-fluid.molten.rubracium=Rubracium fuso
-fluid.molten.tartarite=Tartarite fuso
-
-fluid.molten.desichalkos=Desichalkos fuso
-fluid.molten.eximite=Eximite fuso
-fluid.molten.meutoite=Meutoite fuso
-
 fluid.molten.refined.glowstone=Luminite raffinato fuso
 fluid.molten.osmium=Osmio fuso
 
@@ -52,50 +8,6 @@ fluid.molten.pokefennium=Pokefennio fuso
 fluid.molten.fairy=Fatato fuso
 
 # Fluids (for NEI and the fluid blocks in the world)
-tile.molten.angmallen.name=Angmallen fuso
-tile.molten.damascus.steel.name=Acciaio damasco fuso
-tile.molten.hepatizon.name=Hepatizon fuso
-tile.molten.manganese.name=Manganese fuso
-
-tile.molten.brass.name=Ottone fuso
-tile.molten.platinum.name=Platino fuso
-tile.molten.zinc.name=Zinco fuso
-
-tile.molten.amordrine.name=Amordrine fuso
-tile.molten.alduorite.name=Alduorite fuso
-tile.molten.ceruclase.name=Ceruclase fuso
-tile.molten.ignatius.name=Ignatius fuso
-tile.molten.inolashite.name=Inolashite fuso
-tile.molten.kalendrite.name=Kalendrite fuso
-tile.molten.lemurite.name=Lemurite fuso
-tile.molten.midasium.name=Midasium fuso
-tile.molten.sanguinite.name=Sanguinite fuso
-tile.molten.shadow.iron.name=Ferro spettrale fuso
-tile.molten.shadow.steel.name=Acciaio spettrale fuso
-tile.molten.vulcanite.name=Vulcanite fuso
-tile.molten.vyroxeres.name=Vyroxeres fuso
-
-tile.molten.adamantine.name=Adamantine fuso
-tile.molten.astral.silver.name=Argento astrale fuso
-tile.molten.atlarus.name=Atlarus fuso
-tile.molten.black.steel.name=Acciaio nero fuso
-tile.molten.carmot.name=Carmot fuso
-tile.molten.celenegil.name=Celenegil fuso
-tile.molten.deep.iron.name=Ferro profondo fuso
-tile.molten.haderoth.name=Haderoth fuso
-tile.molten.infuscolium.name=Infuscolium fuso
-tile.molten.mithril.name=Mithril fuso
-tile.molten.orichalcum.name=Orichalcum fuso
-tile.molten.oureclase.name=Oureclase fuso
-tile.molten.prometheum.name=Prometheum fuso
-tile.molten.quicksilver.name=Mercurio fuso
-tile.molten.rubracium.name=Rubracium fuso
-tile.molten.tartarite.name=Tartarite fuso
-
-tile.molten.desichalkos.name=Desichalkos fuso
-tile.molten.eximite.name=Eximite fuso
-tile.molten.meutoite.name=Meutoite fuso
-
 tile.molten.refined.glowstone.name=Luminite raffinato fuso
 tile.molten.osmium.name=Osmio fuso
 
@@ -103,50 +15,6 @@ tile.molten.pokefennium.name=Pokefennio fuso
 tile.molten.fairy.name=Fatato fuso
 
 # Buckets of molten metals
-item.extratic.bucket.filled.molten.angmallen.name=Secchio di angmallen fuso
-item.extratic.bucket.filled.molten.damascus.steel.name=Secchio d'acciaio damasco fuso
-item.extratic.bucket.filled.molten.hepatizon.name=Secchio di hepatizon fuso
-item.extratic.bucket.filled.molten.manganese.name=Secchio di manganese fuso
-
-item.extratic.bucket.filled.molten.brass.name=Secchio di ottone fuso
-item.extratic.bucket.filled.molten.platinum.name=Secchio di platino fuso
-item.extratic.bucket.filled.molten.zinc.name=Secchio di zinco fuso
-
-item.extratic.bucket.filled.molten.amordrine.name=Secchio di amordrine fuso
-item.extratic.bucket.filled.molten.alduorite.name=Secchio di alduorite fuso
-item.extratic.bucket.filled.molten.ceruclase.name=Secchio di ceruclase fuso
-item.extratic.bucket.filled.molten.ignatius.name=Secchio di ignatius fuso
-item.extratic.bucket.filled.molten.inolashite.name=Secchio di inolashite fuso
-item.extratic.bucket.filled.molten.kalendrite.name=Secchio di kalendrite fuso
-item.extratic.bucket.filled.molten.lemurite.name=Secchio di lemurite fuso
-item.extratic.bucket.filled.molten.midasium.name=Secchio di midasium fuso
-item.extratic.bucket.filled.molten.sanguinite.name=Secchio di sanguinite fuso
-item.extratic.bucket.filled.molten.shadow.iron.name=Secchio di ferro spettrale fuso
-item.extratic.bucket.filled.molten.shadow.steel.name=Secchio d'acciaio spettrale fuso
-item.extratic.bucket.filled.molten.vulcanite.name=Secchio di vulcanite fuso
-item.extratic.bucket.filled.molten.vyroxeres.name=Secchio di vyroxeres fuso
-
-item.extratic.bucket.filled.molten.adamantine.name=Secchio di adamantine fuso
-item.extratic.bucket.filled.molten.astral.silver.name=Secchio d'argento astrale fuso
-item.extratic.bucket.filled.molten.atlarus.name=Secchio di atlarus fuso
-item.extratic.bucket.filled.molten.black.steel.name=Secchio d'acciaio nero fuso
-item.extratic.bucket.filled.molten.carmot.name=Secchio di carmot fuso
-item.extratic.bucket.filled.molten.celenegil.name=Secchio di celenegil fuso
-item.extratic.bucket.filled.molten.deep.iron.name=Secchio di ferro profondo fuso
-item.extratic.bucket.filled.molten.haderoth.name=Secchio di haderoth fuso
-item.extratic.bucket.filled.molten.infuscolium.name=Secchio di infuscolium fuso
-item.extratic.bucket.filled.molten.mithril.name=Secchio di mithril fuso
-item.extratic.bucket.filled.molten.orichalcum.name=Secchio di orichalcum fuso
-item.extratic.bucket.filled.molten.oureclase.name=Secchio di oureclase fuso
-item.extratic.bucket.filled.molten.prometheum.name=Secchio di prometheum fuso
-item.extratic.bucket.filled.molten.quicksilver.name=Secchio di mercurio fuso
-item.extratic.bucket.filled.molten.rubracium.name=Secchio di rubracium fuso
-item.extratic.bucket.filled.molten.tartarite.name=Secchio di tartarite fuso
-
-item.extratic.bucket.filled.molten.desichalkos.name=Secchio di desichalkos fuso
-item.extratic.bucket.filled.molten.eximite.name=Secchio di eximite fuso
-item.extratic.bucket.filled.molten.meutoite.name=Secchio di meutoite fuso
-
 item.extratic.bucket.filled.molten.refined.glowstone.name=Secchio di luminite raffinato fuso
 item.extratic.bucket.filled.molten.osmium.name=Secchio di osmio fuso
 

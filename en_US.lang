@@ -1,50 +1,6 @@
 #English localization for ExtraTic
 
 # Fluids (for smelteries)
-fluid.molten.angmallen=Molten Angmallen
-fluid.molten.damascus.steel=Molten Damascus Steel
-fluid.molten.hepatizon=Molten Hepatizon
-fluid.molten.manganese=Molten Manganese
-
-fluid.molten.brass=Molten Brass
-fluid.molten.platinum=Molten Platinum
-fluid.molten.zinc=Molten Zinc
-
-fluid.molten.amordrine=Molten Amordrine
-fluid.molten.alduorite=Molten Alduorite
-fluid.molten.ceruclase=Molten Ceruclase
-fluid.molten.ignatius=Molten Ignatius
-fluid.molten.inolashite=Molten Inolashite
-fluid.molten.kalendrite=Molten Kalendrite
-fluid.molten.lemurite=Molten Lemurite
-fluid.molten.midasium=Molten Midasium
-fluid.molten.sanguinite=Molten Sanguinite
-fluid.molten.shadow.iron=Molten Shadow Iron
-fluid.molten.shadow.steel=Molten Shadow Steel
-fluid.molten.vulcanite=Molten Vulcanite
-fluid.molten.vyroxeres=Molten Vyroxeres
-
-fluid.molten.adamantine=Molten Adamantine
-fluid.molten.astral.silver=Molten Astral Silver
-fluid.molten.atlarus=Molten Atlarus
-fluid.molten.black.steel=Molten Black Steel
-fluid.molten.carmot=Molten Carmot
-fluid.molten.celenegil=Molten Celenegil
-fluid.molten.deep.iron=Molten Deep Iron
-fluid.molten.haderoth=Molten Haderoth
-fluid.molten.infuscolium=Molten Infuscolium
-fluid.molten.mithril=Molten Mithril
-fluid.molten.orichalcum=Molten Orichalcum
-fluid.molten.oureclase=Molten Oureclase
-fluid.molten.prometheum=Molten Prometheum
-fluid.molten.quicksilver=Molten Quicksilver
-fluid.molten.rubracium=Molten Rubracium
-fluid.molten.tartarite=Molten Tartarite
-
-fluid.molten.desichalkos=Molten Desichalkos
-fluid.molten.eximite=Molten Eximite
-fluid.molten.meutoite=Molten Meutoite
-
 fluid.molten.refined.glowstone=Molten Refined Glowstone
 fluid.molten.osmium=Molten Osmium
 
@@ -52,50 +8,6 @@ fluid.molten.pokefennium=Molten Pokefennium
 fluid.molten.fairy=Molten Fairy
 
 # Fluids (for NEI and the fluid blocks in the world)
-tile.molten.angmallen.name=Molten Angmallen
-tile.molten.damascus.steel.name=Molten Damascus Steel
-tile.molten.hepatizon.name=Molten Hepatizon
-tile.molten.manganese.name=Molten Manganese
-
-tile.molten.brass.name=Molten Brass
-tile.molten.platinum.name=Molten Platinum
-tile.molten.zinc.name=Molten Zinc
-
-tile.molten.amordrine.name=Molten Amordrine
-tile.molten.alduorite.name=Molten Alduorite
-tile.molten.ceruclase.name=Molten Ceruclase
-tile.molten.ignatius.name=Molten Ignatius
-tile.molten.inolashite.name=Molten Inolashite
-tile.molten.kalendrite.name=Molten Kalendrite
-tile.molten.lemurite.name=Molten Lemurite
-tile.molten.midasium.name=Molten Midasium
-tile.molten.sanguinite.name=Molten Sanguinite
-tile.molten.shadow.iron.name=Molten Shadow Iron
-tile.molten.shadow.steel.name=Molten Shadow Steel
-tile.molten.vulcanite.name=Molten Vulcanite
-tile.molten.vyroxeres.name=Molten Vyroxeres
-
-tile.molten.adamantine.name=Molten Adamantine
-tile.molten.astral.silver.name=Molten Astral Silver
-tile.molten.atlarus.name=Molten Atlarus
-tile.molten.black.steel.name=Molten Black Steel
-tile.molten.carmot.name=Molten Carmot
-tile.molten.celenegil.name=Molten Celenegil
-tile.molten.deep.iron.name=Molten Deep Iron
-tile.molten.haderoth.name=Molten Haderoth
-tile.molten.infuscolium.name=Molten Infuscolium
-tile.molten.mithril.name=Molten Mithril
-tile.molten.orichalcum.name=Molten Orichalcum
-tile.molten.oureclase.name=Molten Oureclase
-tile.molten.prometheum.name=Molten Prometheum
-tile.molten.quicksilver.name=Molten Quicksilver
-tile.molten.rubracium.name=Molten Rubracium
-tile.molten.tartarite.name=Molten Tartarite
-
-tile.molten.desichalkos.name=Molten Desichalkos
-tile.molten.eximite.name=Molten Eximite
-tile.molten.meutoite.name=Molten Meutoite
-
 tile.molten.refined.glowstone.name=Molten Refined Glowstone
 tile.molten.osmium.name=Molten Osmium
 
@@ -103,50 +15,6 @@ tile.molten.pokefennium.name=Molten Pokefennium
 tile.molten.fairy.name=Molten Fairy
 
 # Buckets of molten metals
-item.extratic.bucket.filled.molten.angmallen.name=Molten Angmallen Bucket
-item.extratic.bucket.filled.molten.damascus.steel.name=Molten Damascus Steel Bucket
-item.extratic.bucket.filled.molten.hepatizon.name=Molten Hepatizon Bucket
-item.extratic.bucket.filled.molten.manganese.name=Molten Manganese Bucket
-
-item.extratic.bucket.filled.molten.brass.name=Molten Brass Bucket
-item.extratic.bucket.filled.molten.platinum.name=Molten Platinum Bucket
-item.extratic.bucket.filled.molten.zinc.name=Molten Zinc Bucket
-
-item.extratic.bucket.filled.molten.amordrine.name=Molten Amordrine Bucket
-item.extratic.bucket.filled.molten.alduorite.name=Molten Alduorite Bucket
-item.extratic.bucket.filled.molten.ceruclase.name=Molten Ceruclase Bucket
-item.extratic.bucket.filled.molten.ignatius.name=Molten Ignatius Bucket
-item.extratic.bucket.filled.molten.inolashite.name=Molten Inolashite Bucket
-item.extratic.bucket.filled.molten.kalendrite.name=Molten Kalendrite Bucket
-item.extratic.bucket.filled.molten.lemurite.name=Molten Lemurite Bucket
-item.extratic.bucket.filled.molten.midasium.name=Molten Midasium Bucket
-item.extratic.bucket.filled.molten.sanguinite.name=Molten Sanguinite Bucket
-item.extratic.bucket.filled.molten.shadow.iron.name=Molten Shadow Iron Bucket
-item.extratic.bucket.filled.molten.shadow.steel.name=Molten Shadow Steel Bucket
-item.extratic.bucket.filled.molten.vulcanite.name=Molten Vulcanite Bucket
-item.extratic.bucket.filled.molten.vyroxeres.name=Molten Vyroxeres Bucket
-
-item.extratic.bucket.filled.molten.adamantine.name=Molten Adamantine Bucket
-item.extratic.bucket.filled.molten.astral.silver.name=Molten Astral Silver Bucket
-item.extratic.bucket.filled.molten.atlarus.name=Molten Atlarus Bucket
-item.extratic.bucket.filled.molten.black.steel.name=Molten Black Steel Bucket
-item.extratic.bucket.filled.molten.carmot.name=Molten Carmot Bucket
-item.extratic.bucket.filled.molten.celenegil.name=Molten Celenegil Bucket
-item.extratic.bucket.filled.molten.deep.iron.name=Molten Deep Iron Bucket
-item.extratic.bucket.filled.molten.haderoth.name=Molten Haderoth Bucket
-item.extratic.bucket.filled.molten.infuscolium.name=Molten Infuscolium Bucket
-item.extratic.bucket.filled.molten.mithril.name=Molten Mithril Bucket
-item.extratic.bucket.filled.molten.orichalcum.name=Molten Orichalcum Bucket
-item.extratic.bucket.filled.molten.oureclase.name=Molten Oureclase Bucket
-item.extratic.bucket.filled.molten.prometheum.name=Molten Prometheum Bucket
-item.extratic.bucket.filled.molten.quicksilver.name=Molten Quicksilver Bucket
-item.extratic.bucket.filled.molten.rubracium.name=Molten Rubracium Bucket
-item.extratic.bucket.filled.molten.tartarite.name=Molten Tartarite Bucket
-
-item.extratic.bucket.filled.molten.desichalkos.name=Molten Desichalkos Bucket
-item.extratic.bucket.filled.molten.eximite.name=Molten Eximite Bucket
-item.extratic.bucket.filled.molten.meutoite.name=Molten Meutoite Bucket
-
 item.extratic.bucket.filled.molten.refined.glowstone.name=Molten Refined Glowstone Bucket
 item.extratic.bucket.filled.molten.osmium.name=Molten Osmium Bucket
 
