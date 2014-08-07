@@ -29,16 +29,16 @@ material.hepatizon=Hepatizon
 
 material.brass=Messing
 material.electrum=Elektrum
-material.platinum=Platinum
+material.platinum=Platin
 material.silver=Silber
 
-material.amordrine=Amordrine
+material.amordrine=Amordrin
 material.ceruclase=Ceruclase
 material.ignatius=Ignatius
-material.inolashite=Inolashite
-material.kalendrite=Kalendrite
+material.inolashite=Inolashit
+material.kalendrite=Kalendrit
 material.midasium=Midasium
-material.sanguinite=Sanguinite
+material.sanguinite=Sanguinit
 material.shadow.iron=Schatten Eisen
 material.shadow.steel=Schatten Stahl
 material.vulcanite=Vulkanit
@@ -48,9 +48,9 @@ material.adamantine=Adamantin
 material.astral.silver=Astral Silber
 material.atlarus=Atlarus
 material.black.steel=Schwarzer Stahl
-material.carmot=Carmot
+material.carmot=Karmot
 material.celenegil=Celenegil
-material.deep.iron=Tiefes Eisen # errr?
+material.deep.iron=Tiefeisen # errr?
 material.haderoth=Haderoth
 material.mithril=Mithril
 material.orichalcum=Orichalkum
@@ -63,10 +63,10 @@ material.desichalkos=Desichalkos
 material.eximite=Eximit
 
 material.bloodwood=Blutholz
-material.darkwood=Dunkel Holz
-material.fusewood=Zündschnur Holz # ????
+material.darkwood=Dunkelholz
+material.fusewood=Zündholz # ????
 material.ghostwood=Geistholz
-material.nether.quartz=Nether Quartz
+material.nether.quartz=Nether Quarz
 
 material.refined.glowstone=Verfeinerter Leuchtstein
 material.osmium=Osmium
@@ -74,16 +74,16 @@ material.osmium=Osmium
 material.pokefennium=Pokefennium
 material.fairy=Fee
 
-material.certus.quartz=Certus Quartz
+material.certus.quartz=Certus Quarz
 
 material.amethyst=Amethyst
 
 # Toolparts
-part.arrowhead=@material@ Pfeilspitze
-part.axe.head=@material@ Axt Kopf
+part.arrowhead=@material@ene Pfeilspitze
+part.axe.head=@material@axt Kopf
 part.battle.sign=@material@ Kampf Schild
 part.binding=@material@ Bindung
-part.chisel.head=@material@ Meißel kopf
+part.chisel.head=Meißelkopf aus @material@
 part.chunk=@material@ Teil
 part.crossbar=@material@ Querstange # Not sure..
 part.excavator.head=Kopf vom @material@ Grabungsgerät
@@ -92,10 +92,10 @@ part.full.guard=Voller Schutz aus @material@
 part.hammer.head=Hammer Kopf aus @material@ 
 part.knife.blade=Messerklinge aus @material@
 part.large.guard=Großer Schutz aus @material@
-part.large.sword.blade=Große Schwert Klinge aus @material@
-part.largeplate=Große Platte aus @material@
-part.lumberaxe.head=Breitaxt Kopf aus @material@
-part.medium.guard=Mittler Schutz aus @material@
+part.large.sword.blade=Große Schwertklinge aus @material@
+part.largeplate=Große @material@platte
+part.lumberaxe.head=@material@ener Breitaxt Kopf
+part.medium.guard=Mitteler Schutz aus @material@
 part.pickaxe.head=Spitzhacken Kopf aus @material@
 part.scythe.head=Sensen Kopf aus @material@
 part.shovel.head=Schaufel Kopf aus @material@
