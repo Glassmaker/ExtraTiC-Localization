@@ -50,7 +50,7 @@ material.atlarus=Atlarus
 material.black.steel=Schwarzer Stahl
 material.carmot=Karmot
 material.celenegil=Celenegil
-material.deep.iron=Tiefeisen # errr?
+material.deep.iron=Tiefeisen
 material.haderoth=Haderoth
 material.mithril=Mithril
 material.orichalcum=Orichalkum
@@ -64,7 +64,7 @@ material.eximite=Eximit
 
 material.bloodwood=Blutholz
 material.darkwood=Dunkelholz
-material.fusewood=Zündholz # ????
+material.fusewood=Zündholz
 material.ghostwood=Geistholz
 material.nether.quartz=Nether Quarz
 
@@ -85,7 +85,7 @@ part.battle.sign=@material@ Kampf Schild
 part.binding=@material@ Bindung
 part.chisel.head=Meißelkopf aus @material@
 part.chunk=@material@ Teil
-part.crossbar=@material@ Querstange # Not sure..
+part.crossbar=@material@ Querstange
 part.excavator.head=Kopf vom @material@ Grabungsgerät
 part.frypan.head=@material@ Pfannen kopf
 part.full.guard=Voller Schutz aus @material@
