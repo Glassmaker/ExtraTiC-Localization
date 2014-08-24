@@ -1,0 +1,111 @@
+#French localization for ExtraTic
+
+# Fluids (for smelteries)
+fluid.molten.refined.glowstone=Pierre Lumineuse Raffinée Fondue
+fluid.molten.osmium=Osmium Fondu
+
+fluid.molten.pokefennium=Pokefennium Fondu
+fluid.molten.fairy=Fer Féerique Fondu
+
+# Fluids (for NEI and the fluid blocks in the world)
+tile.molten.refined.glowstone.name=Pierre Lumineuse Raffinée Fondue
+tile.molten.osmium.name=Osmium Fondu
+
+tile.molten.pokefennium.name=Pokefennium Fondu
+tile.molten.fairy.name=Fer Féerique Fondu
+
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.refined.glowstone.name=Seau de Pierre Lumineuse Raffinée Fondue
+item.extratic.bucket.filled.molten.osmium.name=Seau d'Osmium Fondu
+
+item.extratic.bucket.filled.molten.pokefennium.name=Seau de Pokefennium Fondu
+item.extratic.bucket.filled.molten.fairy.name=Seau de Fer Féerique Fondu
+
+# Materials (for toolparts)
+material.angmanllen=Angmallen
+material.damascus.steel=Acier de Damascus
+material.hepatizon=Hepatizon
+
+material.brass=Laiton
+material.electrum=Eléctrum
+material.platinum=Platine
+material.silver=Argent
+
+material.amordrine=Amordrine
+material.ceruclase=Céruclase
+material.ignatius=Ignatius
+material.inolashite=Inolachite
+material.kalendrite=Kalendrite
+material.midasium=Midasium
+material.sanguinite=Sanguinite
+material.shadow.iron=Fer de l'Ombre
+material.shadow.steel=Acier de l'Ombre
+material.vulcanite=Vulcanite
+material.vyroxeres=Vyroxères
+
+material.adamantine=Adamantine
+material.astral.silver=Argent Astral
+material.atlarus=Atlarus
+material.black.steel=Acier Noir
+material.carmot=Carmot
+material.celenegil=Célénégil
+material.deep.iron=Fer Foncé
+material.haderoth=Hadéroth
+material.mithril=Mithril
+material.orichalcum=Orichalque
+material.oureclase=Ouréclase
+material.prometheum=Prométhéum
+material.quicksilver=Vif-Argent
+material.tartarite=Tartarite
+
+material.desichalkos=Désichalkos
+material.eximite=Eximite
+
+material.bloodwood=Hémoglobois
+material.darkwood=Sombrois
+material.fusewood=Boixplosif
+material.ghostwood=Boisprit
+material.nether.quartz=Quartz du Nether
+
+material.refined.glowstone=Pierre Lumineuse Raffinée
+material.osmium=Osmium
+
+material.pokefennium=Pokefennium
+material.fairy=Fer Féerique
+
+material.certus.quartz=Quartz de Certus
+
+material.amethyst=Améthyste
+
+# Toolparts
+part.arrowhead=Pointe de Flèche en @material@
+part.axe.head=Tête de Hâche en @material@
+part.battle.sign=Panneau de Combat en @material@
+part.binding=Lien en @material@
+part.chisel.head=Tête de Burin en @material@
+part.chunk=Eclat en @material@
+part.crossbar=Croix en @material@
+part.excavator.head=Tête d'Excavateur en @material@
+part.frypan.head=Tête de Poêle à Frire en @material@
+part.full.guard=Garde Totale en @material@
+part.hammer.head=Tête de Marteau en @material@
+part.knife.blade=Lame de Couteau en @material@
+part.large.guard=Garge Large en @material@
+part.large.sword.blade=Lame d'Epée Large en @material@
+part.largeplate=Plaque Large en @material@
+part.lumberaxe.head=Grosse Tête de Hâche en @material@
+part.medium.guard=Garde Moyenne en @material@
+part.pickaxe.head=Tête de Pioche en @material@
+part.scythe.head=Tête de Faux en @material@
+part.shovel.head=Tête de Pelle en @material@
+part.sword.blade=Lame d'Epée en @material@
+part.toolrod=Manche en @material@
+part.toughbind=Lien Epais en @material@
+part.toughrod=Manche Epais en @material@
+
+# Blocks and ingots
+tile.fairy.block.name=Bloc de Fer Féerique
+tile.pokefennium.block.name=Bloc de Pokefennium
+
+item.fairy.ingot.name=Lingot de Fer Féerique
+item.pokefennium.ingot.name=Lingot de Pokefennium
