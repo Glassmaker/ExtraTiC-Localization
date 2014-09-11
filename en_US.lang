@@ -22,7 +22,7 @@ item.extratic.bucket.filled.molten.pokefennium.name=Molten Pokefennium Bucket
 item.extratic.bucket.filled.molten.fairy.name=Molten Fairy Bucket
 
 # Materials (for toolparts)
-material.angmanllen=Angmallen
+material.angmallen=Angmallen
 material.damascus.steel=Damascus Steel
 material.hepatizon=Hepatizon
 
@@ -76,6 +76,12 @@ material.fairy=Fairy
 material.certus.quartz=Certus Quartz
 
 material.amethyst=Amethyst
+
+material.manasteel=Manasteel
+material.terrasteel=Terrasteel
+material.elementium=Elementium
+
+material.desh=Desh
 
 # Toolparts
 part.arrowhead=@material@ Arrowhead
