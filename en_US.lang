@@ -22,15 +22,18 @@ item.extratic.bucket.filled.molten.pokefennium.name=Molten Pokefennium Bucket
 item.extratic.bucket.filled.molten.fairy.name=Molten Fairy Bucket
 
 # Materials (for toolparts)
+# Metallurgy Base
 material.angmallen=Angmallen
 material.damascus.steel=Damascus Steel
 material.hepatizon=Hepatizon
 
+# Metallurgy Precious
 material.brass=Brass
 material.electrum=Electrum
 material.platinum=Platinum
 material.silver=Silver
 
+# Metallurgy Nether
 material.amordrine=Amordrine
 material.ceruclase=Ceruclase
 material.ignatius=Ignatius
@@ -43,6 +46,7 @@ material.shadow.steel=Shadow Steel
 material.vulcanite=Vulcanite
 material.vyroxeres=Vyroxeres
 
+# Metallurgy Fantasy
 material.adamantine=Adamantine
 material.astral.silver=Astral Silver
 material.atlarus=Atlarus
@@ -58,30 +62,55 @@ material.prometheum=Prometheum
 material.quicksilver=Quicksilver
 material.tartarite=Tartarite
 
+# Metallurgy Ender
 material.desichalkos=Desichalkos
 material.eximite=Eximite
 
+# Natura
 material.bloodwood=Bloodwood
 material.darkwood=Darkwood
 material.fusewood=Fusewood
 material.ghostwood=Ghostwood
 material.nether.quartz=Nether Quartz
 
+# Mekanism
 material.refined.glowstone=Refined Glowstone
 material.osmium=Osmium
 
+# Fun stuff
 material.pokefennium=Pokefennium
 material.fairy=Fairy
 
+# Applied energistics
 material.certus.quartz=Certus Quartz
 
+# Biomes o' plenty
 material.amethyst=Amethyst
 
+# Botania
 material.manasteel=Manasteel
 material.terrasteel=Terrasteel
 material.elementium=Elementium
 
+# Galacticraft
 material.desh=Desh
+
+# Simple Ores Core
+material.adamantium=Adamantium
+material.mythril=Mythril
+material.onyx=Onyx
+
+# Simple Ores Fusion
+material.sinisite=Sinisite
+material.thyrium=Thyrium
+
+# Simple Ores Netherrock
+material.argonite=Argonite
+material.ashstone=Ashstone
+material.dragonstone=Dragonstone
+material.fyrite=Fyrite
+material.illumenite=Illumenite
+material.malachite=Malachite
 
 # Toolparts
 part.arrowhead=@material@ Arrowhead
