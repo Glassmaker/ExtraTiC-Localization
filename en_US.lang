@@ -85,7 +85,7 @@ material.fairy=Fairy
 material.certus.quartz=Certus Quartz
 
 # Biomes o' plenty
-material.amethyst=Amethyst
+material.ender.amethyst=Ender Amethyst
 
 # Botania
 material.manasteel=Manasteel
@@ -111,6 +111,18 @@ material.dragonstone=Dragonstone
 material.fyrite=Fyrite
 material.illumenite=Illumenite
 material.malachite=Malachite
+
+# TwilightForest
+material.fiery=Fiery
+material.ironwood=Ironwood
+material.knightmetal=KnightMetal
+material.steelleaf=Steelleaf
+
+# Generic Material
+material.amethyst=Amethyst
+material.peridot=Peridot
+material.ruby=Ruby
+material.sapphire=Sapphire
 
 # Toolparts
 part.arrowhead=@material@ Arrowhead
