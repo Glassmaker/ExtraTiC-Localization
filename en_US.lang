@@ -124,6 +124,12 @@ material.peridot=Peridot
 material.ruby=Ruby
 material.sapphire=Sapphire
 
+# Oddmod
+material.kroostyl=Kroostyl
+
+# Thuamic Integration
+material.drulloy=Drulloy
+
 # Toolparts
 part.arrowhead=@material@ Arrowhead
 part.axe.head=@material@ Axe Head
