@@ -22,15 +22,18 @@ item.extratic.bucket.filled.molten.pokefennium.name=Secchio di pokefennio fuso
 item.extratic.bucket.filled.molten.fairy.name=Secchio di fatato fuso
 
 # Materials (for toolparts)
+# Metallurgy Base
 material.angmallen=d'angamallen
 material.damascus.steel=d'acciaio damasco
 material.hepatizon=di hepatizon
 
+# Metallurgy Precious
 material.brass=d'ottone
 material.electrum=di elettro
 material.platinum=di platino
 material.silver=d'argento
 
+# Metallurgy Nether
 material.amordrine=d'amordrine
 material.ceruclase=di ceruclase
 material.ignatius=di ignatius
@@ -43,6 +46,7 @@ material.shadow.steel=d'acciaio spettrale
 material.vulcanite=di vulcanite
 material.vyroxeres=di vyroxeres
 
+# Metallurgy Fantasy
 material.adamantine=di adamantine
 material.astral.silver=d'argento astrale
 material.atlarus=di atarus
@@ -58,24 +62,67 @@ material.prometheum=di prometheum
 material.quicksilver=di mercurio
 material.tartarite=di tartarite
 
+# Metallurgy Ender
 material.desichalkos=di desichalkos
 material.eximite=di eximite
 
+# Natura
 material.bloodwood=di legno insanguinato
 material.darkwood=di legno oscuro
 material.fusewood=di legno esplosivo
 material.ghostwood=di legno fantasma
 material.nether.quartz=di quarzo
 
+# Mekanism
 material.refined.glowstone=di luminite raffinato
 material.osmium=di osmio
 
+# Fun stuff
 material.pokefennium=di pokefennio
 material.fairy=di fatato
 
+# Applied energistics
 material.certus.quartz=di quarzo certus
 
-material.amethyst=di ametista
+# Biomes o' plenty
+material.ender.amethyst=di ametista dell'Omega
+
+# Botania
+material.manasteel=di Manasteel
+material.terrasteel=di Terrasteel
+material.elementium=di Elementium
+
+# Galacticraft
+material.desh=di Desh
+
+# Simple Ores Core
+material.adamantium=di Adamantium
+material.mythril=di Mythril
+material.onyx=di Onyx
+
+# Simple Ores Fusion
+material.sinisite=di Sinisite
+material.thyrium=di Thyrium
+
+# Simple Ores Netherrock
+material.argonite=di Argonite
+material.ashstone=di Ashstone
+material.dragonstone=di Dragonstone
+material.fyrite=di Fyrite
+material.illumenite=di Illumenite
+material.malachite=di Malachite
+
+# TwilightForest
+material.fiery=di Fiery
+material.ironwood=di Ironwood
+material.knightmetal=di KnightMetal
+material.steelleaf=di Steelleaf
+
+# Generic Material
+material.amethyst=d'ametista
+material.peridot=di peridoto
+material.ruby=di rubino
+material.sapphire=di zaffiro
 
 # Toolparts
 part.arrowhead=Testa di freccia @material@
@@ -109,4 +156,3 @@ tile.pokefennium.block.name=Blocco di pokefennio
 
 item.fairy.ingot.name=Lingotto di fatato
 item.pokefennium.ingot.name=Lingotto di pokefennio
-
