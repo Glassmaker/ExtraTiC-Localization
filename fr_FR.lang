@@ -75,7 +75,42 @@ material.fairy=Fer Féerique
 
 material.certus.quartz=Quartz de Certus
 
+# Botania
+material.manasteel=Manasteel
+material.terrasteel=Terrasteel
+material.elementium=Elementium
+
+# Galacticraft
+material.desh=Silicium
+
+# Simple Ores Core
+material.adamantium=Adamantium
+material.mythril=Mythril
+material.onyx=Onyx
+
+# Simple Ores Fusion
+material.sinisite=Sinisite
+material.thyrium=Thyrium
+
+# Simple Ores Netherrock
+material.argonite=Argonite
+material.ashstone=Ashstone
+material.dragonstone=Dragonstone
+material.fyrite=Fyrite
+material.illumenite=Illumenite
+material.malachite=Malachite
+
+# TwilightForest
+material.fiery=Fier
+material.ironwood=Fercorce
+material.knightmetal=Paladine
+material.steelleaf=Feuillacier
+
+# Generic Material
 material.amethyst=Améthyste
+material.peridot=Péridot
+material.ruby=Rubis
+material.sapphire=Sapphire
 
 # Toolparts
 part.arrowhead=Pointe de Flèche en @material@
