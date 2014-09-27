@@ -1,0 +1,158 @@
+#Chinese localization for ExtraTic
+
+# Fluids (for smelteries)
+fluid.molten.refined.glowstone=熔融强化荧石
+fluid.molten.osmium=熔融锇
+
+fluid.molten.pokefennium=熔融Pokefennium
+fluid.molten.fairy=熔融精灵
+
+# Fluids (for NEI and the fluid blocks in the world)
+tile.molten.refined.glowstone.name=熔融强化荧石
+tile.molten.osmium.name=熔融锇
+
+tile.molten.pokefennium.name=熔融Pokefenn
+tile.molten.fairy.name=熔融精灵
+
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.refined.glowstone.name=桶装熔融强化荧石
+item.extratic.bucket.filled.molten.osmium.name=桶装熔融锇
+
+item.extratic.bucket.filled.molten.pokefennium.name=桶装熔融Pokefenn
+item.extratic.bucket.filled.molten.fairy.name=桶装熔融精灵
+
+# Materials (for toolparts)
+# Metallurgy Base
+material.angmallen=金铁
+material.damascus.steel=大马士革钢
+material.hepatizon=幽魂结晶
+
+# Metallurgy Precious
+material.brass=黄铜
+material.electrum=琥珀金
+material.platinum=铂
+material.silver=银
+
+# Metallurgy Nether
+material.amordrine=魔石
+material.ceruclase=暗影秘银
+material.ignatius=伊格内休斯
+material.inolashite=秘银蓝金
+material.kalendrite=幽冥魂石
+material.midasium=溶火金
+material.sanguinite=狱炎石
+material.shadow.iron=暗影铁
+material.shadow.steel=暗影钢
+material.vulcanite=熔岩结晶
+material.vyroxeres=幽冥剧毒晶
+
+# Metallurgy Fantasy
+material.adamantine=金刚
+material.astral.silver=星银
+material.atlarus=金钻
+material.black.steel=黑钢
+material.carmot=耀金
+material.celenegil=幽冥毒晶
+material.deep.iron=深铁
+material.haderoth=幻铜
+material.mithril=秘银
+material.orichalcum=奥利哈尔钢
+material.oureclase=地晶
+material.prometheum=幻金
+material.quicksilver=银钻
+material.tartarite=熔火石
+
+# Metallurgy Ender
+material.desichalkos=虚空魂石
+material.eximite=虚空石
+
+# Natura
+material.bloodwood=血木
+material.darkwood=暗木
+material.fusewood=熔融木
+material.ghostwood=魂木
+material.nether.quartz=下界石英
+
+# Mekanism
+material.refined.glowstone=强化萤石
+material.osmium=锇
+
+# Fun stuff
+material.pokefennium=Pokefennium
+material.fairy=Fairy
+
+# Applied energistics
+material.certus.quartz=赛特斯石英
+
+# Biomes o' plenty
+material.ender.amethyst=末影紫晶
+
+# Botania
+material.manasteel=魔钢
+material.terrasteel=泰拉钢
+material.elementium=源质钢
+
+# Galacticraft
+material.desh=戴斯
+
+# Simple Ores Core
+material.adamantium=艾德曼合金
+material.mythril=秘银
+material.onyx=缟玛瑙
+
+# Simple Ores Fusion
+material.sinisite=Sinisite
+material.thyrium=Thyrium
+
+# Simple Ores Netherrock
+material.argonite=阿格尼特
+material.ashstone=凝灰岩
+material.dragonstone=龙石
+material.fyrite=法拉特
+material.illumenite=伊鲁门尼特
+material.malachite=马拉切特
+
+# TwilightForest
+material.fiery=炽铁
+material.ironwood=铁树
+material.knightmetal=骑士金属
+material.steelleaf=钢叶
+
+# Generic Material
+material.amethyst=紫水晶
+material.peridot=橄榄石
+material.ruby=红宝石
+material.sapphire=蓝宝石
+
+# Toolparts
+part.arrowhead=@material@箭头
+part.axe.head=@material@斧刃
+part.battle.sign=@material@牌板
+part.binding=@material@绑定结
+part.chisel.head=@material@凿刃
+part.chunk=@material@ Chunk
+part.crossbar=@material@十字柄
+part.excavator.head=@material@开掘铲铲刃
+part.frypan.head=@material@盘
+part.full.guard=@material@大型护手
+part.hammer.head=@material@锤头
+part.knife.blade=@material@刀刃
+part.large.guard=@material@宽护手
+part.large.sword.blade=@material@宽剑刃
+part.largeplate=@material@大板
+part.lumberaxe.head=@material@宽斧刃
+part.medium.guard=@material@护手
+part.pickaxe.head=@material@镐头
+part.scythe.head=@material@镰刀刀刃
+part.shovel.head=@material@铲头
+part.sword.blade=@material@剑刃
+part.toolrod=@material@手柄
+part.toughbind=@material@坚韧绑定结
+part.toughrod=@material@坚韧手柄
+
+# Blocks and ingots
+tile.fairy.block.name=精灵方块
+tile.pokefennium.block.name=Pokefenn方块
+
+item.fairy.ingot.name=精灵锭
+item.pokefennium.ingot.name=Pokefenn锭
