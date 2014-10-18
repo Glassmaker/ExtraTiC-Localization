@@ -130,6 +130,10 @@ material.kroostyl=Kroostyl
 # Thuamic Integration
 material.drulloy=Drulloy
 
+# EnderIO
+material.blue.steel=Blue Steel
+material.dark.steel=Dark Steel
+
 # Toolparts
 part.arrowhead=@material@ Arrowhead
 part.axe.head=@material@ Axe Head
