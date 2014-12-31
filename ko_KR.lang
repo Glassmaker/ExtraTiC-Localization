@@ -1,0 +1,169 @@
+#Korean localization for ExtraTic, Translated by @alvin137
+
+# Fluids (for smelteries)
+fluid.molten.refined.glowstone=녹은 세련된 발광석
+fluid.molten.osmium=녹은 오스뮴
+
+fluid.molten.pokefennium=녹은 포케페니윰
+fluid.molten.fairy=녹은 요정
+
+# Fluids (for NEI and the fluid blocks in the world)
+tile.molten.refined.glowstone.name=녹은 세련된 발광석
+tile.molten.osmium.name=녹은 오스뮴
+
+tile.molten.pokefennium.name=녹은 포케페니윰
+tile.molten.fairy.name=녹은 요정
+
+# Buckets of molten metals
+item.extratic.bucket.filled.molten.refined.glowstone.name=녹은 세련된 발광석 양동이
+item.extratic.bucket.filled.molten.osmium.name=녹은 오스뮴 양동이
+
+item.extratic.bucket.filled.molten.pokefennium.name=녹은 포케페니윰 양동이
+item.extratic.bucket.filled.molten.fairy.name=녹은 요정 양동이
+
+# Materials (for toolparts)
+# Metallurgy Base
+material.angmallen=앙말렌
+material.damascus.steel=다마커스강
+material.hepatizon=헤퍼타이전
+
+# Metallurgy Precious
+material.brass=황동
+material.electrum=일렉트럼
+material.platinum=백금
+material.silver=은
+
+# Metallurgy Nether
+material.amordrine=아모드린
+material.ceruclase=커러클레이즈
+material.ignatius=이그나티우스
+material.inolashite=Inolashite
+material.kalendrite=칼렌드라이트
+material.midasium=마이다시엄
+material.sanguinite=상와이나이트
+material.shadow.iron=그림자 철
+material.shadow.steel=그림자 강철
+material.vulcanite=에보나치트
+material.vyroxeres=비락서리즈
+
+# Metallurgy Fantasy
+material.adamantine=아다만탄티움
+material.astral.silver=아스트랄 실버
+material.atlarus=아틀라러스
+material.black.steel=검은 강철
+material.carmot=카못
+material.celenegil=킬리니자일
+material.deep.iron=짙은 철
+material.haderoth=하더라드
+material.mithril=미스릴
+material.orichalcum=오리하르콘
+material.oureclase=오리클레이즈
+material.prometheum=프로메듐
+material.quicksilver=수은
+material.tartarite=탈타라이트
+
+# Metallurgy Ender
+material.desichalkos=디사이찰코스
+material.eximite=엑시마이트
+
+# Natura
+material.bloodwood=피 유칼립투스
+material.darkwood=암흑나무
+material.fusewood=퓨즈나무
+material.ghostwood=유령나무
+material.nether.quartz=지옥 석영
+
+# Mekanism
+material.refined.glowstone=강화된 발광석
+material.osmium=오스뮴
+
+# Fun stuff
+material.pokefennium=포케페니윰
+material.fairy=요정
+material.red.aurum=레드아룸
+
+# Applied energistics
+material.certus.quartz=세투스 석영
+
+# Biomes o' plenty
+material.ender.amethyst=Ender Amethyst
+
+# Botania
+material.manasteel=마나 합금
+material.terrasteel=대지의 강철
+material.elementium=엘레멘티움
+
+# Galacticraft
+material.desh=데쉬
+
+# Simple Ores Core
+material.adamantium=아다만탄티움
+material.mythril=미스릴
+material.onyx=오닉스
+
+# Simple Ores Fusion
+material.sinisite=시니사이트
+material.thyrium=쓰리움
+
+# Simple Ores Netherrock
+material.argonite=아르고나이트
+material.ashstone=재 돌
+material.dragonstone=용 돌
+material.fyrite=파이어라이트
+material.illumenite=일럼나이트
+material.malachite=공작석
+
+# TwilightForest
+material.fiery=Fiery
+material.ironwood=철 나무
+material.knightmetal=기사 강철
+material.steelleaf=철 잎
+
+# Generic Material
+material.amethyst=자수정
+material.peridot=감람석
+material.ruby=루비
+material.sapphire=사파이어
+
+# Oddmod
+material.kroostyl=크루스틸
+
+# Thuamic Integration
+material.drulloy=드러루이
+
+# EnderIO
+material.blue.steel=블루스틸
+material.dark.steel=흑강
+
+# Toolparts
+part.arrowhead=@material@ 화살촉
+part.axe.head=@material@ 도끼 날
+part.battle.sign=@material@ 전투용 표지판
+part.binding=@material@ 조임쇠
+part.chisel.head=@material@ 정 머리
+part.chunk=@material@ 청크
+part.crossbar=@material@ 가로대
+part.excavator.head=@material@ 굴착기 머리
+part.frypan.head=@material@ 팬
+part.full.guard=@material@ 큰 코등이
+part.hammer.head=@material@ 망치 머리
+part.knife.blade=@material@ 칼 날
+part.large.guard=@material@ 넓은 코등이
+part.large.sword.blade=@material@ 넓은 검 날
+part.largeplate=@material@ 대형 강화판
+part.lumberaxe.head=@material@ 넓은 도끼 날
+part.medium.guard=@material@ 코등이
+part.pickaxe.head=@material@ 곡괭이 머리
+part.scythe.head=@material@ 낫 날
+part.shovel.head=@material@ 삽 머리
+part.sword.blade=@material@ 검 날
+part.toolrod=@material@ 막대기
+part.toughbind=@material@ 두꺼운 조임쇠
+part.toughrod=@material@ 두꺼운 막대기
+
+# Blocks and ingots
+tile.fairy.block.name=요정 블럭
+tile.pokefennium.block.name=포케페니윰 블럭
+
+item.fairy.ingot.name=요정 주괴
+item.pokefennium.ingot.name=포케페니윰 주괴
