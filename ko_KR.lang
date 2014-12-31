@@ -1,21 +1,21 @@
 #Korean localization for ExtraTic, Translated by Team MMKP
 
 # Fluids (for smelteries)
-fluid.molten.refined.glowstone=녹은 세련된 발광석
+fluid.molten.refined.glowstone=녹은 강화된 발광석
 fluid.molten.osmium=녹은 오스뮴
 
 fluid.molten.pokefennium=녹은 포케페니윰
 fluid.molten.fairy=녹은 요정
 
 # Fluids (for NEI and the fluid blocks in the world)
-tile.molten.refined.glowstone.name=녹은 세련된 발광석
+tile.molten.refined.glowstone.name=녹은 강화된 발광석
 tile.molten.osmium.name=녹은 오스뮴
 
 tile.molten.pokefennium.name=녹은 포케페니윰
 tile.molten.fairy.name=녹은 요정
 
 # Buckets of molten metals
-item.extratic.bucket.filled.molten.refined.glowstone.name=녹은 세련된 발광석 양동이
+item.extratic.bucket.filled.molten.refined.glowstone.name=녹은 강화된 발광석 양동이
 item.extratic.bucket.filled.molten.osmium.name=녹은 오스뮴 양동이
 
 item.extratic.bucket.filled.molten.pokefennium.name=녹은 포케페니윰 양동이
