@@ -35,16 +35,25 @@ material.silver=Silver
 
 # Metallurgy Nether
 material.amordrine=Amordrine
+material.amordrine.ability=Life Steal
 material.ceruclase=Ceruclase
+material.ceruclase.ability=Slowness
 material.ignatius=Ignatius
+material.ignatius.ability=Ignite I
 material.inolashite=Inolashite
+material.inolashite.ability=Poison II
 material.kalendrite=Kalendrite
 material.midasium=Midasium
 material.sanguinite=Sanguinite
+material.sanguinite.ability=Wither I
 material.shadow.iron=Shadow Iron
+material.shadow.iron.ability=Weakness I
 material.shadow.steel=Shadow Steel
+material.shadow.steel.ability=Weakness II
 material.vulcanite=Vulcanite
+material.vulcanite.ability=Ignite II
 material.vyroxeres=Vyroxeres
+material.vyroxeres.ability=Poison I
 
 # Metallurgy Fantasy
 material.adamantine=Adamantine
