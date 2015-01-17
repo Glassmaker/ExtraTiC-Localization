@@ -170,6 +170,19 @@ part.toolrod=@material@ Tool Rod
 part.toughbind=@material@ Tough Binding
 part.toughrod=@material@ Tough Rod
 
+# Specific part material localization example:
+#part.toolrod.pokefennium=Pokefenn's Limb
+#part.large.sword.blade.black.steel=Black Steel Large Sword Blade
+
+# General part material localization example:
+#part.material.fairy=Magical Pinky
+#part.material.ender.amethyst=Ender Amethyst
+
+# Specific Tool material localization example:
+# (handled by tinkers, English material name, no spaces and all lower case)
+#tool.javelin.redaurum=Red Harpoon
+#tool.shovel.shadowiron=Shadow Iron Shovel
+
 # Blocks and ingots
 tile.fairy.block.name=Fairy Block
 tile.pokefennium.block.name=Pokefennium Block
