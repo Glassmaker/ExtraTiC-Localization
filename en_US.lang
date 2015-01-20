@@ -170,6 +170,13 @@ part.toolrod=@material@ Tool Rod
 part.toughbind=@material@ Tough Binding
 part.toughrod=@material@ Tough Rod
 
+# Tinkers Weaponary parts
+part.shuriken=@material@ Shuriken
+part.bow.limb=@material@ Bow Limb
+part.crossbow.limb=@material@ Crossbow Limb
+part.crossbow.body=@material@ Crossbow Body
+part.bolt=@material@ Bolt
+
 # Specific part material localization example:
 #part.toolrod.pokefennium=Pokefenn's Limb
 #part.large.sword.blade.black.steel=Black Steel Large Sword Blade
