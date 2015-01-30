@@ -144,6 +144,9 @@ material.drulloy=Drulloy
 material.blue.steel=Blue Steel
 material.dark.steel=Dark Steel
 
+# Thuamcraft
+material.void.metal=Void Metal
+
 # Toolparts
 part.arrowhead=@material@ Arrowhead
 part.axe.head=@material@ Axe Head
