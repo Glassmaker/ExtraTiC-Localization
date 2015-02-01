@@ -35,16 +35,25 @@ material.silver=은
 
 # Metallurgy Nether
 material.amordrine=아모드린
+material.amordrine.ability=체력 흡수
 material.ceruclase=커러클레이즈
+material.ceruclase.ability=
 material.ignatius=이그나티우스
+material.ignatius.ability=Ignite I
 material.inolashite=Inolashite
+material.inolashite.ability=Poison II
 material.kalendrite=칼렌드라이트
 material.midasium=마이다시엄
 material.sanguinite=상와이나이트
+material.sanguinite.ability=Wither I
 material.shadow.iron=그림자 철
+material.shadow.iron.ability=Weakness I
 material.shadow.steel=그림자 강철
+material.shadow.steel.ability=Weakness II
 material.vulcanite=에보나치트
+material.vulcanite.ability=Ignite II
 material.vyroxeres=비락서리즈
+material.vyroxeres.ability=Poison I
 
 # Metallurgy Fantasy
 material.adamantine=아다만탄티움
@@ -160,6 +169,26 @@ part.sword.blade=@material@ 검 날
 part.toolrod=@material@ 막대기
 part.toughbind=@material@ 두꺼운 조임쇠
 part.toughrod=@material@ 두꺼운 막대기
+
+# Tinkers Weaponary parts
+part.shuriken=@material@ 슈라켄
+part.bow.limb=@material@ 활 다리
+part.crossbow.limb=@material@ 석궁 다리
+part.crossbow.body=@material@ 석궁 몸체
+part.bolt=@material@ 볼트
+
+# Specific part material localization example:
+#part.toolrod.pokefennium=포케펜의 다리
+#part.large.sword.blade.black.steel=흑강 넓은 칼 날
+
+# General part material localization example:
+#part.material.fairy=Magical Pinky
+#part.material.ender.amethyst=Ender Amethyst
+
+# Specific Tool material localization example:
+# (handled by tinkers, English material name, no spaces and all lower case)
+#tool.javelin.redaurum=Red Harpoon
+#tool.shovel.shadowiron=Shadow Iron Shovel
 
 # Blocks and ingots
 tile.fairy.block.name=요정 블럭
