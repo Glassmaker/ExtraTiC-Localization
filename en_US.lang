@@ -133,6 +133,7 @@ material.amethyst=Amethyst
 material.peridot=Peridot
 material.ruby=Ruby
 material.sapphire=Sapphire
+material.dark.steel=Dark Steel
 
 # Oddmod
 material.kroostyl=Kroostyl
@@ -140,9 +141,8 @@ material.kroostyl=Kroostyl
 # Thuamic Integration
 material.drulloy=Drulloy
 
-# EnderIO
-material.blue.steel=Blue Steel
-material.dark.steel=Dark Steel
+#Erebus
+material.jade=Jade
 
 # Thaumcraft
 material.void.metal=Void Metal
