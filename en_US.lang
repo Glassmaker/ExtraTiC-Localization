@@ -1,11 +1,11 @@
 #English localization for ExtraTic
 
 # Fluids (for smelteries)
-fluid.molten.refined.glowstone=Molten Refined Glowstone
-fluid.molten.osmium=Molten Osmium
+fluid.refined.glowstone.molten=Molten Refined Glowstone
+fluid.osmium.molten=Molten Osmium
 
-fluid.molten.pokefennium=Molten Pokefennium
-fluid.molten.fairy=Molten Fairy
+fluid.pokefennium.molten=Molten Pokefennium
+fluid.fairy.molten=Molten Fairy
 
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.refined.glowstone.name=Molten Refined Glowstone
@@ -15,11 +15,11 @@ tile.molten.pokefennium.name=Molten Pokefennium
 tile.molten.fairy.name=Molten Fairy
 
 # Buckets of molten metals
-item.extratic.bucket.filled.molten.refined.glowstone.name=Molten Refined Glowstone Bucket
-item.extratic.bucket.filled.molten.osmium.name=Molten Osmium Bucket
+item.extratic.bucket.filled.refined.glowstone.molten.name=Molten Refined Glowstone Bucket
+item.extratic.bucket.filled.osmium.molten.name=Molten Osmium Bucket
 
-item.extratic.bucket.filled.molten.pokefennium.name=Molten Pokefennium Bucket
-item.extratic.bucket.filled.molten.fairy.name=Molten Fairy Bucket
+item.extratic.bucket.filled.pokefennium.molten.name=Molten Pokefennium Bucket
+item.extratic.bucket.filled.fairy.molten.name=Molten Fairy Bucket
 
 # Materials (for toolparts)
 # Metallurgy Base
