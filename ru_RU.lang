@@ -1,11 +1,11 @@
 #Russian localization for ExtraTic
 
 # Fluids (for smelteries)
-fluid.molten.refined.glowstone=Расплавленный очищенный светокамень
-fluid.molten.osmium=Расплавленный осмий
+fluid.refined.glowstone.molten=Расплавленный очищенный светокамень
+fluid.osmium.molten=Расплавленный осмий
 
-fluid.molten.pokefennium=Расплавленный покфениум
-fluid.molten.fairy=Расплавленный волшебный металл
+fluid.pokefennium.molten=Расплавленный покфениум
+fluid.fairy.molten=Расплавленный волшебный металл
 
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.refined.glowstone.name=Расплавленный очищенный светокамень
@@ -15,11 +15,11 @@ tile.molten.pokefennium.name=Расплавленный покфениум
 tile.molten.fairy.name=Расплавленный волшебный металл
 
 # Buckets of molten metals
-item.extratic.bucket.filled.molten.refined.glowstone.name=Ведро расплавленного очищенного светокамня
-item.extratic.bucket.filled.molten.osmium.name=Ведро расплавленного осмия
+item.extratic.bucket.filled.refined.glowstone.molten.name=Ведро расплавленного очищенного светокамня
+item.extratic.bucket.filled.osmium.molten.name=Ведро расплавленного осмия
 
-item.extratic.bucket.filled.molten.pokefennium.name=Ведро расплавленного покфениума
-item.extratic.bucket.filled.molten.fairy.name=Ведро расплавленного волшебного металла
+item.extratic.bucket.filled.pokefennium.molten.name=Ведро расплавленного покфениума
+item.extratic.bucket.filled.fairy.molten.name=Ведро расплавленного волшебного металла
 
 # Materials (for toolparts)
 # Metallurgy Base
@@ -111,16 +111,16 @@ material.mythril=Мифрил
 material.onyx=Оникс
 
 # Simple Ores Fusion
-material.sinisite=Sinisite
-material.thyrium=Thyrium
+material.sinisite=Синасайт
+material.thyrium=Тириум
 
 # Simple Ores Netherrock
-material.argonite=Argonite
-material.ashstone=Ashstone
-material.dragonstone=Dragonstone
-material.fyrite=Fyrite
-material.illumenite=Illumenite
-material.malachite=Malachite
+material.argonite=Аргонит
+material.ashstone=Пепельный камень
+material.dragonstone=Драконий камень
+material.fyrite=Фурит
+material.illumenite=Иллеминит
+material.malachite=Малахит
 
 # Twilight Forest
 material.fiery=Огонь
@@ -133,6 +133,7 @@ material.amethyst=Аметист
 material.peridot=Перидот
 material.ruby=Рубин
 material.sapphire=Сапфир
+material.dark.steel=Тёмная сталь
 
 # Oddmod
 material.kroostyl=Кроостил
@@ -140,9 +141,11 @@ material.kroostyl=Кроостил
 # Thaumic Integration
 material.drulloy=Драллой
 
-# Ender IO
-material.blue.steel=Синяя сталь
-material.dark.steel=Тёмная сталь
+# Erebus
+material.jade=Нефрит
+
+# Thaumcraft
+material.void.metal=Пустотный металл
 
 # Toolparts
 part.arrowhead=@material@ наконечник стрелы
@@ -197,7 +200,7 @@ tile.pokefennium.block.name=Покфениумный блок
 item.fairy.ingot.name=Волшебный слиток
 item.pokefennium.ingot.name=Покфениумный слиток
 
-# Material Display
+# Material Display (For tools)
 # Metallurgy Base
 material.angmallen.display=Ангмалленновый
 material.damascus.steel.display=Дамасскостальной
@@ -300,6 +303,7 @@ material.amethyst.display=Аметистовый
 material.peridot.display=Перидотовый
 material.ruby.display=Рубиновый
 material.sapphire.display=Сапфировый
+material.dark.steel.display=Тёмностальной
 
 # Oddmod
 material.kroostyl.display=Кроостиловый
@@ -307,9 +311,128 @@ material.kroostyl.display=Кроостиловый
 # Thaumic Integration
 material.drulloy.display=Драллоевый
 
-# Ender IO
-material.blue.steel.display=Синестальной
-material.dark.steel.display=Тёмностальной
+# Erebus
+material.jade.display=Нефритовый
+
+# Thaumcraft
+material.void.metal.display=Пустотнометаллический
+
+# Material Display (For toolparts)
+# Metallurgy Base
+part.material.angmallen=Ангмалленновый
+part.material.damascus.steel=Дамасскостальной
+part.material.hepatizon=Гепатизоновый
+
+# Metallurgy Precious
+part.material.brass=Латунный
+part.material.electrum=Электрумовый
+part.material.platinum=Платиновый
+part.material.silver=Серебряный
+
+# Metallurgy Nether
+part.material.amordrine=Амордриновый
+part.material.ceruclase=Церуклассовый
+part.material.ignatius=Игнатиевый
+part.material.inolashite=Инолашитовый
+part.material.kalendrite=Календритовый
+part.material.midasium=Мидасиевый
+part.material.sanguinite=Сангвинитовый
+part.material.shadow.iron=Тенежелезный
+part.material.shadow.steel=Тенестальной
+part.material.vulcanite=Вулканитовый
+part.material.vyroxeres=Вироксеровый
+
+# Metallurgy Fantasy
+part.material.adamantine=Адамантиновый
+part.material.astral.silver=Астральносеребряный
+part.material.atlarus=Атларисовый
+part.material.black.steel=Чёрностальной
+part.material.carmot=Кармотовый
+part.material.celenegil=Целенегиловый
+part.material.deep.iron=Глубинножелезный
+part.material.haderoth=Хадеротовый
+part.material.mithril=Мифриловый
+part.material.orichalcum=Орихалковый
+part.material.oureclase=Аурклассовый
+part.material.prometheum=Прометеевый
+part.material.quicksilver=Ртутный
+part.material.tartarite=Тартаритовый
+
+# Metallurgy Ender
+part.material.desichalkos=Дезихальк
+part.material.eximite=Эксимитовый
+
+# Natura
+part.material.bloodwood=Кроваводревесный
+part.material.darkwood=Тёмнодревесный
+part.material.fusewood=Плавкодревесный
+part.material.ghostwood=Призрачнодревесный
+part.material.nether.quartz=Нижнекварцевый
+
+# Mekanism
+part.material.refined.glowstone=Очищенносветокаменный
+part.material.osmium=Осмиевый
+
+# Fun Stuff
+part.material.pokefennium=Покфениумный
+part.material.fairy=Волшебный
+part.material.red.aurum=Красноаурумный
+
+# Applied Energistics 2
+part.material.certus.quartz=Истиннокварцевый
+
+# Biomes O' Plenty
+part.material.ender.amethyst=АметистоКраевый
+
+# Botania
+part.material.manasteel=Манастальной
+part.material.terrasteel=Террастальной
+part.material.elementium=Элементиевый
+
+# Galacticraft
+part.material.desh=Деш
+
+# Simple Ores Core
+part.material.adamantium=Адамантиевый
+part.material.mythril=Мифриловый
+part.material.onyx=Ониксовый
+
+# Simple Ores Fusion
+part.material.sinisite=Синасайтовый
+part.material.thyrium=Тириумовый
+
+# Simple Ores Netherrock
+part.material.argonite=Аргонитовый
+part.material.ashstone=Пепельный
+part.material.dragonstone=Драконий
+part.material.fyrite=Фуритовый
+part.material.illumenite=Иллеминитовый
+part.material.malachite=Малахитовый
+
+# Twilight Forest
+part.material.fiery=Огненный
+part.material.ironwood=Железнодревесный
+part.material.knightmetal=Металлорыцарный
+part.material.steelleaf=Стальнолистовый
+
+# Generic Material
+part.material.amethyst=Аметистовый
+part.material.peridot=Перидотовый
+part.material.ruby=Рубиновый
+part.material.sapphire=Сапфировый
+part.material.dark.steel=Тёмностальной
+
+# Oddmod
+part.material.kroostyl=Кроостиловый
+
+# Thaumic Integration
+part.material.drulloy=Драллоевый
+
+# Erebus
+part.material.jade=Нефритовый
+
+# Thaumcraft
+part.material.void.metal=Пустотнометаллический
 
 # Fix for two words adjectives
 # Metallurgy Base
@@ -339,6 +462,8 @@ tool.throwingknife.damascussteel=Метательный нож из дамасс
 tool.javelin.damascussteel=Копьё из дамасской стали
 part.toolrod.damascus.steel=Стержень из дамасской стали
 part.pickaxe.head.damascus.steel=Обух кирки из дамасской стали
+part.battle.sign.damascus.steel=Боевая табличка из дамасской стали
+part.chunk.damascus.steel=Кусок из дамасской стали
 part.shovel.head.damascus.steel=Штык лопаты из дамасской стали
 part.axe.head.damascus.steel=Обух топора из дамасской стали
 part.binding.damascus.steel=Крепление из дамасской стали
@@ -360,7 +485,7 @@ part.excavator.head.damascus.steel=Пластина копалки из дама
 part.tool.shard.damascus.steel=Осколок из дамасской стали
 part.large.sword.blade.damascus.steel=Большое лезвие меча из дамасской стали
 part.hammer.head.damascus.steel=Боёк молота из дамасской стали
-part.arrow.head.damascus.steel=Наконечник стрелы из дамасской стали
+part.arrowhead.damascus.steel=Наконечник стрелы из дамасской стали
 part.shuriken.damascus.steel=Сюрикэн из дамасской стали
 part.crossbow.limb.damascus.steel=Плечо арбалета из дамасской стали
 part.crossbow.body.damascus.steel=Основа арбалета из дамасской стали
@@ -394,6 +519,8 @@ tool.throwingknife.shadowiron=Метательный нож из теневог�
 tool.javelin.shadowiron=Копьё из теневого железа
 part.toolrod.shadow.iron=Стержень из теневого железа
 part.pickaxe.head.shadow.iron=Обух кирки из теневого железа
+part.battle.sign.shadow.iron=Боевая табличка из теневого железа
+part.chunk.shadow.iron=Кусок из теневого железа
 part.shovel.head.shadow.iron=Штык лопаты из теневого железа
 part.axe.head.shadow.iron=Обух топора из теневого железа
 part.binding.shadow.iron=Крепление из теневого железа
@@ -415,7 +542,7 @@ part.excavator.head.shadow.iron=Пластина копалки из тенев�
 part.tool.shard.shadow.iron=Осколок из теневого железа
 part.large.sword.blade.shadow.iron=Большое лезвие меча из теневого железа
 part.hammer.head.shadow.iron=Боёк молота из теневого железа
-part.arrow.head.shadow.iron=Наконечник стрелы из теневого железа
+part.arrowhead.shadow.iron=Наконечник стрелы из теневого железа
 part.shuriken.shadow.iron=Сюрикэн из теневого железа
 part.crossbow.limb.shadow.iron=Плечо арбалета из теневого железа
 part.crossbow.body.shadow.iron=Основа арбалета из теневого железа
@@ -448,6 +575,8 @@ tool.throwingknife.shadowsteel=Метательный нож из теневой
 tool.javelin.shadowsteel=Копьё из теневой стали
 part.toolrod.shadow.steel=Стержень из теневой стали
 part.pickaxe.head.shadow.steel=Обух кирки из теневой стали
+part.battle.sign.shadow.steel=Боевая табличка из теневой стали
+part.chunk.shadow.steel=Кусок из теневой стали
 part.shovel.head.shadow.steel=Штык лопаты из теневой стали
 part.axe.head.shadow.steel=Обух топора из теневой стали
 part.binding.shadow.steel=Крепление из теневой стали
@@ -469,7 +598,7 @@ part.excavator.head.shadow.steel=Пластина копалки из тенев
 part.tool.shard.shadow.steel=Осколок из теневой стали
 part.large.sword.blade.shadow.steel=Большое лезвие меча из теневой стали
 part.hammer.head.shadow.steel=Боёк молота из теневой стали
-part.arrow.head.shadow.steel=Наконечник стрелы из теневой стали
+part.arrowhead.shadow.steel=Наконечник стрелы из теневой стали
 part.shuriken.shadow.steel=Сюрикэн из теневой стали
 part.crossbow.limb.shadow.steel=Плечо арбалета из теневой стали
 part.crossbow.body.shadow.steel=Основа арбалета из теневой стали
@@ -503,6 +632,8 @@ tool.throwingknife.astralsilver=Метательный нож из астрал�
 tool.javelin.astralsilver=Копьё из астрального серебра
 part.toolrod.astral.silver=Стержень из астрального серебра
 part.pickaxe.head.astral.silver=Обух кирки из астрального серебра
+part.battle.sign.astral.silver=Боевая табличка из астрального серебра
+part.chunk.astral.silver=Кусок из астрального серебра
 part.shovel.head.astral.silver=Штык лопаты из астрального серебра
 part.axe.head.astral.silver=Обух топора из астрального серебра
 part.binding.astral.silver=Крепление из астрального серебра
@@ -524,7 +655,7 @@ part.excavator.head.astral.silver=Пластина копалки из астр�
 part.tool.shard.astral.silver=Осколок из астрального серебра
 part.large.sword.blade.astral.silver=Большое лезвие меча из астрального серебра
 part.hammer.head.astral.silver=Боёк молота из астрального серебра
-part.arrow.head.astral.silver=Наконечник стрелы из астрального серебра
+part.arrowhead.astral.silver=Наконечник стрелы из астрального серебра
 part.shuriken.astral.silver=Сюрикэн из астрального серебра
 part.crossbow.limb.astral.silver=Плечо арбалета из астрального серебра
 part.crossbow.body.astral.silver=Основа арбалета из астрального серебра
@@ -557,6 +688,8 @@ tool.throwingknife.blacksteel=Метательный нож из чёрной с
 tool.javelin.blacksteel=Копьё из чёрной стали
 part.toolrod.black.steel=Стержень из чёрной стали
 part.pickaxe.head.black.steel=Обух кирки из чёрной стали
+part.battle.sign.black.steel=Боевая табличка из чёрной стали
+part.chunk.black.steel=Кусок из чёрной стали
 part.shovel.head.black.steel=Штык лопаты из чёрной стали
 part.axe.head.black.steel=Обух топора из чёрной стали
 part.binding.black.steel=Крепление из чёрной стали
@@ -578,7 +711,7 @@ part.excavator.head.black.steel=Пластина копалки из чёрно�
 part.tool.shard.black.steel=Осколок из чёрной стали
 part.large.sword.blade.black.steel=Большое лезвие меча из чёрной стали
 part.hammer.head.black.steel=Боёк молота из чёрной стали
-part.arrow.head.black.steel=Наконечник стрелы из чёрной стали
+part.arrowhead.black.steel=Наконечник стрелы из чёрной стали
 part.shuriken.black.steel=Сюрикэн из чёрной стали
 part.crossbow.limb.black.steel=Плечо арбалета из чёрной стали
 part.crossbow.body.black.steel=Основа арбалета из чёрной стали
@@ -611,6 +744,8 @@ tool.throwingknife.deepiron=Метательный нож из глубинно�
 tool.javelin.deepiron=Копьё из глубинного железа
 part.toolrod.deep.iron=Стержень из глубинного железа
 part.pickaxe.head.deep.iron=Обух кирки из глубинного железа
+part.battle.sign.deep.iron=Боевая табличка из глубинного железа
+part.chunk.deep.iron=Кусок из глубинного железа
 part.shovel.head.deep.iron=Штык лопаты из глубинного железа
 part.axe.head.deep.iron=Обух топора из глубинного железа
 part.binding.deep.iron=Крепление из глубинного железа
@@ -632,7 +767,7 @@ part.excavator.head.deep.iron=Пластина копалки из глубин�
 part.tool.shard.deep.iron=Осколок из глубинного железа
 part.large.sword.blade.deep.iron=Большое лезвие меча из глубинного железа
 part.hammer.head.deep.iron=Боёк молота из глубинного железа
-part.arrow.head.deep.iron=Наконечник стрелы из глубинного железа
+part.arrowhead.deep.iron=Наконечник стрелы из глубинного железа
 part.shuriken.deep.iron=Сюрикэн из глубинного железа
 part.crossbow.limb.deep.iron=Плечо арбалета из глубинного железа
 part.crossbow.body.deep.iron=Основа арбалета из глубинного железа
@@ -666,6 +801,8 @@ tool.throwingknife.desichalkos=Метательный нож из дезихал
 tool.javelin.desichalkos=Копьё из дезихалькия
 part.toolrod.desichalkos=Стержень из дезихалькия
 part.pickaxe.head.desichalkos=Обух кирки из дезихалькия
+part.battle.sign.desichalkos=Боевая табличка из дезихалькия
+part.chunk.desichalkos=Кусок из дезихалькия
 part.shovel.head.desichalkos=Штык лопаты из дезихалькия
 part.axe.head.desichalkos=Обух топора из дезихалькия
 part.binding.desichalkos=Крепление из дезихалькия
@@ -687,7 +824,7 @@ part.excavator.head.desichalkos=Пластина копалки из дезих�
 part.tool.shard.desichalkos=Осколок из дезихалькия
 part.large.sword.blade.desichalkos=Большое лезвие меча из дезихалькия
 part.hammer.head.desichalkos=Боёк молота из дезихалькия
-part.arrow.head.desichalkos=Наконечник стрелы из дезихалькия
+part.arrowhead.desichalkos=Наконечник стрелы из дезихалькия
 part.shuriken.desichalkos=Сюрикэн из дезихалькия
 part.crossbow.limb.desichalkos=Плечо арбалета из дезихалькия
 part.crossbow.body.desichalkos=Основа арбалета из дезихалькия
@@ -721,6 +858,8 @@ tool.throwingknife.bloodwood=Метательный нож из кровавой
 tool.javelin.bloodwood=Копьё из кровавой древесины
 part.toolrod.bloodwood=Стержень из кровавой древесины
 part.pickaxe.head.bloodwood=Обух кирки из кровавой древесины
+part.battle.sign.bloodwood=Боевая табличка из кровавой древесины
+part.chunk.bloodwood=Кусок из кровавой древесины
 part.shovel.head.bloodwood=Штык лопаты из кровавой древесины
 part.axe.head.bloodwood=Обух топора из кровавой древесины
 part.binding.bloodwood=Крепление из кровавой древесины
@@ -742,7 +881,7 @@ part.excavator.head.bloodwood=Пластина копалки из кровав�
 part.tool.shard.bloodwood=Осколок из кровавой древесины
 part.large.sword.blade.bloodwood=Большое лезвие меча из кровавой древесины
 part.hammer.head.bloodwood=Боёк молота из кровавой древесины
-part.arrow.head.bloodwood=Наконечник стрелы из кровавой древесины
+part.arrowhead.bloodwood=Наконечник стрелы из кровавой древесины
 part.shuriken.bloodwood=Сюрикэн из кровавой древесины
 part.crossbow.limb.bloodwood=Плечо арбалета из кровавой древесины
 part.crossbow.body.bloodwood=Основа арбалета из кровавой древесины
@@ -775,6 +914,8 @@ tool.throwingknife.darkwood=Метательный нож из тёмной др
 tool.javelin.darkwood=Копьё из тёмной древесины
 part.toolrod.darkwood=Стержень из тёмной древесины
 part.pickaxe.head.darkwood=Обух кирки из тёмной древесины
+part.battle.sign.darkwood=Боевая табличка из тёмной древесины
+part.chunk.darkwood=Кусок из тёмной древесины
 part.shovel.head.darkwood=Штык лопаты из тёмной древесины
 part.axe.head.darkwood=Обух топора из тёмной древесины
 part.binding.darkwood=Крепление из тёмной древесины
@@ -796,7 +937,7 @@ part.excavator.head.darkwood=Пластина копалки из тёмной �
 part.tool.shard.darkwood=Осколок из тёмной древесины
 part.large.sword.blade.darkwood=Большое лезвие меча из тёмной древесины
 part.hammer.head.darkwood=Боёк молота из тёмной древесины
-part.arrow.head.darkwood=Наконечник стрелы из тёмной древесины
+part.arrowhead.darkwood=Наконечник стрелы из тёмной древесины
 part.shuriken.darkwood=Сюрикэн из тёмной древесины
 part.crossbow.limb.darkwood=Плечо арбалета из тёмной древесины
 part.crossbow.body.darkwood=Основа арбалета из тёмной древесины
@@ -829,6 +970,8 @@ tool.throwingknife.fusewood=Метательный нож из плавкой д
 tool.javelin.fusewood=Копьё из плавкой древесины
 part.toolrod.fusewood=Стержень из плавкой древесины
 part.pickaxe.head.fusewood=Обух кирки из плавкой древесины
+part.battle.sign.fusewood=Боевая табличка из плавкой древесины
+part.chunk.fusewood=Кусок из плавкой древесины
 part.shovel.head.fusewood=Штык лопаты из плавкой древесины
 part.axe.head.fusewood=Обух топора из плавкой древесины
 part.binding.fusewood=Крепление из плавкой древесины
@@ -850,7 +993,7 @@ part.excavator.head.fusewood=Пластина копалки из плавкой
 part.tool.shard.fusewood=Осколок из плавкой древесины
 part.large.sword.blade.fusewood=Большое лезвие меча из плавкой древесины
 part.hammer.head.fusewood=Боёк молота из плавкой древесины
-part.arrow.head.fusewood=Наконечник стрелы из плавкой древесины
+part.arrowhead.fusewood=Наконечник стрелы из плавкой древесины
 part.shuriken.fusewood=Сюрикэн из плавкой древесины
 part.crossbow.limb.fusewood=Плечо арбалета из плавкой древесины
 part.crossbow.body.fusewood=Основа арбалета из плавкой древесины
@@ -883,6 +1026,8 @@ tool.throwingknife.ghostwood=Метательный нож из призрачн
 tool.javelin.ghostwood=Копьё из призрачной древесины
 part.toolrod.ghostwood=Стержень из призрачной древесины
 part.pickaxe.head.ghostwood=Обух кирки из призрачной древесины
+part.battle.sign.ghostwood=Боевая табличка из призрачной древесины
+part.chunk.ghostwood=Кусок из призрачной древесины
 part.shovel.head.ghostwood=Штык лопаты из призрачной древесины
 part.axe.head.ghostwood=Обух топора из призрачной древесины
 part.binding.ghostwood=Крепление из призрачной древесины
@@ -904,7 +1049,7 @@ part.excavator.head.ghostwood=Пластина копалки из призра�
 part.tool.shard.ghostwood=Осколок из призрачной древесины
 part.large.sword.blade.ghostwood=Большое лезвие меча из призрачной древесины
 part.hammer.head.ghostwood=Боёк молота из призрачной древесины
-part.arrow.head.ghostwood=Наконечник стрелы из призрачной древесины
+part.arrowhead.ghostwood=Наконечник стрелы из призрачной древесины
 part.shuriken.ghostwood=Сюрикэн из призрачной древесины
 part.crossbow.limb.ghostwood=Плечо арбалета из призрачной древесины
 part.crossbow.body.ghostwood=Основа арбалета из призрачной древесины
@@ -937,6 +1082,8 @@ tool.throwingknife.netherquartz=Метательный нож из кварца 
 tool.javelin.netherquartz=Копьё из кварца Нижнего мира
 part.toolrod.nether.quartz=Стержень из кварца Нижнего мира
 part.pickaxe.head.nether.quartz=Обух кирки из кварца Нижнего мира
+part.battle.sign.nether.quartz=Боевая табличка из кварца Нижнего мира
+part.chunk.nether.quartz=Кусок из кварца Нижнего мира
 part.shovel.head.nether.quartz=Штык лопаты из кварца Нижнего мира
 part.axe.head.nether.quartz=Обух топора из кварца Нижнего мира
 part.binding.nether.quartz=Крепление из кварца Нижнего мира
@@ -958,7 +1105,7 @@ part.excavator.head.nether.quartz=Пластина копалки из квар�
 part.tool.shard.nether.quartz=Осколок из кварца Нижнего мира
 part.large.sword.blade.nether.quartz=Большое лезвие меча из кварца Нижнего мира
 part.hammer.head.nether.quartz=Боёк молота из кварца Нижнего мира
-part.arrow.head.nether.quartz=Наконечник стрелы из кварца Нижнего мира
+part.arrowhead.nether.quartz=Наконечник стрелы из кварца Нижнего мира
 part.shuriken.nether.quartz=Сюрикэн из кварца Нижнего мира
 part.crossbow.limb.nether.quartz=Плечо арбалета из кварца Нижнего мира
 part.crossbow.body.nether.quartz=Основа арбалета из кварца Нижнего мира
@@ -992,6 +1139,8 @@ tool.throwingknife.refinedglowstone=Метательный нож из очищ�
 tool.javelin.refinedglowstone=Копьё из очищенного светокамня
 part.toolrod.refined.glowstone=Стержень из очищенного светокамня
 part.pickaxe.head.refined.glowstone=Обух кирки из очищенного светокамня
+part.battle.sign.refined.glowstone=Боевая табличка из очищенного светокамня
+part.chunk.refined.glowstone=Кусок из очищенного светокамня
 part.shovel.head.refined.glowstone=Штык лопаты из очищенного светокамня
 part.axe.head.refined.glowstone=Обух топора из очищенного светокамня
 part.binding.refined.glowstone=Крепление из очищенного светокамня
@@ -1013,7 +1162,7 @@ part.excavator.head.refined.glowstone=Пластина копалки из оч�
 part.tool.shard.refined.glowstone=Осколок из очищенного светокамня
 part.large.sword.blade.refined.glowstone=Большое лезвие меча из очищенного светокамня
 part.hammer.head.refined.glowstone=Боёк молота из очищенного светокамня
-part.arrow.head.refined.glowstone=Наконечник стрелы из очищенного светокамня
+part.arrowhead.refined.glowstone=Наконечник стрелы из очищенного светокамня
 part.shuriken.refined.glowstone=Сюрикэн из очищенного светокамня
 part.crossbow.limb.refined.glowstone=Плечо арбалета из очищенного светокамня
 part.crossbow.body.refined.glowstone=Основа арбалета из очищенного светокамня
@@ -1047,6 +1196,8 @@ tool.throwingknife.redaurum=Метательный нож из красного 
 tool.javelin.redaurum=Копьё из красного аурума
 part.toolrod.red.aurum=Стержень из красного аурума
 part.pickaxe.head.red.aurum=Обух кирки из красного аурума
+part.battle.sign.red.aurum=Боевая табличка из красного аурума
+part.chunk.red.aurum=Кусок из красного аурума
 part.shovel.head.red.aurum=Штык лопаты из красного аурума
 part.axe.head.red.aurum=Обух топора из красного аурума
 part.binding.red.aurum=Крепление из красного аурума
@@ -1068,7 +1219,7 @@ part.excavator.head.red.aurum=Пластина копалки из красно�
 part.tool.shard.red.aurum=Осколок из красного аурума
 part.large.sword.blade.red.aurum=Большое лезвие меча из красного аурума
 part.hammer.head.red.aurum=Боёк молота из красного аурума
-part.arrow.head.red.aurum=Наконечник стрелы из красного аурума
+part.arrowhead.red.aurum=Наконечник стрелы из красного аурума
 part.shuriken.red.aurum=Сюрикэн из красного аурума
 part.crossbow.limb.red.aurum=Плечо арбалета из красного аурума
 part.crossbow.body.red.aurum=Основа арбалета из красного аурума
@@ -1102,6 +1253,8 @@ tool.throwingknife.certusquartz=Метательный нож из истинн�
 tool.javelin.certusquartz=Копьё из истинного кварца
 part.toolrod.certus.quartz=Стержень из истинного кварца
 part.pickaxe.head.certus.quartz=Обух кирки из истинного кварца
+part.battle.sign.certus.quartz=Боевая табличка из истинного кварца
+part.chunk.certus.quartz=Кусок из истинного кварца
 part.shovel.head.certus.quartz=Штык лопаты из истинного кварца
 part.axe.head.certus.quartz=Обух топора из истинного кварца
 part.binding.certus.quartz=Крепление из истинного кварца
@@ -1123,7 +1276,7 @@ part.excavator.head.certus.quartz=Пластина копалки из исти�
 part.tool.shard.certus.quartz=Осколок из истинного кварца
 part.large.sword.blade.certus.quartz=Большое лезвие меча из истинного кварца
 part.hammer.head.certus.quartz=Боёк молота из истинного кварца
-part.arrow.head.certus.quartz=Наконечник стрелы из истинного кварца
+part.arrowhead.certus.quartz=Наконечник стрелы из истинного кварца
 part.shuriken.certus.quartz=Сюрикэн из истинного кварца
 part.crossbow.limb.certus.quartz=Плечо арбалета из истинного кварца
 part.crossbow.body.certus.quartz=Основа арбалета из истинного кварца
@@ -1157,6 +1310,8 @@ tool.throwingknife.enderamethyst=Метательный нож из аметис
 tool.javelin.enderamethyst=Копьё из аметиста Края
 part.toolrod.ender.amethyst=Стержень из аметиста Края
 part.pickaxe.head.ender.amethyst=Обух кирки из аметиста Края
+part.battle.sign.ender.amethyst=Боевая табличка из аметиста Края
+part.chunk.ender.amethyst=Кусок из аметиста Края
 part.shovel.head.ender.amethyst=Штык лопаты из аметиста Края
 part.axe.head.ender.amethyst=Обух топора из аметиста Края
 part.binding.ender.amethyst=Крепление из аметиста Края
@@ -1178,7 +1333,7 @@ part.excavator.head.ender.amethyst=Пластина копалки из амет
 part.tool.shard.ender.amethyst=Осколок из аметиста Края
 part.large.sword.blade.ender.amethyst=Большое лезвие меча из аметиста Края
 part.hammer.head.ender.amethyst=Боёк молота из аметиста Края
-part.arrow.head.ender.amethyst=Наконечник стрелы из аметиста Края
+part.arrowhead.ender.amethyst=Наконечник стрелы из аметиста Края
 part.shuriken.ender.amethyst=Сюрикэн из аметиста Края
 part.crossbow.limb.ender.amethyst=Плечо арбалета из аметиста Края
 part.crossbow.body.ender.amethyst=Основа арбалета из аметиста Края
@@ -1212,6 +1367,8 @@ tool.throwingknife.manasteel=Метательный нож из манастал
 tool.javelin.manasteel=Копьё из манастали
 part.toolrod.manasteel=Стержень из манастали
 part.pickaxe.head.manasteel=Обух кирки из манастали
+part.battle.sign.manasteel=Боевая табличка из манастали
+part.chunk.manasteel=Кусок из манастали
 part.shovel.head.manasteel=Штык лопаты из манастали
 part.axe.head.manasteel=Обух топора из манастали
 part.binding.manasteel=Крепление из манастали
@@ -1233,7 +1390,7 @@ part.excavator.head.manasteel=Пластина копалки из манаст�
 part.tool.shard.manasteel=Осколок из манастали
 part.large.sword.blade.manasteel=Большое лезвие меча из манастали
 part.hammer.head.manasteel=Боёк молота из манастали
-part.arrow.head.manasteel=Наконечник стрелы из манастали
+part.arrowhead.manasteel=Наконечник стрелы из манастали
 part.shuriken.manasteel=Сюрикэн из манастали
 part.crossbow.limb.manasteel=Плечо арбалета из манастали
 part.crossbow.body.manasteel=Основа арбалета из манастали
@@ -1266,6 +1423,8 @@ tool.throwingknife.terrasteel=Метательный нож из терраст�
 tool.javelin.terrasteel=Копьё из террастали
 part.toolrod.terrasteel=Стержень из террастали
 part.pickaxe.head.terrasteel=Обух кирки из террастали
+part.battle.sign.terrasteel=Боевая табличка из террастали
+part.chunk.terrasteel=Кусок из террастали
 part.shovel.head.terrasteel=Штык лопаты из террастали
 part.axe.head.terrasteel=Обух топора из террастали
 part.binding.terrasteel=Крепление из террастали
@@ -1287,7 +1446,7 @@ part.excavator.head.terrasteel=Пластина копалки из террас
 part.tool.shard.terrasteel=Осколок из террастали
 part.large.sword.blade.terrasteel=Большое лезвие меча из террастали
 part.hammer.head.terrasteel=Боёк молота из террастали
-part.arrow.head.terrasteel=Наконечник стрелы из террастали
+part.arrowhead.terrasteel=Наконечник стрелы из террастали
 part.shuriken.terrasteel=Сюрикэн из террастали
 part.crossbow.limb.terrasteel=Плечо арбалета из террастали
 part.crossbow.body.terrasteel=Основа арбалета из террастали
@@ -1321,6 +1480,8 @@ tool.throwingknife.desh=Метательный нож из деш
 tool.javelin.desh=Копьё из деш
 part.toolrod.desh=Стержень из деш
 part.pickaxe.head.desh=Обух кирки из деш
+part.battle.sign.desh=Боевая табличка из деш
+part.chunk.desh=Кусок из деш
 part.shovel.head.desh=Штык лопаты из деш
 part.axe.head.desh=Обух топора из деш
 part.binding.desh=Крепление из деш
@@ -1342,7 +1503,7 @@ part.excavator.head.desh=Пластина копалки из деш
 part.tool.shard.desh=Осколок из деш
 part.large.sword.blade.desh=Большое лезвие меча из деш
 part.hammer.head.desh=Боёк молота из деш
-part.arrow.head.desh=Наконечник стрелы из деш
+part.arrowhead.desh=Наконечник стрелы из деш
 part.shuriken.desh=Сюрикэн из деш
 part.crossbow.limb.desh=Плечо арбалета из деш
 part.crossbow.body.desh=Основа арбалета из деш
@@ -1376,6 +1537,8 @@ tool.throwingknife.ironwood=Метательный нож из железног�
 tool.javelin.ironwood=Копьё из железного дерева
 part.toolrod.ironwood=Стержень из железного дерева
 part.pickaxe.head.ironwood=Обух кирки из железного дерева
+part.battle.sign.ironwood=Боевая табличка из железного дерева
+part.chunk.ironwood=Кусок из железного дерева
 part.shovel.head.ironwood=Штык лопаты из железного дерева
 part.axe.head.ironwood=Обух топора из железного дерева
 part.binding.ironwood=Крепление из железного дерева
@@ -1397,7 +1560,7 @@ part.excavator.head.ironwood=Пластина копалки из железно
 part.tool.shard.ironwood=Осколок из железного дерева
 part.large.sword.blade.ironwood=Большое лезвие меча из железного дерева
 part.hammer.head.ironwood=Боёк молота из железного дерева
-part.arrow.head.ironwood=Наконечник стрелы из железного дерева
+part.arrowhead.ironwood=Наконечник стрелы из железного дерева
 part.shuriken.ironwood=Сюрикэн из железного дерева
 part.crossbow.limb.ironwood=Плечо арбалета из железного дерева
 part.crossbow.body.ironwood=Основа арбалета из железного дерева
@@ -1430,6 +1593,8 @@ tool.throwingknife.knightmetal=Метательный нож из металла
 tool.javelin.knightmetal=Копьё из металла рыцаря
 part.toolrod.knightmetal=Стержень из металла рыцаря
 part.pickaxe.head.knightmetal=Обух кирки из металла рыцаря
+part.battle.sign.knightmetal=Боевая табличка из металла рыцаря
+part.chunk.knightmetal=Кусок из металла рыцаря
 part.shovel.head.knightmetal=Штык лопаты из металла рыцаря
 part.axe.head.knightmetal=Обух топора из металла рыцаря
 part.binding.knightmetal=Крепление из металла рыцаря
@@ -1451,7 +1616,7 @@ part.excavator.head.knightmetal=Пластина копалки из метал�
 part.tool.shard.knightmetal=Осколок из металла рыцаря
 part.large.sword.blade.knightmetal=Большое лезвие меча из металла рыцаря
 part.hammer.head.knightmetal=Боёк молота из металла рыцаря
-part.arrow.head.knightmetal=Наконечник стрелы из металла рыцаря
+part.arrowhead.knightmetal=Наконечник стрелы из металла рыцаря
 part.shuriken.knightmetal=Сюрикэн из металла рыцаря
 part.crossbow.limb.knightmetal=Плечо арбалета из металла рыцаря
 part.crossbow.body.knightmetal=Основа арбалета из металла рыцаря
@@ -1484,6 +1649,8 @@ tool.throwingknife.steelleaf=Метательный нож из стальног
 tool.javelin.steelleaf=Копьё из стального листа
 part.toolrod.steelleaf=Стержень из стального листа
 part.pickaxe.head.steelleaf=Обух кирки из стального листа
+part.battle.sign.knightmetal=Боевая табличка из металла рыцаря
+part.chunk.knightmetal=Кусок из металла рыцаря
 part.shovel.head.steelleaf=Штык лопаты из стального листа
 part.axe.head.steelleaf=Обух топора из стального листа
 part.binding.steelleaf=Крепление из стального листа
@@ -1505,68 +1672,14 @@ part.excavator.head.steelleaf=Пластина копалки из стальн�
 part.tool.shard.steelleaf=Осколок из стального листа
 part.large.sword.blade.steelleaf=Большое лезвие меча из стального листа
 part.hammer.head.steelleaf=Боёк молота из стального листа
-part.arrow.head.steelleaf=Наконечник стрелы из стального листа
+part.arrowhead.steelleaf=Наконечник стрелы из стального листа
 part.shuriken.steelleaf=Сюрикэн из стального листа
 part.crossbow.limb.steelleaf=Плечо арбалета из стального листа
 part.crossbow.body.steelleaf=Основа арбалета из стального листа
 part.bow.limb.steelleaf=Плечо лука из стального листа
 part.bolt.steelleaf=Болт из стального листа
 
-# Ender IO
-tool.pickaxe.bluesteel=Кирка из синей стали
-tool.shovel.bluesteel=Лопата из синей стали
-tool.hatchet.bluesteel=Топорик из синей стали
-tool.broadsword.bluesteel=Палаш из синей стали
-tool.longsword.bluesteel=Полуторный меч из синей стали
-tool.rapier.bluesteel=Рапира из синей стали
-tool.dagger.bluesteel=Кинжал из синей стали
-tool.cutlass.bluesteel=Сабля из синей стали
-tool.fryingpan.bluesteel=Сковорода из синей стали
-tool.battlesign.bluesteel=Боевая табличка из синей стали
-tool.mattock.bluesteel=Мотыготопор из синей стали
-tool.chisel.bluesteel=Стамеска из синей стали
-tool.lumberaxe.bluesteel=Большой топор из синей стали
-tool.cleaver.bluesteel=Тесак из синей стали
-tool.scythe.bluesteel=Коса из синей стали
-tool.excavator.bluesteel=Копалка из синей стали
-tool.hammer.bluesteel=Молот из синей стали
-tool.battleaxe.bluesteel=Боевой топор из синей стали
-tool.shortbow.bluesteel=Короткий лук из синей стали
-tool.shuriken.bluesteel=Сюрикэн из синей стали
-tool.arrowammo.bluesteel=Стрелы из синей стали
-tool.boltammo.bluesteel=Болты из синей стали
-tool.throwingknife.bluesteel=Метательный нож из синей стали
-tool.javelin.bluesteel=Копьё из синей стали
-part.toolrod.blue.steel=Стержень из синей стали
-part.pickaxe.head.blue.steel=Обух кирки из синей стали
-part.shovel.head.blue.steel=Штык лопаты из синей стали
-part.axe.head.blue.steel=Обух топора из синей стали
-part.binding.blue.steel=Крепление из синей стали
-part.tough.binding.blue.steel=Прочное крепление из синей стали
-part.tough.rod.blue.steel=Прочный стержень из синей стали
-part.large.plate.blue.steel=Большая пластина из синей стали
-part.sword.blade.blue.steel=Лезвие меча из синей стали
-part.large.guard.blue.steel=Широкая гарда из синей стали
-part.medium.guard.blue.steel=Малая гарда из синей стали
-part.crossbar.blue.steel=Поперечная гарда из синей стали
-part.knife.blade.blue.steel=Лезвие ножа из синей стали
-part.full.guard.blue.steel=Полная гарда из синей стали
-part.frypan.head.blue.steel=Сковорода из синей стали
-part.sign.head.blue.steel=Табличка из синей стали
-part.chisel.head.blue.steel=Лезвие стамески из синей стали
-part.scythe.head.blue.steel=Лезвие косы из синей стали
-part.lumber.axe.head.blue.steel=Большой обух топора из синей стали
-part.excavator.head.blue.steel=Пластина копалки из синей стали
-part.tool.shard.blue.steel=Осколок из синей стали
-part.large.sword.blade.blue.steel=Большое лезвие меча из синей стали
-part.hammer.head.blue.steel=Боёк молота из синей стали
-part.arrow.head.blue.steel=Наконечник стрелы из синей стали
-part.shuriken.blue.steel=Сюрикэн из синей стали
-part.crossbow.limb.blue.steel=Плечо арбалета из синей стали
-part.crossbow.body.blue.steel=Основа арбалета из синей стали
-part.bow.limb.blue.steel=Плечо лука из синей стали
-part.bolt.blue.steel=Болт из синей стали
-
+# Generic Material
 tool.pickaxe.darksteel=Кирка из тёмной стали
 tool.shovel.darksteel=Лопата из тёмной стали
 tool.hatchet.darksteel=Топорик из тёмной стали
@@ -1593,6 +1706,8 @@ tool.throwingknife.darksteel=Метательный нож из тёмной с�
 tool.javelin.darksteel=Копьё из тёмной стали
 part.toolrod.dark.steel=Стержень из тёмной стали
 part.pickaxe.head.dark.steel=Обух кирки из тёмной стали
+part.battle.sign.dark.steel=Боевая табличка из тёмной стали
+part.chunk.dark.steel=Кусок из тёмной стали
 part.shovel.head.dark.steel=Штык лопаты из тёмной стали
 part.axe.head.dark.steel=Обух топора из тёмной стали
 part.binding.dark.steel=Крепление из тёмной стали
@@ -1614,12 +1729,69 @@ part.excavator.head.dark.steel=Пластина копалки из тёмной
 part.tool.shard.dark.steel=Осколок из тёмной стали
 part.large.sword.blade.dark.steel=Большое лезвие меча из тёмной стали
 part.hammer.head.dark.steel=Боёк молота из тёмной стали
-part.arrow.head.dark.steel=Наконечник стрелы из тёмной стали
+part.arrowhead.dark.steel=Наконечник стрелы из тёмной стали
 part.shuriken.dark.steel=Сюрикэн из тёмной стали
 part.crossbow.limb.dark.steel=Плечо арбалета из тёмной стали
 part.crossbow.body.dark.steel=Основа арбалета из тёмной стали
 part.bow.limb.dark.steel=Плечо лука из тёмной стали
 part.bolt.dark.steel=Болт из тёмной стали
+
+# Thaumcraft
+tool.pickaxe.voidmetal=Кирка из пустотного металла
+tool.shovel.voidmetal=Лопата из пустотного металла
+tool.hatchet.voidmetal=Топорик из пустотного металла
+tool.broadsword.voidmetal=Палаш из пустотного металла
+tool.longsword.voidmetal=Полуторный меч из пустотного металла
+tool.rapier.voidmetal=Рапира из пустотного металла
+tool.dagger.voidmetal=Кинжал из пустотного металла
+tool.cutlass.voidmetal=Сабля из пустотного металла
+tool.fryingpan.voidmetal=Сковорода из пустотного металла
+tool.battlesign.voidmetal=Боевая табличка из пустотного металла
+tool.mattock.voidmetal=Мотыготопор из пустотного металла
+tool.chisel.voidmetal=Стамеска из пустотного металла
+tool.lumberaxe.voidmetal=Большой топор из пустотного металла
+tool.cleaver.voidmetal=Тесак из пустотного металла
+tool.scythe.voidmetal=Коса из пустотного металла
+tool.excavator.voidmetal=Копалка из пустотного металла
+tool.hammer.voidmetal=Молот из пустотного металла
+tool.battleaxe.voidmetal=Боевой топор из пустотного металла
+tool.shortbow.voidmetal=Короткий лук из пустотного металла
+tool.shuriken.voidmetal=Сюрикэн из пустотного металла
+tool.arrowammo.voidmetal=Стрелы из пустотного металла
+tool.boltammo.voidmetal=Болты из пустотного металла
+tool.throwingknife.voidmetal=Метательный нож из пустотного металла
+tool.javelin.voidmetal=Копьё из пустотного металла
+part.toolrod.void.metal=Стержень из пустотного металла
+part.pickaxe.head.void.metal=Обух кирки из пустотного металла
+part.battle.sign.void.metal=Боевая табличка из пустотного металла
+part.chunk.void.metal=Кусок из пустотного металла
+part.shovel.head.void.metal=Штык лопаты из пустотного металла
+part.axe.head.void.metal=Обух топора из пустотного металла
+part.binding.void.metal=Крепление из пустотного металла
+part.tough.binding.void.metal=Прочное крепление из пустотного металла
+part.tough.rod.void.metal=Прочный стержень из пустотного металла
+part.large.plate.void.metal=Большая пластина из пустотного металла
+part.sword.blade.void.metal=Лезвие меча из пустотного металла
+part.large.guard.void.metal=Широкая гарда из пустотного металла
+part.medium.guard.void.metal=Малая гарда из пустотного металла
+part.crossbar.void.metal=Поперечная гарда из пустотного металла
+part.knife.blade.void.metal=Лезвие ножа из пустотного металла
+part.full.guard.void.metal=Полная гарда из пустотного металла
+part.frypan.head.void.metal=Сковорода из пустотного металла
+part.sign.head.void.metal=Табличка из пустотного металла
+part.chisel.head.void.metal=Лезвие стамески из пустотного металла
+part.scythe.head.void.metal=Лезвие косы из пустотного металла
+part.lumber.axe.head.void.metal=Большой обух топора из пустотного металла
+part.excavator.head.void.metal=Пластина копалки из пустотного металла
+part.tool.shard.void.metal=Осколок из пустотного металла
+part.large.sword.blade.void.metal=Большое лезвие меча из пустотного металла
+part.hammer.head.void.metal=Боёк молота из пустотного металла
+part.arrowhead.void.metal=Наконечник стрелы из пустотного металла
+part.shuriken.void.metal=Сюрикэн из пустотного металла
+part.crossbow.limb.void.metal=Плечо арбалета из пустотного металла
+part.crossbow.body.void.metal=Основа арбалета из пустотного металла
+part.bow.limb.void.metal=Плечо лука из пустотного металла
+part.bolt.void.metal=Болт из пустотного металла
 
 # Fix for other tools (This going to be painful)
 # Metallurgy Base
@@ -2274,6 +2446,20 @@ tool.arrowammo.drulloy=Драллоевые стрелы
 tool.boltammo.drulloy=Драллоевые болты
 tool.javelin.drulloy=Драллоевое копьё
 
+# Thaumic Integration
+tool.pickaxe.jade=Нефритовая кирка
+tool.shovel.jade=Нефритовая лопата
+tool.rapier.jade=Нефритовая рапира
+tool.cutlass.jade=Нефритовая сабля
+tool.fryingpan.jade=Нефритовая сковорода
+tool.battlesign.jade=Нефритовая боевая табличка
+tool.chisel.jade=Нефритовая стамеска
+tool.scythe.jade=Нефритовая коса
+tool.excavator.jade=Нефритовая копалка
+tool.arrowammo.jade=Нефритовые стрелы
+tool.boltammo.jade=Нефритовые болты
+tool.javelin.jade=Нефритовое копьё
+
 # Fix for other parts (Do you know what is real pain?)
 # Metallurgy Base
 part.battle.sign.angmallen=Ангмалленновая боевая табличка
@@ -2315,24 +2501,24 @@ part.crossbow.body.hepatizon=Гепатизоновая основа арбал�
 part.bow.limb.hepatizon=Гепатизоновая плечо лука
 
 # Metallurgy Precious
-part.battle.sign.hepatizon=Латунная боевая табличка
-part.binding.hepatizon=Латунное крепление
-part.chisel.head.hepatizon=Латунное лезвие стамески
-part.crossbar.hepatizon=Латунная поперечная гарда
-part.excavator.head.hepatizon=Латунная пластина копалки
-part.frypan.head.hepatizon=Латунная сковорода
-part.full.guard.hepatizon=Латунная полная гарда
-part.knife.blade.hepatizon=Латунное лезвие ножа
-part.large.guard.hepatizon=Латунная широкая гарда
-part.large.sword.blade.hepatizon=Латунное большое лезвие меча
-part.largeplate.hepatizon=Латунная большая пластина
-part.medium.guard.hepatizon=Латунная малая гарда
-part.scythe.head.hepatizon=Латунное лезвие косы
-part.sword.blade.hepatizon=Латунное лезвие меча
-part.toughbind.hepatizon=Латунное прочное крепление
-part.crossbow.limb.hepatizon=Латунное плечо арбалета
-part.crossbow.body.hepatizon=Латунная основа арбалета
-part.bow.limb.hepatizon=Латунное плечо лука
+part.battle.sign.brass=Латунная боевая табличка
+part.binding.brass=Латунное крепление
+part.chisel.head.brass=Латунное лезвие стамески
+part.crossbar.brass=Латунная поперечная гарда
+part.excavator.head.brass=Латунная пластина копалки
+part.frypan.head.brass=Латунная сковорода
+part.full.guard.brass=Латунная полная гарда
+part.knife.blade.brass=Латунное лезвие ножа
+part.large.guard.brass=Латунная широкая гарда
+part.large.sword.blade.brass=Латунное большое лезвие меча
+part.largeplate.brass=Латунная большая пластина
+part.medium.guard.brass=Латунная малая гарда
+part.scythe.head.brass=Латунное лезвие косы
+part.sword.blade.brass=Латунное лезвие меча
+part.toughbind.brass=Латунное прочное крепление
+part.crossbow.limb.brass=Латунное плечо арбалета
+part.crossbow.body.brass=Латунная основа арбалета
+part.bow.limb.brass=Латунное плечо лука
 
 part.battle.sign.electrum=Электрумовая боевая табличка
 part.binding.electrum=Электрумовое крепление
@@ -3220,3 +3406,23 @@ part.toughbind.drulloy=Драллоевое прочное крепление
 part.crossbow.limb.drulloy=Драллоевое плечо арбалета
 part.crossbow.body.drulloy=Драллоевая основа арбалета
 part.bow.limb.drulloy=Драллоевое плечо лука
+
+# Erebus
+part.battle.sign.jade=Нефритовая боевая табличка
+part.binding.jade=Нефритовое крепление
+part.chisel.head.jade=Нефритовое лезвие стамески
+part.crossbar.jade=Нефритовая поперечная гарда
+part.excavator.head.jade=Нефритовая пластина копалки
+part.frypan.head.jade=Нефритовая сковорода
+part.full.guard.jade=Нефритовая полная гарда
+part.knife.blade.jade=Нефритовое лезвие ножа
+part.large.guard.jade=Нефритовая широкая гарда
+part.large.sword.blade.jade=Нефритовое большое лезвие меча
+part.largeplate.jade=Нефритовая большая пластина
+part.medium.guard.jade=Нефритовая малая гарда
+part.scythe.head.jade=Нефритовое лезвие косы
+part.sword.blade.jade=Нефритовое лезвие меча
+part.toughbind.jade=Нефритовое прочное крепление
+part.crossbow.limb.jade=Нефритовое плечо арбалета
+part.crossbow.body.jade=Нефритовая основа арбалета
+part.bow.limb.jade=Нефритовое плечо лука
