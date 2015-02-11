@@ -6,6 +6,17 @@ fluid.osmium.molten=Molten Osmium
 
 fluid.pokefennium.molten=Molten Pokefennium
 fluid.fairy.molten=Molten Fairy
+fluid.red.aurum.molten=Molten RedAurum
+
+fluid.potato.soup=Potato Soup
+fluid.drulloy.molten=Molten Drulloy
+
+fluid.desh.molten.name=Molten Desh Bucket
+
+fluid.dark.steel.molten=Molten Dark Steel
+fluid.adamantine.molten=Molten Adamantine Bucket
+fluid.zinc.molten=Molten Zinc Bucket
+fluid.brass.molten=Molten Brass Bucket
 
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.refined.glowstone.name=Molten Refined Glowstone
@@ -13,6 +24,17 @@ tile.molten.osmium.name=Molten Osmium
 
 tile.molten.pokefennium.name=Molten Pokefennium
 tile.molten.fairy.name=Molten Fairy
+tile.molten.red.aurum.name=Molten RedAurum
+
+tile.potato.soup.name=Potato Soup
+tile.molten.drulloy.name=Molten Drulloy
+
+tile.molten.desh.name=Molten Desh Bucket
+
+tile.molten.dark.steel.name=Molten Dark Steel
+tile.molten.adamantine.name=Molten Adamantine Bucket
+tile.molten.zinc.name=Molten Zinc Bucket
+tile.molten.brass.name=Molten Brass Bucket
 
 # Buckets of molten metals
 item.extratic.bucket.filled.refined.glowstone.molten.name=Molten Refined Glowstone Bucket
@@ -20,18 +42,23 @@ item.extratic.bucket.filled.osmium.molten.name=Molten Osmium Bucket
 
 item.extratic.bucket.filled.pokefennium.molten.name=Molten Pokefennium Bucket
 item.extratic.bucket.filled.fairy.molten.name=Molten Fairy Bucket
+item.extratic.bucket.filled.red.aurum.molten.name=Molten RedAurum Bucket
+
+item.extratic.bucket.filled.potato.soup.name=Potato Soup Bucket
+item.extratic.bucket.filled.drulloy.molten.name=Molten Drulloy Bucket
+
+item.extratic.bucket.filled.desh.molten.name=Molten Desh Bucket
+
+item.extratic.bucket.filled.dark.steel.molten.name=Molten Dark Steel
+item.extratic.bucket.filled.adamantine.molten.name=Molten Adamantine Bucket
+item.extratic.bucket.filled.zinc.molten.name=Molten Zinc Bucket
+item.extratic.bucket.filled.brass.molten.name=Molten Brass Bucket
 
 # Materials (for toolparts)
 # Metallurgy Base
 material.angmallen=Angmallen
 material.damascus.steel=Damascus Steel
 material.hepatizon=Hepatizon
-
-# Metallurgy Precious
-material.brass=Brass
-material.electrum=Electrum
-material.platinum=Platinum
-material.silver=Silver
 
 # Metallurgy Nether
 material.amordrine=Amordrine
@@ -56,7 +83,6 @@ material.vyroxeres=Vyroxeres
 material.vyroxeres.ability=Poison I
 
 # Metallurgy Fantasy
-material.adamantine=Adamantine
 material.astral.silver=Astral Silver
 material.atlarus=Atlarus
 material.black.steel=Black Steel
@@ -64,7 +90,6 @@ material.carmot=Carmot
 material.celenegil=Celenegil
 material.deep.iron=Deep Iron
 material.haderoth=Haderoth
-material.mithril=Mithril
 material.orichalcum=Orichalcum
 material.oureclase=Oureclase
 material.prometheum=Prometheum
@@ -134,6 +159,14 @@ material.peridot=Peridot
 material.ruby=Ruby
 material.sapphire=Sapphire
 material.dark.steel=Dark Steel
+material.brass=Brass
+material.electrum=Electrum
+material.platinum=Platinum
+material.silver=Silver
+material.adamantine=Adamantine
+material.mithril=Mithril
+material.glue=Glue
+material.endstone=Endstone
 
 # Oddmod
 material.kroostyl=Kroostyl
@@ -146,6 +179,19 @@ material.jade=Jade
 
 # Thaumcraft
 material.void.metal=Void Metal
+
+# Better Storage
+material.cardboard=Cardboard
+
+# RotaryCraft
+material.hsla.steel=HSLA Steel
+
+# Gany's End
+material.endium=Endium
+
+# Draconic Evolution
+material.draconium=Draconium
+material.awakened.draconium=Awakened Draconium
 
 # Toolparts
 part.arrowhead=@material@ Arrowhead
@@ -196,6 +242,8 @@ part.bolt=@material@ Bolt
 # Blocks and ingots
 tile.fairy.block.name=Fairy Block
 tile.pokefennium.block.name=Pokefennium Block
+tile.red.aurum.block.name=RedAurum Block
 
 item.fairy.ingot.name=Fairy Ingot
 item.pokefennium.ingot.name=Pokefennium Ingot
+item.red.aurum.ingot.name=RedAurum Ingot
