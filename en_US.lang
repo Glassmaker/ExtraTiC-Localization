@@ -11,12 +11,12 @@ fluid.red.aurum.molten=Molten RedAurum
 fluid.potato.soup=Potato Soup
 fluid.drulloy.molten=Molten Drulloy
 
-fluid.desh.molten.name=Molten Desh Bucket
+fluid.desh.molten.name=Molten Desh
 
 fluid.dark.steel.molten=Molten Dark Steel
-fluid.adamantine.molten=Molten Adamantine Bucket
-fluid.zinc.molten=Molten Zinc Bucket
-fluid.brass.molten=Molten Brass Bucket
+fluid.adamantine.molten=Molten Adamantine
+fluid.zinc.molten=Molten Zinc
+fluid.brass.molten=Molten Brass
 
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.refined.glowstone.name=Molten Refined Glowstone
@@ -29,12 +29,12 @@ tile.molten.red.aurum.name=Molten RedAurum
 tile.potato.soup.name=Potato Soup
 tile.molten.drulloy.name=Molten Drulloy
 
-tile.molten.desh.name=Molten Desh Bucket
+tile.molten.desh.name=Molten Desh
 
 tile.molten.dark.steel.name=Molten Dark Steel
-tile.molten.adamantine.name=Molten Adamantine Bucket
-tile.molten.zinc.name=Molten Zinc Bucket
-tile.molten.brass.name=Molten Brass Bucket
+tile.molten.adamantine.name=Molten Adamantine
+tile.molten.zinc.name=Molten Zinc
+tile.molten.brass.name=Molten Brass
 
 # Buckets of molten metals
 item.extratic.bucket.filled.refined.glowstone.molten.name=Molten Refined Glowstone Bucket
@@ -49,7 +49,7 @@ item.extratic.bucket.filled.drulloy.molten.name=Molten Drulloy Bucket
 
 item.extratic.bucket.filled.desh.molten.name=Molten Desh Bucket
 
-item.extratic.bucket.filled.dark.steel.molten.name=Molten Dark Steel
+item.extratic.bucket.filled.dark.steel.molten.name=Molten Dark Steel Bucket
 item.extratic.bucket.filled.adamantine.molten.name=Molten Adamantine Bucket
 item.extratic.bucket.filled.zinc.molten.name=Molten Zinc Bucket
 item.extratic.bucket.filled.brass.molten.name=Molten Brass Bucket
@@ -111,12 +111,12 @@ material.nether.quartz=Nether Quartz
 material.refined.glowstone=Refined Glowstone
 material.osmium=Osmium
 
-# Fun stuff
+# Fun Stuff
 material.pokefennium=Pokefennium
 material.fairy=Fairy
 material.red.aurum=RedAurum
 
-# Applied energistics
+# Applied Energistics
 material.certus.quartz=Certus Quartz
 
 # Biomes o' plenty
@@ -171,10 +171,10 @@ material.endstone=Endstone
 # Oddmod
 material.kroostyl=Kroostyl
 
-# Thuamic Integration
+# Thaumic Integration
 material.drulloy=Drulloy
 
-#Erebus
+# Erebus
 material.jade=Jade
 
 # Thaumcraft
