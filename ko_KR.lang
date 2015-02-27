@@ -1,78 +1,103 @@
-#Korean localization for ExtraTic, Translated by Team MMKP
+#English localization for ExtraTic
 
 # Fluids (for smelteries)
-fluid.molten.refined.glowstone=녹은 강화된 발광석
-fluid.molten.osmium=녹은 오스뮴
+fluid.refined.glowstone.molten=정제된 발광석
+fluid.osmium.molten=녹은 오스뮴
 
-fluid.molten.pokefennium=녹은 포케페니윰
-fluid.molten.fairy=녹은 요정
+fluid.pokefennium.molten=녹은 포케페늄
+fluid.fairy.molten=녹은 페어리
+fluid.red.aurum.molten=녹은 적금
+
+fluid.potato.soup=감자 스프
+fluid.drulloy.molten=녹은 드럴로이
+
+fluid.desh.molten.name=녹은 데시
+
+fluid.dark.steel.molten=녹은 흑강
+fluid.adamantine.molten=녹은 아다만틴
+fluid.zinc.molten=녹은 아연
+fluid.brass.molten=녹은 황동
 
 # Fluids (for NEI and the fluid blocks in the world)
-tile.molten.refined.glowstone.name=녹은 강화된 발광석
+tile.molten.refined.glowstone.name=정제된 발광석
 tile.molten.osmium.name=녹은 오스뮴
 
-tile.molten.pokefennium.name=녹은 포케페니윰
-tile.molten.fairy.name=녹은 요정
+tile.molten.pokefennium.name=녹은 포케페늄
+tile.molten.fairy.name=녹은 페어리
+tile.molten.red.aurum.name=녹은 적금
+
+tile.potato.soup.name=감자 스프
+tile.molten.drulloy.name=녹은 드럴로이
+
+tile.molten.desh.name=녹은 데시
+
+tile.molten.dark.steel.name=녹은 흑강
+tile.molten.adamantine.name=녹은 아다만틴
+tile.molten.zinc.name=녹은 아연
+tile.molten.brass.name=녹은 황동
 
 # Buckets of molten metals
-item.extratic.bucket.filled.molten.refined.glowstone.name=녹은 강화된 발광석 양동이
-item.extratic.bucket.filled.molten.osmium.name=녹은 오스뮴 양동이
+item.extratic.bucket.filled.refined.glowstone.molten.name=정제된 발광석 양동이
+item.extratic.bucket.filled.osmium.molten.name=녹은 오스뮴 양동이
 
-item.extratic.bucket.filled.molten.pokefennium.name=녹은 포케페니윰 양동이
-item.extratic.bucket.filled.molten.fairy.name=녹은 요정 양동이
+item.extratic.bucket.filled.pokefennium.molten.name=녹은 포케페늄 양동이
+item.extratic.bucket.filled.fairy.molten.name=녹은 페어리 양동이
+item.extratic.bucket.filled.red.aurum.molten.name=녹은 적금 양동이
+
+item.extratic.bucket.filled.potato.soup.name=감자 스프 양동이
+item.extratic.bucket.filled.drulloy.molten.name=녹은 드럴로이 양동이
+
+item.extratic.bucket.filled.desh.molten.name=녹은 데시 양동이
+
+item.extratic.bucket.filled.dark.steel.molten.name=녹은 흑강 양동이
+item.extratic.bucket.filled.adamantine.molten.name=녹은 아다만틴 양동이
+item.extratic.bucket.filled.zinc.molten.name=녹은 아연 양동이
+item.extratic.bucket.filled.brass.molten.name=녹은 황동 양동이
 
 # Materials (for toolparts)
 # Metallurgy Base
 material.angmallen=앙말렌
-material.damascus.steel=다마커스강
-material.hepatizon=헤퍼타이전
-
-# Metallurgy Precious
-material.brass=황동
-material.electrum=일렉트럼
-material.platinum=백금
-material.silver=은
+material.damascus.steel=다마스쿠스 강
+material.hepatizon=헤파티존
 
 # Metallurgy Nether
-material.amordrine=아모드린
+material.amordrine=아모르드라인
 material.amordrine.ability=체력 흡수
-material.ceruclase=커러클레이즈
-material.ceruclase.ability=
+material.ceruclase=케루클라세
+material.ceruclase.ability=구속
 material.ignatius=이그나티우스
-material.ignatius.ability=Ignite I
-material.inolashite=Inolashite
-material.inolashite.ability=Poison II
+material.ignatius.ability=화염 I
+material.inolashite=이놀라샤이트
+material.inolashite.ability=독 II
 material.kalendrite=칼렌드라이트
-material.midasium=마이다시엄
-material.sanguinite=상와이나이트
-material.sanguinite.ability=Wither I
+material.midasium=미다슘
+material.sanguinite=생귀나이트
+material.sanguinite.ability=위더 I
 material.shadow.iron=그림자 철
-material.shadow.iron.ability=Weakness I
+material.shadow.iron.ability=나약함 I
 material.shadow.steel=그림자 강철
-material.shadow.steel.ability=Weakness II
-material.vulcanite=에보나치트
-material.vulcanite.ability=Ignite II
-material.vyroxeres=비락서리즈
-material.vyroxeres.ability=Poison I
+material.shadow.steel.ability=나약함 II
+material.vulcanite=불카나이트
+material.vulcanite.ability=화염 II
+material.vyroxeres=비록케레스
+material.vyroxeres.ability=독 I
 
 # Metallurgy Fantasy
-material.adamantine=아다만탄티움
-material.astral.silver=아스트랄 실버
-material.atlarus=아틀라러스
-material.black.steel=검은 강철
-material.carmot=카못
-material.celenegil=킬리니자일
-material.deep.iron=짙은 철
-material.haderoth=하더라드
-material.mithril=미스릴
-material.orichalcum=오리하르콘
-material.oureclase=오리클레이즈
-material.prometheum=프로메듐
+material.astral.silver=항성은
+material.atlarus=아틀라루스
+material.black.steel=흑강
+material.carmot=카르못
+material.celenegil=켈레네길
+material.deep.iron=심철
+material.haderoth=하데롯
+material.orichalcum=오리칼쿰
+material.oureclase=오우레클라세
+material.prometheum=프로메튬
 material.quicksilver=수은
-material.tartarite=탈타라이트
+material.tartarite=타르타라이트
 
 # Metallurgy Ender
-material.desichalkos=디사이찰코스
+material.desichalkos=데시칼코스
 material.eximite=엑시마이트
 
 # Natura
@@ -80,77 +105,101 @@ material.bloodwood=피 유칼립투스
 material.darkwood=암흑나무
 material.fusewood=퓨즈나무
 material.ghostwood=유령나무
-material.nether.quartz=지옥 석영
+material.nether.quartz=네더 석영
 
 # Mekanism
-material.refined.glowstone=강화된 발광석
+material.refined.glowstone=정제된 발광석
 material.osmium=오스뮴
 
-# Fun stuff
-material.pokefennium=포케페니윰
-material.fairy=요정
-material.red.aurum=레드아룸
+# Fun Stuff
+material.pokefennium=포케페늄
+material.fairy=페어리
+material.red.aurum=적금
 
-# Applied energistics
-material.certus.quartz=세투스 석영
+# Applied Energistics
+material.certus.quartz=서투스 석영
 
 # Biomes o' plenty
-material.ender.amethyst=Ender Amethyst
+material.ender.amethyst=자수정
 
 # Botania
-material.manasteel=마나 합금
-material.terrasteel=대지의 강철
-material.elementium=엘레멘티움
+material.manasteel=마나강
+material.terrasteel=테라강
+material.elementium=엘레멘튬
 
 # Galacticraft
-material.desh=데쉬
+material.desh=데시
 
 # Simple Ores Core
-material.adamantium=아다만탄티움
+material.adamantium=아다만틴
 material.mythril=미스릴
-material.onyx=오닉스
+material.onyx=마노
 
 # Simple Ores Fusion
 material.sinisite=시니사이트
-material.thyrium=쓰리움
+material.thyrium=사이륨
 
 # Simple Ores Netherrock
 material.argonite=아르고나이트
-material.ashstone=재 돌
-material.dragonstone=용 돌
-material.fyrite=파이어라이트
-material.illumenite=일럼나이트
+material.ashstone=애시스톤
+material.dragonstone=드래곤스톤
+material.fyrite=파이라이트
+material.illumenite=일루메나이트
 material.malachite=공작석
 
 # TwilightForest
-material.fiery=Fiery
-material.ironwood=철 나무
-material.knightmetal=기사 강철
-material.steelleaf=철 잎
+material.fiery=화염
+material.ironwood=철나무
+material.knightmetal=나이트메탈
+material.steelleaf=강철잎
 
 # Generic Material
 material.amethyst=자수정
-material.peridot=감람석
+material.peridot=페리도트
 material.ruby=루비
 material.sapphire=사파이어
+material.dark.steel=흑강
+material.brass=황동
+material.electrum=일렉트럼
+material.platinum=백금
+material.silver=은
+material.adamantine=아다만틴
+material.mithril=미스릴
+material.glue=풀
+material.endstone=엔드스톤
 
 # Oddmod
 material.kroostyl=크루스틸
 
-# Thuamic Integration
-material.drulloy=드러루이
+# Thaumic Integration
+material.drulloy=드럴로이
 
-# EnderIO
-material.blue.steel=블루스틸
-material.dark.steel=흑강
+# Erebus
+material.jade=옥
+
+# Thaumcraft
+material.void.metal=공허 합금
+
+# Better Storage
+material.cardboard=골판지
+
+# RotaryCraft
+material.hsla.steel=HSLA강
+
+# Gany's End
+material.endium=엔듐
+
+# Draconic Evolution
+material.draconium=드라코늄
+material.awakened.draconium=활성화된 드라코늄
 
 # Toolparts
 part.arrowhead=@material@ 화살촉
 part.axe.head=@material@ 도끼 날
-part.battle.sign=@material@ 전투용 표지판
-part.binding=@material@ 조임쇠
+part.battle.sign=@material@ 표지판 머리
+part.binding=@material@ 도구 조임쇠
 part.chisel.head=@material@ 정 머리
-part.chunk=@material@ 청크
+part.chunk=@material@ 덩어리
 part.crossbar=@material@ 가로대
 part.excavator.head=@material@ 굴착기 머리
 part.frypan.head=@material@ 팬
@@ -163,36 +212,38 @@ part.largeplate=@material@ 대형 강화판
 part.lumberaxe.head=@material@ 넓은 도끼 날
 part.medium.guard=@material@ 코등이
 part.pickaxe.head=@material@ 곡괭이 머리
-part.scythe.head=@material@ 낫 날
+part.scythe.head=@material@ 낫 머리
 part.shovel.head=@material@ 삽 머리
 part.sword.blade=@material@ 검 날
 part.toolrod=@material@ 막대기
-part.toughbind=@material@ 두꺼운 조임쇠
+part.toughbind=@material@ 두꺼운  조임쇠
 part.toughrod=@material@ 두꺼운 막대기
 
 # Tinkers Weaponary parts
-part.shuriken=@material@ 슈라켄
-part.bow.limb=@material@ 활 다리
-part.crossbow.limb=@material@ 석궁 다리
-part.crossbow.body=@material@ 석궁 몸체
-part.bolt=@material@ 볼트
+part.shuriken=@material@ 수리검
+part.bow.limb=@material@ 활대
+part.crossbow.limb=@material@ 석궁 활대
+part.crossbow.body=@material@ 석궁 활몸
+part.bolt=@material@ 석궁 살
 
 # Specific part material localization example:
-#part.toolrod.pokefennium=포케펜의 다리
-#part.large.sword.blade.black.steel=흑강 넓은 칼 날
+#part.toolrod.pokefennium=포케펜의 허벅지
+#part.large.sword.blade.black.steel=흑강 넓은 검 날
 
 # General part material localization example:
-#part.material.fairy=Magical Pinky
-#part.material.ender.amethyst=Ender Amethyst
+#part.material.fairy=마법의 분홍빛
+#part.material.ender.amethyst=자수정
 
 # Specific Tool material localization example:
 # (handled by tinkers, English material name, no spaces and all lower case)
-#tool.javelin.redaurum=Red Harpoon
-#tool.shovel.shadowiron=Shadow Iron Shovel
+#tool.javelin.redaurum=붉은 작살
+#tool.shovel.shadowiron=그림자 철 삽
 
 # Blocks and ingots
-tile.fairy.block.name=요정 블럭
-tile.pokefennium.block.name=포케페니윰 블럭
+tile.fairy.block.name=페어리 블럭
+tile.pokefennium.block.name=포케페늄 블럭
+tile.red.aurum.block.name=적금 블럭
 
-item.fairy.ingot.name=요정 주괴
-item.pokefennium.ingot.name=포케페니윰 주괴
+item.fairy.ingot.name=페어리 주괴
+item.pokefennium.ingot.name=포케페늄 주괴
+item.red.aurum.ingot.name=적금 주괴
