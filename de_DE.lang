@@ -1,5 +1,5 @@
 #German localization for ExtraTic
-# Don't take my word, everything is probably wrong! D:
+# Everything was wrong, and probably still it is
 
 # Fluids (for smelteries)
 fluid.molten.refined.glowstone=Geschmolzener verfeinerter Leuchtstein
@@ -10,10 +10,10 @@ fluid.molten.fairy=Geschmolzene Fee
 
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.refined.glowstone.name=Geschmolzener verfeinerter Leuchtstein
-tile.molten.osmium.name=Geschmolzenes Pokefennium
+tile.molten.osmium.name=Geschmolzenes Osmium
 
 tile.molten.pokefennium.name=Geschmolzenes Pokefennium
-tile.molten.fairy.name=Geschmolzenes Osmium
+tile.molten.fairy.name=Geschmolzene Fee
 
 # Buckets of molten metals
 item.extratic.bucket.filled.molten.refined.glowstone.name=Eimer mit geschmolzenem verfeinertem Leuchtstein
@@ -24,7 +24,7 @@ item.extratic.bucket.filled.molten.fairy.name=Eimer mit geschmolzener Fee
 
 # Materials (for toolparts)
 material.angmallen=Angmallen
-material.damascus.steel=Damaskus Stahl
+material.damascus.steel=Damaszener Stahl
 material.hepatizon=Hepatizon
 
 material.brass=Messing
@@ -39,8 +39,8 @@ material.inolashite=Inolashit
 material.kalendrite=Kalendrit
 material.midasium=Midasium
 material.sanguinite=Sanguinit
-material.shadow.iron=Schatten Eisen
-material.shadow.steel=Schatten Stahl
+material.shadow.iron=Schatteneisen
+material.shadow.steel=Schattenstahl
 material.vulcanite=Vulkanit
 material.vyroxeres=Vyroxeres
 
@@ -65,8 +65,8 @@ material.eximite=Eximit
 material.bloodwood=Blutholz
 material.darkwood=Dunkelholz
 material.fusewood=Zündholz
-material.ghostwood=Geistholz
-material.nether.quartz=Nether Quarz
+material.ghostwood=Geisterholz
+material.nether.quartz=Höllenquarz
 
 material.refined.glowstone=Verfeinerter Leuchtstein
 material.osmium=Osmium
@@ -80,29 +80,29 @@ material.amethyst=Amethyst
 
 # Toolparts
 part.arrowhead=@material@ene Pfeilspitze
-part.axe.head=@material@axt Kopf
-part.battle.sign=@material@ Kampf Schild
+part.axe.head=@material@ Axtkopf
+part.battle.sign=@material@ Kampfschild
 part.binding=@material@ Bindung
-part.chisel.head=Meißelkopf aus @material@
+part.chisel.head=@material@ Meißelkopf
 part.chunk=@material@ Teil
 part.crossbar=@material@ Querstange
 part.excavator.head=Kopf vom @material@ Grabungsgerät
-part.frypan.head=@material@ Pfannen kopf
+part.frypan.head=@material@ Pfannenkopf
 part.full.guard=Voller Schutz aus @material@
-part.hammer.head=Hammer Kopf aus @material@ 
-part.knife.blade=Messerklinge aus @material@
+part.hammer.head=@material@ Hammerkopf
+part.knife.blade=@material@ Messerklinge
 part.large.guard=Großer Schutz aus @material@
-part.large.sword.blade=Große Schwertklinge aus @material@
+part.large.sword.blade=Große @material@ Schwertklinge
 part.largeplate=Große @material@platte
-part.lumberaxe.head=@material@ener Breitaxt Kopf
-part.medium.guard=Mitteler Schutz aus @material@
-part.pickaxe.head=Spitzhacken Kopf aus @material@
-part.scythe.head=Sensen Kopf aus @material@
-part.shovel.head=Schaufel Kopf aus @material@
-part.sword.blade=Schwertklinge aus @material@
-part.toolrod=Werkzeug Stab aus @material@
-part.toughbind=Zähe Bindung aus @material@
-part.toughrod=Zäher Stab aus @material@
+part.lumberaxe.head=@material@ Holzfälleraxt-Kopf
+part.medium.guard=Mittelner Schutz aus @material@
+part.pickaxe.head=@material@ Spitzhacken-Kopf
+part.scythe.head=@material@ Sensen-Kopf
+part.shovel.head=@material@ Schaufel-Kopf
+part.sword.blade=@material@ Schwertklinge
+part.toolrod=@material@ Stab
+part.toughbind=Starke @material@ Bindung
+part.toughrod=Starker @material@ Stab
 
 # Blocks and ingots
 tile.fairy.block.name=Feen Block
