@@ -247,3 +247,9 @@ tile.red.aurum.block.name=RedAurum Block
 item.fairy.ingot.name=Fairy Ingot
 item.pokefennium.ingot.name=Pokefennium Ingot
 item.red.aurum.ingot.name=RedAurum Ingot
+
+#Arc Smeltery
+tile.arc.smeltery.controller.name=Arc Smeltery Controller
+tile.arc.smeltery.drain.name=Arc Smeltery Drain
+tile.arc.smeltery.brick.name=Firebricks
+tile.arc.smeltery.socket.name=Arc Smeltery Socket
