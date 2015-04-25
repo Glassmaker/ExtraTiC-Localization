@@ -254,5 +254,5 @@ tile.arc.smeltery.drain.name=Arc Smeltery Drain
 tile.arc.smeltery.brick.name=Firebricks
 tile.arc.smeltery.socket.name=Arc Smeltery Socket
 
-#RF Powered Smeltery
-tile.rf.powered.smeltery.name=RF Powered Smeltery
+#Auto Smeltery
+tile.auto.smeltery.contorller.name=Auto Smeltery Contorller
