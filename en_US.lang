@@ -1,5 +1,11 @@
 #English localization for ExtraTic
 
+#CreativeTabs
+itemGroup.extratic.blocks=ExtraTiC Blocks
+itemGroup.extratic.buckets=ExtraTiC Buckets
+itemGroup.extratic.items=ExtraTiC Items
+itemGroup.extratic.parts=ExtraTiC Parts
+
 # Fluids (for smelteries)
 fluid.refined.glowstone.molten=Molten Refined Glowstone
 fluid.osmium.molten=Molten Osmium
