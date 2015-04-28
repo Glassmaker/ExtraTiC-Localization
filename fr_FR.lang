@@ -6,6 +6,17 @@ fluid.molten.osmium=Osmium Fondu
 
 fluid.molten.pokefennium=Pokefennium Fondu
 fluid.molten.fairy=Fer Féerique Fondu
+fluid.red.aurum.molten=Rougeor Fondu
+
+fluid.potato.soup=Soupe de Patate
+fluid.drulloy.molten=Drulliage Fondu
+
+fluid.desh.molten.name=Silicium Fondu
+
+fluid.dark.steel.molten=Acier Sombre Fondu
+fluid.adamantine.molten=Adamantine Fondue
+fluid.zinc.molten=Zinc Fondu
+fluid.brass.molten=Laiton Fondu
 
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.refined.glowstone.name=Pierre Lumineuse Raffinée Fondue
@@ -13,6 +24,17 @@ tile.molten.osmium.name=Osmium Fondu
 
 tile.molten.pokefennium.name=Pokefennium Fondu
 tile.molten.fairy.name=Fer Féerique Fondu
+tile.molten.red.aurum.name=Rougeor Fondu
+
+tile.potato.soup.name=Soupe de Patate
+tile.molten.drulloy.name=Drulliage Fondu
+
+tile.molten.desh.name=Silicium Fondu
+
+tile.molten.dark.steel.name=Acier Sombre Fondu
+tile.molten.adamantine.name=Adamantine Fondue
+tile.molten.zinc.name=Zinc Fondu
+tile.molten.brass.name=Laiton Fondu
 
 # Buckets of molten metals
 item.extratic.bucket.filled.molten.refined.glowstone.name=Seau de Pierre Lumineuse Raffinée Fondue
@@ -20,29 +42,47 @@ item.extratic.bucket.filled.molten.osmium.name=Seau d'Osmium Fondu
 
 item.extratic.bucket.filled.molten.pokefennium.name=Seau de Pokefennium Fondu
 item.extratic.bucket.filled.molten.fairy.name=Seau de Fer Féerique Fondu
+item.extratic.bucket.filled.red.aurum.molten.name=Seau de Rougeor Fondu
+
+item.extratic.bucket.filled.potato.soup.name=Seau de Soupe de Patate
+item.extratic.bucket.filled.drulloy.molten.name=Seau de Drulliage Fondu
+
+item.extratic.bucket.filled.desh.molten.name=Seau de Silicium Fondu
+
+item.extratic.bucket.filled.dark.steel.molten.name=Seau d'Acier Sombre Fondu
+item.extratic.bucket.filled.adamantine.molten.name=Seau d'Adamantine Fondue
+item.extratic.bucket.filled.zinc.molten.name=Seau de Zinc Fondu
+item.extratic.bucket.filled.brass.molten.name=Seau de Laiton Fondu
 
 # Materials (for toolparts)
+# Metallurgy Base
 material.angmallen=Angmallen
 material.damascus.steel=Acier de Damascus
 material.hepatizon=Hepatizon
 
-material.brass=Laiton
-material.electrum=Eléctrum
-material.platinum=Platine
-material.silver=Argent
-
+# Metallrugy Nether
 material.amordrine=Amordrine
+material.amordrine.ability=Vol de Vie
 material.ceruclase=Céruclase
+material.ceruclase.ability=Lenteur
 material.ignatius=Ignatius
+material.ignatius.ability=Embrasement I
 material.inolashite=Inolachite
+material.inolashite.ability=Empoisonnement II
 material.kalendrite=Kalendrite
 material.midasium=Midasium
 material.sanguinite=Sanguinite
+material.sanguinite.ability=Wither I
 material.shadow.iron=Fer de l'Ombre
+material.shadow.iron.ability=Faiblesse I
 material.shadow.steel=Acier de l'Ombre
+material.shadow.steel.ability=Faiblesse II
 material.vulcanite=Vulcanite
+material.vulcanite.ability=Embrasement II
 material.vyroxeres=Vyroxères
+material.vyroxeres.ability=Empoisonnement I
 
+# Metallurgy Fantasy
 material.adamantine=Adamantine
 material.astral.silver=Argent Astral
 material.atlarus=Atlarus
@@ -58,26 +98,32 @@ material.prometheum=Prométhéum
 material.quicksilver=Vif-Argent
 material.tartarite=Tartarite
 
+# Metallurgy Ender
 material.desichalkos=Désichalkos
 material.eximite=Eximite
 
+# Natura
 material.bloodwood=Hémoglobois
 material.darkwood=Sombrois
 material.fusewood=Boixplosif
 material.ghostwood=Boisprit
 material.nether.quartz=Quartz du Nether
 
+# Mekanism
 material.refined.glowstone=Pierre Lumineuse Raffinée
 material.osmium=Osmium
 
+# Fun Stuff
 material.pokefennium=Pokefennium
 material.fairy=Fer Féerique
+material.red.aurum=Rougeor
 
+# Applied Energistics
 material.certus.quartz=Quartz de Certus
 
 # Botania
-material.manasteel=Manasteel
-material.terrasteel=Terrasteel
+material.manasteel=Manacier
+material.terrasteel=Terracier
 material.elementium=Elementium
 
 # Galacticraft
@@ -94,8 +140,8 @@ material.thyrium=Thyrium
 
 # Simple Ores Netherrock
 material.argonite=Argonite
-material.ashstone=Ashstone
-material.dragonstone=Dragonstone
+material.ashstone=Pierrecendre
+material.dragonstone=Pierredragon
 material.fyrite=Fyrite
 material.illumenite=Illumenite
 material.malachite=Malachite
@@ -111,6 +157,40 @@ material.amethyst=Améthyste
 material.peridot=Péridot
 material.ruby=Rubis
 material.sapphire=Sapphire
+material.dark.steel=Acier Sombre
+material.brass=Laiton
+material.electrum=Electrum
+material.platinum=Platine
+material.silver=Argent
+material.adamantine=Adamantine
+material.mithril=Mithril
+material.glue=Colle
+material.endstone=Pierre Blanche
+
+# Oddmod
+material.kroostyl=Kroostyl
+
+# Thaumic Integration
+material.drulloy=Drulliage
+
+# Erebus
+material.jade=Jade
+
+# Thaumcraft
+material.void.metal=Métal du Vide
+
+# Better Storage
+material.cardboard=Carton
+
+# RotaryCraft
+material.hsla.steel=Acier HSLA
+
+# Gany's End
+material.endium=Endium
+
+# Draconic Evolution
+material.draconium=Draconium
+material.awakened.draconium=Draconium Eveillé
 
 # Toolparts
 part.arrowhead=Pointe de Flèche en @material@
@@ -138,9 +218,22 @@ part.toolrod=Manche en @material@
 part.toughbind=Lien Epais en @material@
 part.toughrod=Manche Epais en @material@
 
+# Tinkers Weaponary parts
+part.shuriken=Shuriken en @material@
+part.bow.limb=Branche d'Arc en @material@
+part.crossbow.limb=Branche d'Arbalète en @material@
+part.crossbow.body=Corps d'Arbalète en @material@
+part.bolt=Carreaux en @material@
+
+# General part material localization example:
+#part.material.fairy=Magical Pinky
+#part.material.ender.amethyst=Ender Amethyst
+
 # Blocks and ingots
 tile.fairy.block.name=Bloc de Fer Féerique
 tile.pokefennium.block.name=Bloc de Pokefennium
+tile.red.aurum.block.name=Bloc de Rougeor
 
 item.fairy.ingot.name=Lingot de Fer Féerique
 item.pokefennium.ingot.name=Lingot de Pokefennium
+item.red.aurum.ingot.name=Lingot de Rougeor
