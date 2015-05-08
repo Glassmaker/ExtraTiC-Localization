@@ -199,6 +199,28 @@ material.endium=Endium
 material.draconium=Draconium
 material.awakened.draconium=Awakened Draconium
 
+# Big Reactors
+material.yellorium=Yellorium
+material.cyanite=Cyanite
+material.blutonium=Blutonium
+material.ludicrite=Ludicrite
+
+# ExtraUtils
+material.bedrockium=Bedrockium
+material.bedrockium.ability=Infinite uses... itty bitty usability
+
+# Pam's Harvestcraft
+material.onion=Tear Jerker
+
+# Progressive Automation
+material.witherIron=Wither Iron
+material.witherIron.ability=Iron from the wither
+
+# Thermal Foundation
+material.enderium=Enderium
+material.signalum=Signalum
+material.lumium=Lumium
+
 # Toolparts
 part.arrowhead=@material@ Arrowhead
 part.axe.head=@material@ Axe Head
