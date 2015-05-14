@@ -337,8 +337,8 @@ material.bedrockium.ability=Infinite uses... itty bitty usability
 material.onion=Tear Jerker
 
 # Progressive Automation
-material.witherIron=Wither Iron
-material.witherIron.ability=Iron from the wither
+material.witheriron=Wither Iron
+material.witheriron.ability=Iron from the wither
 
 # Thermal Foundation
 material.enderium=Enderium
@@ -423,7 +423,7 @@ item.gear.bedrockium.name=Bedrockium Gear
 item.gear.onion.name=Tear Jerker Gear
 
 # Progressive Automation
-item.gear.witherIron.name=Wither Iron Gear
+item.gear.witheriron.name=Wither Iron Gear
 
 #Arc Smeltery
 tile.arc.smeltery.controller.name=Arc Smeltery Controller
