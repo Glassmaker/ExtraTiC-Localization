@@ -7,58 +7,182 @@ itemGroup.extratic.items=ExtraTiC Items
 itemGroup.extratic.parts=ExtraTiC Parts
 
 # Fluids (for smelteries)
+
+# Mekanism
 fluid.refined.glowstone.molten=Molten Refined Glowstone
 fluid.osmium.molten=Molten Osmium
 
+# Funstuff
 fluid.pokefennium.molten=Molten Pokefennium
 fluid.fairy.molten=Molten Fairy
 fluid.red.aurum.molten=Molten RedAurum
 
+# ThaumicIntegration / ThermalSmeltery 
 fluid.potato.soup=Potato Soup
 fluid.drulloy.molten=Molten Drulloy
 
+# Galicticraft
 fluid.desh.molten.name=Molten Desh
 
+# Generic
 fluid.dark.steel.molten=Molten Dark Steel
 fluid.adamantine.molten=Molten Adamantine
 fluid.zinc.molten=Molten Zinc
 fluid.brass.molten=Molten Brass
 
+# Blue power
+fluid.blue.alloy.molten=Molten Blue Alloy
+fluid.infused.teslatite.liquid=Liquid Infused Teslatite 
+fluid.purple.alloy.molten=Molten Purple Alloy
+fluid.red.alloy.molten=Molten Red Alloy 
+fluid.teslatite.liquid=Liquid Teslatite
+fluid.tungsten.molten=Molten Tungsten
+
+# EnderIO
+fluid.conductive.iron.molten=Molten Conductive Iron
+fluid.electrical.steel.molten=Molten Electrical Steel
+fluid.energetic.alloy.molten=Molten Energetic Alloy
+fluid.phased.gold.molten=Molten Phased Gold
+fluid.phased.iron.molten=Molten Phased Iron
+fluid.redstone.alloy.molten=Molten Redstone Alloy
+fluid.silicon.liquid=Liquid Silicon
+fluid.soularium.molten=Molten Soularium
+
+# Botaina
+fluid.manasteel.molten=Molten Manasteel
+fluid.terrasteel.molten=Molten Terrasteel
+fluid.elementium.molten=Molten Elementium
+
+# Thaumcraft
+fluid.voidmetal.molten=Molten Voidmetal
+
+# Big Reactors
+fluid.blutonium.molten=Molten Blutonium
+fluid.ludicrite.molten=Molten Ludicrite
+
+# ExtraUtils
+fluid.bedrockium.molten=Molten Bedrockium
+
+# ProgAuto
+fluid.witheriron.molten=Molten Wither Iron
+
 # Fluids (for NEI and the fluid blocks in the world)
+# Mekanism
 tile.molten.refined.glowstone.name=Molten Refined Glowstone
 tile.molten.osmium.name=Molten Osmium
 
+# Funstuff
 tile.molten.pokefennium.name=Molten Pokefennium
 tile.molten.fairy.name=Molten Fairy
 tile.molten.red.aurum.name=Molten RedAurum
 
+# ThuamicIntegration / ThermalSmeltery
 tile.potato.soup.name=Potato Soup
 tile.molten.drulloy.name=Molten Drulloy
 
+# Galacticraft
 tile.molten.desh.name=Molten Desh
 
+# Generic
 tile.molten.dark.steel.name=Molten Dark Steel
 tile.molten.adamantine.name=Molten Adamantine
 tile.molten.zinc.name=Molten Zinc
 tile.molten.brass.name=Molten Brass
 
+# Bluepower
+tile.molten.blue.alloy.name=Molten Blue Alloy
+tile.liquid.infused.teslatite.name=Liquid Infused Teslatite
+tile.molten.purple.alloy.name=Molten Purple Alloy
+tile.molten.red.alloy.name=Molten Red Alloy
+tile.liquid.teslatite.name=Liquid Teslatite
+tile.molten.tungsten.name=Molten Tungsten
+
+# EnderIO
+tile.molten.conductive.iron.name=Molten Conductive Iron
+tile.molten.electrical.steel.name=Molten Electrical Steel
+tile.molten.energetic.alloy.name=Molten Energetic Alloy
+tile.molten.phased.gold.name=Molten Phased Gold
+tile.molten.phased.iron.name=Molten Phased Iron
+tile.molten.redstone.alloy.name=Molten Redstone Alloy
+tile.liquid.silicon.name=Liquid Silicon
+tile.molten.soularium.name=Molten Soularium
+
+# Botania
+tile.molten.manasteel.name=Molten Manasteel
+tile.molten.terrasteel.name=Molten Terrasteel
+tile.molten.elementium.name=Molten Elementium
+
+# Thaumcraft
+tile.molten.voidmetal.name=Molten Voidmetal
+
+# Big Reactors
+tile.molten.blutonium.name=Molten Blutonium
+tile.molten.ludicrite.name=Molten Ludicrite
+
+# ExtraUtils
+tile.molten.bedrockium.name=Molten Bedrockium
+
+# ProgAuto
+tile.molten.witheriron.name=Molten Wither Iron
+
 # Buckets of molten metals
+# Mekanism
 item.extratic.bucket.filled.refined.glowstone.molten.name=Molten Refined Glowstone Bucket
 item.extratic.bucket.filled.osmium.molten.name=Molten Osmium Bucket
 
+# Funstuff
 item.extratic.bucket.filled.pokefennium.molten.name=Molten Pokefennium Bucket
 item.extratic.bucket.filled.fairy.molten.name=Molten Fairy Bucket
 item.extratic.bucket.filled.red.aurum.molten.name=Molten RedAurum Bucket
 
+# ThuamicIntegration / Thermal Smeltery
 item.extratic.bucket.filled.potato.soup.name=Potato Soup Bucket
 item.extratic.bucket.filled.drulloy.molten.name=Molten Drulloy Bucket
 
+# Galacticraft
 item.extratic.bucket.filled.desh.molten.name=Molten Desh Bucket
 
+# Generic
 item.extratic.bucket.filled.dark.steel.molten.name=Molten Dark Steel Bucket
 item.extratic.bucket.filled.adamantine.molten.name=Molten Adamantine Bucket
 item.extratic.bucket.filled.zinc.molten.name=Molten Zinc Bucket
 item.extratic.bucket.filled.brass.molten.name=Molten Brass Bucket
+
+# Blue power
+item.extratic.bucket.filled.blue.alloy.molten.name=Molten Blue Alloy Bucket
+item.extratic.bucket.filled.infused.teslatite.liquid.name=Liquid Infused Teslatite Bucket
+item.extratic.bucket.filled.purple.alloy.molten.name=Molten Purple Alloy Bucket
+item.extratic.bucket.filled.red.alloy.molten.name=Molten Red Alloy Bucket
+item.extratic.bucket.filled.teslatite.liquid.name=Liquid Teslatite Bucket
+item.extratic.bucket.filled.tungsten.molten.name=Molten Tungsten Bucket
+
+# EnderIO
+item.extratic.bucket.filled.conductive.iron.molten.name=Molten Conductive Iron Bucket
+item.extratic.bucket.filled.electrical.steel.molten.name=Molten Electrical Steel Bucket
+item.extratic.bucket.filled.energetic.alloy.molten.name=Molten Energetic Alloy Bucket
+item.extratic.bucket.filled.phased.gold.molten.name=Molten Phased Gold Bucket
+item.extratic.bucket.filled.phased.iron.molten.name=Molten Phased Iron Bucket
+item.extratic.bucket.filled.redstone.alloy.molten.name=Molten Redstone Alloy Bucket
+item.extratic.bucket.filled.silicon.liquid.name=Liquid Silicon Bucket
+item.extratic.bucket.filled.soularium.molten.name=Molten Soularium Bucket
+
+# Botaina
+item.extratic.bucket.filled.manasteel.molten.name=Molten Manasteel Bucket
+item.extratic.bucket.filled.terrasteel.molten.name=Molten Terrasteel Bucket
+item.extratic.bucket.filled.elementium.molten.name=Molten Elementium Bucket
+
+# Thaumcraft
+item.extratic.bucket.filled.voidmetal.molten.name=Molten Voidmetal Bucket
+
+# Big Reactors
+item.extratic.bucket.filled.blutonium.molten.name=Molten Blutonium Bucket
+item.extratic.bucket.filled.ludicrite.molten.name=Molten Ludicrite Bucket
+
+# ExtraUtils
+item.extratic.bucket.filled.bedrockium.molten.name=Molten Bedrockium Bucket
+
+# ProgAuto
+item.extratic.bucket.filled.witheriron.molten.name=Molten Wither Iron Bucket
 
 # Materials (for toolparts)
 # Metallurgy Base
