@@ -401,6 +401,30 @@ item.pokefennium.ingot.name=Pokefennium Ingot
 item.red.aurum.ingot.name=RedAurum Ingot
 item.drulloy.ingot.name=Drulloy Ingot
 
+# Gears
+# Botania
+item.gear.manasteel.name=Manasteel Gear
+item.gear.terrasteel.name=Terrasteel Gear
+item.gear.elementium.name=Elementium Gear
+
+# Thaumcraft
+item.gear.void.metal.name=Void Metal Gear
+
+# Big Reactors
+item.gear.yellorium.name=Yellorium Gear
+item.gear.cyanite.name=Cyanite Gear
+item.gear.blutonium.name=Blutonium Gear
+item.gear.ludicrite.name=Ludicrite Gear
+
+# ExtraUtils
+item.gear.bedrockium.name=Bedrockium Gear
+
+# Pam's Harvestcraft
+item.gear.onion.name=Tear Jerker Gear
+
+# Progressive Automation
+item.gear.witherIron.name=Wither Iron Gear
+
 #Arc Smeltery
 tile.arc.smeltery.controller.name=Arc Smeltery Controller
 tile.arc.smeltery.drain.name=Arc Smeltery Drain
