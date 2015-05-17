@@ -75,6 +75,15 @@ fluid.rosite.molten=Molten Rosite
 fluid.sapphire.molten=Molten Sapphire
 fluid.skeletal.molten=Molten Skeletal
 
+fluid.baronyte.molten=Molten Baronyte
+fluid.blazium.molten=Molten Blazium
+fluid.elecanium.molten=Molten Elecanium
+fluid.ghastly.molten=Molten Ghastly
+fluid.ghoulish.molten=Molten Ghoulish
+fluid.lyon.molten=Molten Lyon
+fluid.mystite.molten=Molten Mystite
+fluid.varsium.molten=Molten Varsium
+
 # Fluids (for NEI and the fluid blocks in the world)
 # Mekanism
 tile.molten.refined.glowstone.name=Molten Refined Glowstone
@@ -143,6 +152,15 @@ tile.molten.rosite.name=Molten Rosite
 tile.molten.sapphire.name=Molten Sapphire
 tile.molten.skeletal.name=Molten Skeletal
 
+tile.molten.baronyte.name=Molten Baronyte
+tile.molten.blazium.name=Molten Blazium
+tile.molten.elecanium.name=Molten Elecanium
+tile.molten.ghastly.name=Molten Ghastly
+tile.molten.ghoulish.name=Molten Ghoulish
+tile.molten.lyon.name=Molten Lyon
+tile.molten.mystite.name=Molten Mystite
+tile.molten.varsium.name=Molten Varsium
+
 # Buckets of molten metals
 # Mekanism
 item.extratic.bucket.filled.refined.glowstone.molten.name=Molten Refined Glowstone Bucket
@@ -210,6 +228,15 @@ item.extratic.bucket.filled.limonite.molten.name=Molten Limonite Bucket
 item.extratic.bucket.filled.rosite.molten.name=Molten Rosite Bucket
 item.extratic.bucket.filled.sapphire.molten.name=Molten Sapphire Bucket
 item.extratic.bucket.filled.skeletal.molten.name=Molten Skeletal Bucket
+
+item.extratic.bucket.filled.baronyte.molten.name=Molten Baronyte Bucket
+item.extratic.bucket.filled.blazium.molten.name=Molten Blazium Bucket
+item.extratic.bucket.filled.elecanium.molten.name=Molten Elecanium Bucket
+item.extratic.bucket.filled.ghastly.molten.name=Molten Ghastly Bucket
+item.extratic.bucket.filled.ghoulish.molten.name=Molten Ghoulish Bucket
+item.extratic.bucket.filled.lyon.molten.name=Molten Lyon Bucket
+item.extratic.bucket.filled.mystite.molten.name=Molten Mystite Bucket
+item.extratic.bucket.filled.varsium.molten.name=Molten Varsium Bucket
 
 # Materials (for toolparts)
 # Metallurgy Base
