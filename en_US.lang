@@ -66,6 +66,15 @@ fluid.bedrockium.molten=Molten Bedrockium
 # ProgAuto
 fluid.witheriron.molten=Molten Wither Iron
 
+# Nevermine 2: Advent of Ascenion
+fluid.amethyst.molten=Molten Amethyst
+fluid.emberstone.molten=Molten Emberstone
+fluid.jade.molten=Molten Jade
+fluid.limonite.molten=Molten Limonite
+fluid.rosite.molten=Molten Rosite
+fluid.sapphire.molten=Molten Sapphire
+fluid.skeletal.molten=Molten Skeletal
+
 # Fluids (for NEI and the fluid blocks in the world)
 # Mekanism
 tile.molten.refined.glowstone.name=Molten Refined Glowstone
@@ -125,6 +134,15 @@ tile.molten.bedrockium.name=Molten Bedrockium
 # ProgAuto
 tile.molten.witheriron.name=Molten Wither Iron
 
+# Nevermine 2: Advent of Ascenion
+tile.molten.amethyst.name=Molten Amethyst
+tile.molten.emberstone.name=Molten Emberstone
+tile.molten.jade.name=Molten Jade
+tile.molten.limonite.name=Molten Limonite
+tile.molten.rosite.name=Molten Rosite
+tile.molten.sapphire.name=Molten Sapphire
+tile.molten.skeletal.name=Molten Skeletal
+
 # Buckets of molten metals
 # Mekanism
 item.extratic.bucket.filled.refined.glowstone.molten.name=Molten Refined Glowstone Bucket
@@ -183,6 +201,15 @@ item.extratic.bucket.filled.bedrockium.molten.name=Molten Bedrockium Bucket
 
 # ProgAuto
 item.extratic.bucket.filled.witheriron.molten.name=Molten Wither Iron Bucket
+
+# Nevermine 2: Advent of Ascenion
+item.extratic.bucket.filled.amethyst.molten.name=Molten Amethyst Bucket
+item.extratic.bucket.filled.emberstone.molten.name=Molten Emberstone Bucket
+item.extratic.bucket.filled.jade.molten.name=Molten Jade Bucket
+item.extratic.bucket.filled.limonite.molten.name=Molten Limonite Bucket
+item.extratic.bucket.filled.rosite.molten.name=Molten Rosite Bucket
+item.extratic.bucket.filled.sapphire.molten.name=Molten Sapphire Bucket
+item.extratic.bucket.filled.skeletal.molten.name=Molten Skeletal Bucket
 
 # Materials (for toolparts)
 # Metallurgy Base
@@ -344,6 +371,14 @@ material.witheriron.ability=Iron from the wither
 material.enderium=Enderium
 material.signalum=Signalum
 material.lumium=Lumium
+
+# Nevermine 2: Advent of Ascenion
+material.bloodstone=Bloodstone
+material.crystalitestone=Crystalitestone
+material.emberstone=Emberstone
+material.limonite=Limonite
+material.rosite=Rosite
+material.skeletal=Skeletal
 
 # Toolparts
 part.arrowhead=@material@ Arrowhead
