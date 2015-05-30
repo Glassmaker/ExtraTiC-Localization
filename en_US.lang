@@ -494,4 +494,4 @@ tile.arc.smeltery.brick.name=Firebricks
 tile.arc.smeltery.socket.name=Arc Smeltery Socket
 
 #Auto Smeltery
-tile.auto.smeltery.contorller.name=Auto Smeltery Contorller
+tile.auto.smeltery.controller.name=Auto Smeltery Controller
