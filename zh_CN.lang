@@ -75,7 +75,7 @@ fluid.elecanium.molten=熔融钛
 fluid.ghastly.molten=熔融阴森
 fluid.ghoulish.molten=熔融恐惧
 fluid.lyon.molten=熔融莱昂钢
-fluid.mystite.molten=熔融神秘元素
+fluid.mystite.molten=熔融奥秘
 fluid.varsium.molten=熔融镁
 
 # Fluids (for NEI and the fluid blocks in the world)
@@ -364,7 +364,47 @@ material.jade=绿玉
 material.void.metal=虚空金属
 
 # Better Storage
-material.cardboard=Cardboard
+material.cardboard=纸板
+
+# RotaryCraft
+material.hsla.steel=HSLA钢
+
+# Gany's End
+material.endium=末金
+
+# Draconic Evolution
+material.draconium=龙元素
+material.awakened.draconium=觉醒龙元素
+
+# Big Reactors
+material.yellorium=黄铀
+material.cyanite=蓝晶
+material.blutonium=蓝钚
+material.ludicrite=纯镥
+
+# ExtraUtils
+material.bedrockium=基岩
+material.bedrockium.ability=无穷次使用...可能有点用处
+
+# Pam's Harvestcraft
+material.onion=催泪
+
+# Progressive Automation
+material.witheriron=凋零铁
+material.witheriron.ability=来自凋灵的铁
+
+# Thermal Foundation
+material.enderium=末影
+material.signalum=信素
+material.lumium=流明
+
+# Nevermine 2: Advent of Ascenion
+material.bloodstone=血石
+material.crystalitestone=微晶石
+material.emberstone=余烬石
+material.limonite=褐铁
+material.rosite=硫铜锑
+material.skeletal=骷髅
 
 # Toolparts
 part.arrowhead=@material@箭头
@@ -392,9 +432,52 @@ part.toolrod=@material@手柄
 part.toughbind=@material@坚韧绑定结
 part.toughrod=@material@坚韧手柄
 
+# Tinkers Weaponary parts
+part.shuriken=@material@ 回旋镖
+part.bow.limb=@material@ 弓臂
+part.crossbow.limb=@material@ 弩臂
+part.crossbow.body=@material@ 弩身
+part.bolt=@material@ 弩箭
+
 # Blocks and ingots
 tile.fairy.block.name=精灵方块
-tile.pokefennium.block.name=Pokefenn方块
+tile.pokefennium.block.name=铁血方块
+tile.red.aurum.block.name=赤金方块
 
 item.fairy.ingot.name=精灵锭
-item.pokefennium.ingot.name=Pokefenn锭
+item.pokefennium.ingot.name=铁血锭
+item.red.aurum.ingot.name=赤金锭
+item.drulloy.ingot.name=朱氏合金锭
+
+# Gears
+# Botania
+item.gear.manasteel.name=魔钢齿轮
+item.gear.terrasteel.name=泰拉钢齿轮
+item.gear.elementium.name=源质钢齿轮
+
+# Thaumcraft
+item.gear.void.metal.name=虚空金属齿轮
+
+# Big Reactors
+item.gear.yellorium.name=黄铀齿轮
+item.gear.cyanite.name=蓝晶齿轮
+item.gear.blutonium.name=蓝钚齿轮
+item.gear.ludicrite.name=纯镥齿轮
+
+# ExtraUtils
+item.gear.bedrockium.name=基岩齿轮
+
+# Pam's Harvestcraft
+item.gear.onion.name=催泪齿轮
+
+# Progressive Automation
+item.gear.witheriron.name=凋零铁齿轮
+
+#Arc Smeltery
+tile.arc.smeltery.controller.name=电弧炉控制器
+tile.arc.smeltery.drain.name=电弧炉排液口
+tile.arc.smeltery.brick.name=耐火砖
+tile.arc.smeltery.socket.name=电弧炉插座
+
+#Auto Smeltery
+tile.auto.smeltery.controller.name=自动冶炼厂控制器
