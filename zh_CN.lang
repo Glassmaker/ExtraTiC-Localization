@@ -10,13 +10,84 @@ fluid.molten.pokefennium=熔融铁血
 fluid.molten.fairy=熔融精灵
 fluid.red.aurum.molten=熔融赤金
 
+# ThaumicIntegration / ThermalSmeltery 
+fluid.potato.soup=马铃薯汤
+fluid.drulloy.molten=熔融朱氏合金
+
+# Galicticraft
+fluid.desh.molten=熔融戴斯
+
+# Generic
+fluid.dark.steel.molten=熔融玄钢
+fluid.adamantine.molten=熔融金钻
+fluid.zinc.molten=熔融锌
+fluid.brass.molten=熔融黄铜
+
+# Blue power
+fluid.blue.alloy.molten=熔融蓝石合金
+fluid.infused.teslatite.liquid=液态充能蓝石
+fluid.purple.alloy.molten=熔融紫晶合金
+fluid.red.alloy.molten熔融红色合金
+fluid.teslatite.liquid=液态蓝石
+fluid.tungsten.molten=熔融钨
+
+# EnderIO
+fluid.conductive.iron.molten=熔融导电铁
+fluid.electrical.steel.molten=熔融磁钢
+fluid.energetic.alloy.molten=熔融充能合金
+fluid.phased.gold.molten=熔融脉冲合金
+fluid.phased.iron.molten=熔融脉冲铁
+fluid.redstone.alloy.molten=熔融红石合金
+fluid.silicon.liquid=熔融硅
+fluid.soularium.molten=熔融魂金
+
+# Botaina
+fluid.manasteel.molten=熔融魔钢
+fluid.terrasteel.molten=熔融泰拉钢
+fluid.elementium.molten=熔融源质钢
+
+# Thaumcraft
+fluid.voidmetal.molten=熔融虚空金属
+
+# Big Reactors
+fluid.blutonium.molten=熔融蓝钚
+fluid.ludicrite.molten=熔融纯镥
+
+# ExtraUtils
+fluid.bedrockium.molten=熔融基岩
+
+# ProgAuto
+fluid.witheriron.molten=熔融凋零铁
+
+# Nevermine 2: Advent of Ascenion
+fluid.amethyst.molten=Molten Amethyst
+fluid.emberstone.molten=Molten Emberstone
+fluid.jade.molten=Molten Jade
+fluid.limonite.molten=Molten Limonite
+fluid.rosite.molten=Molten Rosite
+fluid.sapphire.molten=Molten Sapphire
+fluid.skeletal.molten=Molten Skeletal
+
+fluid.baronyte.molten=Molten Baronyte
+fluid.blazium.molten=Molten Blazium
+fluid.elecanium.molten=Molten Elecanium
+fluid.ghastly.molten=Molten Ghastly
+fluid.ghoulish.molten=Molten Ghoulish
+fluid.lyon.molten=Molten Lyon
+fluid.mystite.molten=Molten Mystite
+fluid.varsium.molten=Molten Varsium
+
 
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.refined.glowstone.name=熔融强化荧石
 tile.molten.osmium.name=熔融锇
 
+
 tile.molten.pokefennium.name=熔融Pokefenn
 tile.molten.fairy.name=熔融精灵
+
+
+
 
 # Buckets of molten metals
 item.extratic.bucket.filled.molten.refined.glowstone.name=桶装熔融强化荧石
