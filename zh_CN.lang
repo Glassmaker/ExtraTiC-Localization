@@ -1,11 +1,15 @@
 #Chinese localization for ExtraTic
 
 # Fluids (for smelteries)
+
+# Mekanism
 fluid.molten.refined.glowstone=熔融强化荧石
 fluid.molten.osmium=熔融锇
 
-fluid.molten.pokefennium=熔融Pokefennium
+fluid.molten.pokefennium=熔融铁血
 fluid.molten.fairy=熔融精灵
+fluid.red.aurum.molten=熔融赤金
+
 
 # Fluids (for NEI and the fluid blocks in the world)
 tile.molten.refined.glowstone.name=熔融强化荧石
