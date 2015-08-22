@@ -315,12 +315,12 @@ material.desh=戴斯
 
 # Simple Ores Core
 material.adamantium=艾德曼合金
-material.mythril=秘银
+material.mythril=玄银
 material.onyx=缟玛瑙
 
 # Simple Ores Fusion
-material.sinisite=Sinisite
-material.thyrium=Thyrium
+material.sinisite=逆银
+material.thyrium=鍪银
 
 # Simple Ores Netherrock
 material.argonite=阿格尼特
@@ -341,6 +341,30 @@ material.amethyst=紫水晶
 material.peridot=橄榄石
 material.ruby=红宝石
 material.sapphire=蓝宝石
+material.dark.steel=玄钢
+material.brass=黄铜
+material.electrum=琥珀金
+material.platinum=铂
+material.silver=银
+material.adamantine=金刚
+material.mithril=秘银
+material.glue=凝胶
+material.endstone=末地石
+
+# Oddmod
+material.kroostyl=克鲁斯蒂
+
+# Thaumic Integration
+material.drulloy=朱氏合金
+
+# Erebus
+material.jade=绿玉
+
+# Thaumcraft
+material.void.metal=虚空金属
+
+# Better Storage
+material.cardboard=Cardboard
 
 # Toolparts
 part.arrowhead=@material@箭头
