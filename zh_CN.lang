@@ -152,7 +152,7 @@ tile.molten.elecanium=熔融钛
 tile.molten.ghastly=熔融阴森
 tile.molten.ghoulish=熔融恐惧
 tile.molten.lyon=熔融莱昂钢
-tile.molten.mystite=熔融神秘元素
+tile.molten.mystite=熔融奥秘
 tile.molten.varsium=熔融镁
 
 
@@ -232,7 +232,7 @@ item.extratic.bucket.filled.elecanium.molten=桶装熔融钛
 item.extratic.bucket.filled.ghastly.molten=桶装熔融阴森
 item.extratic.bucket.filled.ghoulish.molten=桶装熔融恐惧
 item.extratic.bucket.filled.lyon.molten=桶装熔融莱昂钢
-item.extratic.bucket.filled.mystite.molten=桶装熔融神秘元素
+item.extratic.bucket.filled.mystite.molten=桶装熔融奥秘
 item.extratic.bucket.filled.varsium.molten=桶装熔融镁
 
 # Materials (for toolparts)
