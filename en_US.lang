@@ -84,6 +84,9 @@ fluid.lyon.molten=Molten Lyon
 fluid.mystite.molten=Molten Mystite
 fluid.varsium.molten=Molten Varsium
 
+# Immersive Engineering
+fluid.constantan.molten=Molten Constantan
+
 # Fluids (for NEI and the fluid blocks in the world)
 # Mekanism
 tile.molten.refined.glowstone.name=Molten Refined Glowstone
@@ -161,6 +164,9 @@ tile.molten.lyon.name=Molten Lyon
 tile.molten.mystite.name=Molten Mystite
 tile.molten.varsium.name=Molten Varsium
 
+# Immersive Engineering
+tile.molten.constantan.name=Molten Constantan
+
 # Buckets of molten metals
 # Mekanism
 item.extratic.bucket.filled.refined.glowstone.molten.name=Molten Refined Glowstone Bucket
@@ -237,6 +243,9 @@ item.extratic.bucket.filled.ghoulish.molten.name=Molten Ghoulish Bucket
 item.extratic.bucket.filled.lyon.molten.name=Molten Lyon Bucket
 item.extratic.bucket.filled.mystite.molten.name=Molten Mystite Bucket
 item.extratic.bucket.filled.varsium.molten.name=Molten Varsium Bucket
+
+# Immersive Engineering
+item.extratic.bucket.filled.constantan.molten.name=Molten Constantan Bucket
 
 # Materials (for toolparts)
 # Metallurgy Base
@@ -406,6 +415,9 @@ material.emberstone=Emberstone
 material.limonite=Limonite
 material.rosite=Rosite
 material.skeletal=Skeletal
+
+# Immersive Engineering
+material.constantan=Constantan
 
 # Toolparts
 part.arrowhead=@material@ Arrowhead
