@@ -1,58 +1,251 @@
 #Russian localization for ExtraTic
 
+#CreativeTabs
+itemGroup.extratic.blocks=ExtraTiC: Блоки
+itemGroup.extratic.buckets=ExtraTiC: Вёдра
+itemGroup.extratic.items=ExtraTiC: Предметы
+itemGroup.extratic.parts=ExtraTiC: Детали
+
 # Fluids (for smelteries)
+
+# Mekanism
 fluid.refined.glowstone.molten=Расплавленный очищенный светокамень
 fluid.osmium.molten=Расплавленный осмий
 
+# Funstuff
 fluid.pokefennium.molten=Расплавленный покфениум
 fluid.fairy.molten=Расплавленный волшебный металл
 fluid.red.aurum.molten=Расплавленный красный аурум
 
+# ThaumicIntegration / ThermalSmeltery 
 fluid.potato.soup=Картофельный суп
 fluid.drulloy.molten=Расплавленный драллой
 
+# Galicticraft
 fluid.desh.molten.name=Расплавленный деш
 
+# Generic
 fluid.dark.steel.molten=Расплавленная тёмная сталь
 fluid.adamantine.molten=Расплавленный адамантин
 fluid.zinc.molten=Расплавленный цинк
 fluid.brass.molten=Расплавленная латунь
 
+# Blue power
+fluid.blue.alloy.molten=Расплавленный синий сплав
+fluid.infused.teslatite.liquid=Жидкий наполненный теслатит
+fluid.purple.alloy.molten=Расплавленный фиолетовый сплав
+fluid.red.alloy.molten=Расплавленный красный сплав
+fluid.teslatite.liquid=Жидкий теслатит
+fluid.tungsten.molten=Расплавленный вольфрам
+
+# EnderIO
+fluid.conductive.iron.molten=Расплавленное проводящее железо
+fluid.electrical.steel.molten=Расплавленная наэлектризованная сталь
+fluid.energetic.alloy.molten=Расплавленный энергетический сплав
+fluid.phased.gold.molten=Расплавленное пульсирующее золото
+fluid.phased.iron.molten=Расплавленное пульсирующее железо
+fluid.redstone.alloy.molten=Расплавленный сплав из красного камня
+fluid.silicon.liquid=Жидкий кремний
+fluid.soularium.molten=Расплавленный соуларий
+
+# Botaina
+fluid.manasteel.molten=Расплавленная манасталь
+fluid.terrasteel.molten=Расплавленная террасталь
+fluid.elementium.molten=Расплавленный элементий
+
+# Thaumcraft
+fluid.voidmetal.molten=Расплавленный пустотный метал
+
+# Big Reactors
+fluid.blutonium.molten=Расплавленный блутоний
+fluid.ludicrite.molten=Расплавленный лудикрит
+
+# ExtraUtils
+fluid.bedrockium.molten=Расплавленный бедрокий
+
+# ProgAuto
+fluid.witheriron.molten=Расплавленное высохшее железо
+
+# Nevermine 2: Advent of Ascenion
+fluid.amethyst.molten=Расплавленный аметист
+fluid.emberstone.molten=Расплавленный тлеющий камень
+fluid.jade.molten=Расплавленный нефрит
+fluid.limonite.molten=Расплавленный лимонит
+fluid.rosite.molten=Расплавленный розит
+fluid.sapphire.molten=Расплавленный сапфир
+fluid.skeletal.molten=Molten Skeletal
+
+fluid.baronyte.molten=Расплавленный баронит
+fluid.blazium.molten=Расплавленный блейзий
+fluid.elecanium.molten=Расплавленный эликаний
+fluid.ghastly.molten=Molten Ghastly
+fluid.ghoulish.molten=Molten Ghoulish
+fluid.lyon.molten=Molten Lyon
+fluid.mystite.molten=Расплавленный мистит
+fluid.varsium.molten=Расплавленный варсий
+
+# Immersive Engineering
+fluid.constantan.molten=Расплавленный константан
+
 # Fluids (for NEI and the fluid blocks in the world)
+# Mekanism
 tile.molten.refined.glowstone.name=Расплавленный очищенный светокамень
 tile.molten.osmium.name=Расплавленный осмий
 
+# Funstuff
 tile.molten.pokefennium.name=Расплавленный покфениум
 tile.molten.fairy.name=Расплавленный волшебный металл
 tile.molten.red.aurum.name=Расплавленный красный аурум
 
+# ThuamicIntegration / ThermalSmeltery
 tile.potato.soup.name=Картофельный суп
 tile.molten.drulloy.name=Расплавленный драллой
 
+# Galacticraft
 tile.molten.desh.name=Расплавленный деш
 
+# Generic
 tile.molten.dark.steel.name=Расплавленная тёмная сталь
 tile.molten.adamantine.name=Расплавленный адамантин
 tile.molten.zinc.name=Расплавленный цинк
 tile.molten.brass.name=Расплавленная латунь
 
+# Blue power
+tile.molten.blue.alloy.name=Расплавленный синий сплав
+tile.liquid.infused.teslatite.name=Жидкий наполненный теслатит
+tile.molten.purple.alloy.name=Расплавленный фиолетовый сплав
+tile.molten.red.alloy.name=Расплавленный красный сплав
+tile.liquid.teslatite.name=Жидкий теслатит
+tile.molten.tungsten.name=Расплавленный вольфрам
+
+# EnderIO
+tile.molten.conductive.iron.name=Расплавленное проводящее железо
+tile.molten.electrical.steel.name=Расплавленная наэлектризованная сталь
+tile.molten.energetic.alloy.name=Расплавленный энергетический сплав
+tile.molten.phased.gold.name=Расплавленное пульсирующее золото
+tile.molten.phased.iron.name=Расплавленное пульсирующее железо
+tile.molten.redstone.alloy.name=Расплавленный сплав из красного камня
+tile.liquid.silicon.name=Жидкий кремний
+tile.molten.soularium.name=Расплавленный соуларий
+
+# Botaina
+tile.molten.manasteel.name=Расплавленная манасталь
+tile.molten.terrasteel.name=Расплавленная террасталь
+tile.molten.elementium.name=Расплавленный элементий
+
+# Thaumcraft
+tile.molten.voidmetal.name=Расплавленный пустотный метал
+
+# Big Reactors
+tile.molten.blutonium.name=Расплавленный блутоний
+tile.molten.ludicrite.name=Расплавленный лудикрит
+
+# ExtraUtils
+tile.molten.bedrockium.name=Расплавленный бедрокий
+
+# ProgAuto
+tile.molten.witheriron.name=Расплавленное высохшее железо
+
+# Nevermine 2: Advent of Ascenion
+tile.molten.amethyst.name=Расплавленный аметист
+tile.molten.emberstone.name=Расплавленный тлеющий камень
+tile.molten.jade.name=Расплавленный нефрит
+tile.molten.limonite.name=Расплавленный лимонит
+tile.molten.rosite.name=Расплавленный розит
+tile.molten.sapphire.name=Расплавленный сапфир
+tile.molten.skeletal.name=Molten Skeletal
+
+tile.molten.baronyte.name=Расплавленный баронит
+tile.molten.blazium.name=Расплавленный блейзий
+tile.molten.elecanium.name=Расплавленный эликаний
+tile.molten.ghastly.name=Molten Ghastly
+tile.molten.ghoulish.name=Molten Ghoulish
+tile.molten.lyon.name=Molten Lyon
+tile.molten.mystite.name=Расплавленный мистит
+tile.molten.varsium.name=Расплавленный варсий
+
+# Immersive Engineering
+tile.molten.constantan.name=Расплавленный константан
+
 # Buckets of molten metals
+# Mekanism
 item.extratic.bucket.filled.refined.glowstone.molten.name=Ведро расплавленного очищенного светокамня
 item.extratic.bucket.filled.osmium.molten.name=Ведро расплавленного осмия
 
+# Funstuff
 item.extratic.bucket.filled.pokefennium.molten.name=Ведро расплавленного покфениума
 item.extratic.bucket.filled.fairy.molten.name=Ведро расплавленного волшебного металла
 item.extratic.bucket.filled.red.aurum.molten.name=Ведро расплавленного красного аурума
 
+# ThuamicIntegration / Thermal Smeltery
 item.extratic.bucket.filled.potato.soup.name=Ведро картофельного супа
 item.extratic.bucket.filled.drulloy.molten.name=Ведро расплавленного драллоя
 
+# Galacticraft
 item.extratic.bucket.filled.desh.molten.name=Ведро расплавленного деша
 
+# Generic
 item.extratic.bucket.filled.dark.steel.molten.name=Ведро расплавленной тёмной стали
 item.extratic.bucket.filled.adamantine.molten.name=Ведро расплавленного адамантина
 item.extratic.bucket.filled.zinc.molten.name=Ведро расплавленного цинка
 item.extratic.bucket.filled.brass.molten.name=Ведро расплавленной латуни
+
+# Blue power
+item.extratic.bucket.filled.blue.alloy.molten.name=Ведро расплавленного синего сплава
+item.extratic.bucket.filled.infused.teslatite.liquid.name=Ведро жидкого наполненного теслатита
+item.extratic.bucket.filled.purple.alloy.molten.name=Ведро расплавленного фиолетового сплава
+item.extratic.bucket.filled.red.alloy.molten.name=Ведро расплавленного красного сплава
+item.extratic.bucket.filled.teslatite.liquid.name=Ведро жидкого теслатита
+item.extratic.bucket.filled.tungsten.molten.name=Ведро расплавленного вольфрама
+
+# EnderIO
+item.extratic.bucket.filled.conductive.iron.molten.name=Ведро расплавленного проводящего железа
+item.extratic.bucket.filled.electrical.steel.molten.name=Ведро расплавленной наэлектризованной стали
+item.extratic.bucket.filled.energetic.alloy.molten.name=Ведро расплавленного энергетического сплава
+item.extratic.bucket.filled.phased.gold.molten.name=Ведро расплавленного пульсирующего золота
+item.extratic.bucket.filled.phased.iron.molten.name=Ведро расплавленного пульсирующего железа
+item.extratic.bucket.filled.redstone.alloy.molten.name=Ведро расплавленного сплава из красного камня
+item.extratic.bucket.filled.silicon.liquid.name=Ведро жидкого кремния
+item.extratic.bucket.filled.soularium.molten.name=Ведро расплавленного соулария
+
+# Botaina
+item.extratic.bucket.filled.manasteel.molten.name=Ведро расплавленной манастали
+item.extratic.bucket.filled.terrasteel.molten.name=Ведро расплавленной террастали
+item.extratic.bucket.filled.elementium.molten.name=Ведро расплавленного элементия
+
+# Thaumcraft
+item.extratic.bucket.filled.voidmetal.molten.name=Ведро расплавленного пустотного металла
+
+# Big Reactors
+item.extratic.bucket.filled.blutonium.molten.name=Ведро расплавленного блутония
+item.extratic.bucket.filled.ludicrite.molten.name=Ведро расплавленного лудикрита
+
+# ExtraUtils
+item.extratic.bucket.filled.bedrockium.molten.name=Ведро расплавленного бедрокия
+
+# ProgAuto
+item.extratic.bucket.filled.witheriron.molten.name=Ведро расплавленного высохшего железа
+
+# Nevermine 2: Advent of Ascenion
+item.extratic.bucket.filled.amethyst.molten.name=Ведро расплавленного аметиста
+item.extratic.bucket.filled.emberstone.molten.name=Ведро расплавленного тлеющего камня
+item.extratic.bucket.filled.jade.molten.name=Ведро расплавленного нефрита
+item.extratic.bucket.filled.limonite.molten.name=Ведро расплавленного лимонита
+item.extratic.bucket.filled.rosite.molten.name=Ведро расплавленного розита
+item.extratic.bucket.filled.sapphire.molten.name=Ведро расплавленного сапфира
+item.extratic.bucket.filled.skeletal.molten.name=Molten Skeletal Bucket
+
+item.extratic.bucket.filled.baronyte.molten.name=Ведро расплавленного баронита
+item.extratic.bucket.filled.blazium.molten.name=Ведро расплавленного блейзия
+item.extratic.bucket.filled.elecanium.molten.name=Ведро расплавленного эликания
+item.extratic.bucket.filled.ghastly.molten.name=Molten Ghastly Bucket
+item.extratic.bucket.filled.ghoulish.molten.name=Molten Ghoulish Bucket
+item.extratic.bucket.filled.lyon.molten.name=Molten Lyon Bucket
+item.extratic.bucket.filled.mystite.molten.name=Ведро расплавленного мистита
+item.extratic.bucket.filled.varsium.molten.name=Ведро расплавленного варсия
+
+# Immersive Engineering
+item.extratic.bucket.filled.constantan.molten.name=Ведро расплавленного константана
 
 # Materials (for toolparts)
 # Metallurgy Base
@@ -111,7 +304,7 @@ material.nether.quartz=Кварц Нижнего мира
 material.refined.glowstone=Очищенный светокамень
 material.osmium=Осмий
 
-# Fun stuff
+# Fun Stuff
 material.pokefennium=Покфениум
 material.fairy=Волшебный металл
 material.red.aurum=Красный аурум
@@ -193,6 +386,39 @@ material.endium=Эндий
 material.draconium=Драконий
 material.awakened.draconium=Пробуждённый драконий
 
+# Big Reactors
+material.yellorium=Йеллориум
+material.cyanite=Цианит
+material.blutonium=Блутоний
+material.ludicrite=Лудикрит
+
+# ExtraUtils
+material.bedrockium=Бедрокий
+material.bedrockium.ability=Бесконечная прочность... малюсенькое удобство
+
+# Pam's Harvestcraft
+material.onion=Tear Jerker
+
+# Progressive Automation
+material.witheriron=Высохшее железо
+material.witheriron.ability=Железо иссушителя
+
+# Thermal Foundation
+material.enderium=Эндериум
+material.signalum=Синал
+material.lumium=Ламиум
+
+# Nevermine 2: Advent of Ascenion
+material.bloodstone=Кровавый камень
+material.crystalitestone=Кристаллит
+material.emberstone=Тлеющий камень
+material.limonite=Лимонит
+material.rosite=Розит
+material.skeletal=Skeletal
+
+# Immersive Engineering
+material.constantan=Константан
+
 # Toolparts
 part.arrowhead=@material@ наконечник стрелы
 part.axe.head=@material@ обух топора
@@ -247,6 +473,40 @@ tile.red.aurum.block.name=Блок красного аурума
 item.fairy.ingot.name=Волшебный слиток
 item.pokefennium.ingot.name=Покфениумный слиток
 item.red.aurum.ingot.name=Слиток красного аурума
+item.drulloy.ingot.name=Драллоевый слиток
+
+# Gears
+# Botania
+item.gear.manasteel.name=Шестерня из манастали
+item.gear.terrasteel.name=Шестерня из террастали
+item.gear.elementium.name=Шестерня из элементия
+
+# Thaumcraft
+item.gear.void.metal.name=Шестерня из пустотного металла
+
+# Big Reactors
+item.gear.yellorium.name=Йеллориумовая шестерня
+item.gear.cyanite.name=Цианитовая шестерня
+item.gear.blutonium.name=Блутониевая шестерня
+item.gear.ludicrite.name=Лудикритовая шестерня
+
+# ExtraUtils
+item.gear.bedrockium.name=Шестерня из бедрокия
+
+# Pam's Harvestcraft
+item.gear.onion.name=Tear Jerker Gear
+
+# Progressive Automation
+item.gear.witheriron.name=Шестерня из высохшего железа
+
+#Arc Smeltery
+tile.arc.smeltery.controller.name=Контроллер дуговой плавильни
+tile.arc.smeltery.drain.name=Слив дуговой плавильни
+tile.arc.smeltery.brick.name=Огнеупорные кирпичи
+tile.arc.smeltery.socket.name=Разъём дуговой плавильни
+
+#Auto Smeltery
+tile.auto.smeltery.controller.name=Контроллер авто-плавильни
 
 # Material Display (For tools)
 # Metallurgy Base
@@ -378,6 +638,37 @@ material.endium.display=Эндиумовый
 material.draconium.display=Драконий
 material.awakened.draconium.display=Пробуждённодракониевый
 
+# Big Reactors
+material.yellorium.display=Йеллориумовый
+material.cyanite.display=Цианитовый
+material.blutonium.display=Блутониевый
+material.ludicrite.display=Лудикритовый
+
+# ExtraUtils
+material.bedrockium.display=Бедрокиевый
+
+# Pam's Harvestcraft
+material.onion.display=Tear Jerker
+
+# Progressive Automation
+material.witheriron.display=Высохшежелезный
+
+# Thermal Foundation
+material.enderium.display=Эндериумовый
+material.signalum.display=Синаловый
+material.lumium.display=Ламиумовый
+
+# Nevermine 2: Advent of Ascenion
+material.bloodstone.display=Кровавокаменный
+material.crystalitestone.display=Кристаллитовый
+material.emberstone.display=Тлеющекаменный
+material.limonite.display=Лимонитовый
+material.rosite.display=Розитовый
+material.skeletal.display=Skeletal
+
+# Immersive Engineering
+material.constantan.display=Константановый
+
 # Material Display (For toolparts)
 # Metallurgy Base
 part.material.angmallen=Ангмалленновый
@@ -507,6 +798,37 @@ part.material.endium=Эндиумовый
 # Draconic Evolution
 part.material.draconium=Драконий
 part.material.awakened.draconium=Пробуждённодракониевый
+
+# Big Reactors
+part.yellorium=Йеллориумовый
+part.cyanite=Цианитовый
+part.blutonium=Блутониевый
+part.ludicrite=Лудикритовый
+
+# ExtraUtils
+part.bedrockium=Бедрокиевый
+
+# Pam's Harvestcraft
+part.onion=Tear Jerker
+
+# Progressive Automation
+part.witheriron=Высохшежелезный
+
+# Thermal Foundation
+part.enderium=Эндериумовый
+part.signalum=Синаловый
+part.lumium=Ламиумовый
+
+# Nevermine 2: Advent of Ascenion
+part.bloodstone=Кровавокаменный
+part.crystalitestone=Кристаллитовый
+part.emberstone=Тлеющекаменный
+part.limonite=Лимонитовый
+part.rosite=Розитовый
+part.skeletal=Skeletal
+
+# Immersive Engineering
+part.constantan=Константановый
 
 # Fix for two words adjectives
 # Metallurgy Base
@@ -2206,6 +2528,346 @@ part.crossbow.body.awakened.draconium=Основа арбалета из про�
 part.bow.limb.awakened.draconium=Плечо лука из пробуждённого дракония
 part.bolt.awakened.draconium=Болт из пробуждённого дракония
 
+# ExtraUtils
+tool.pickaxe.bedrockium=Кирка из бедрокия
+tool.shovel.bedrockium=Лопата из бедрокия
+tool.hatchet.bedrockium=Топорик из бедрокия
+tool.broadsword.bedrockium=Палаш из бедрокия
+tool.longsword.bedrockium=Полуторный меч из бедрокия
+tool.rapier.bedrockium=Рапира из бедрокия
+tool.dagger.bedrockium=Кинжал из бедрокия
+tool.cutlass.bedrockium=Сабля из бедрокия
+tool.fryingpan.bedrockium=Сковорода из бедрокия
+tool.battlesign.bedrockium=Боевая табличка из бедрокия
+tool.mattock.bedrockium=Мотыготопор из бедрокия
+tool.chisel.bedrockium=Стамеска из бедрокия
+tool.lumberaxe.bedrockium=Большой топор из бедрокия
+tool.cleaver.bedrockium=Тесак из бедрокия
+tool.scythe.bedrockium=Коса из бедрокия
+tool.excavator.bedrockium=Копалка из бедрокия
+tool.hammer.bedrockium=Молот из бедрокия
+tool.battleaxe.bedrockium=Боевой топор из бедрокия
+tool.shortbow.bedrockium=Короткий лук из бедрокия
+tool.shuriken.bedrockium=Сюрикэн из бедрокия
+tool.arrowammo.bedrockium=Стрелы из бедрокия
+tool.boltammo.bedrockium=Болты из бедрокия
+tool.throwingknife.bedrockium=Метательный нож из бедрокия
+tool.javelin.bedrockium=Копьё из бедрокия
+part.toolrod.bedrockium=Стержень из бедрокия
+part.pickaxe.head.bedrockium=Обух кирки из бедрокия
+part.battle.sign.bedrockium=Боевая табличка из бедрокия
+part.chunk.bedrockium=Кусок из бедрокия
+part.shovel.head.bedrockium=Штык лопаты из бедрокия
+part.axe.head.bedrockium=Обух топора из бедрокия
+part.binding.bedrockium=Крепление из бедрокия
+part.tough.binding.bedrockium=Прочное крепление из бедрокия
+part.tough.rod.bedrockium=Прочный стержень из бедрокия
+part.large.plate.bedrockium=Большая пластина из бедрокия
+part.sword.blade.bedrockium=Лезвие меча из бедрокия
+part.large.guard.bedrockium=Широкая гарда из бедрокия
+part.medium.guard.bedrockium=Малая гарда из бедрокия
+part.crossbar.bedrockium=Поперечная гарда из бедрокия
+part.knife.blade.bedrockium=Лезвие ножа из бедрокия
+part.full.guard.bedrockium=Полная гарда из бедрокия
+part.frypan.head.bedrockium=Сковорода из бедрокия
+part.sign.head.bedrockium=Табличка из бедрокия
+part.chisel.head.bedrockium=Лезвие стамески из бедрокия
+part.scythe.head.bedrockium=Лезвие косы из бедрокия
+part.lumber.axe.head.bedrockium=Большой обух топора из бедрокия
+part.excavator.head.bedrockium=Пластина копалки из бедрокия
+part.tool.shard.bedrockium=Осколок бедрокия
+part.large.sword.blade.bedrockium=Большое лезвие меча из бедрокия
+part.hammer.head.bedrockium=Боёк молота из бедрокия
+part.arrowhead.bedrockium=Наконечник стрелы из бедрокия
+part.shuriken.bedrockium=Сюрикэн из бедрокия
+part.crossbow.limb.bedrockium=Плечо арбалета из бедрокия
+part.crossbow.body.bedrockium=Основа арбалета из бедрокия
+part.bow.limb.bedrockium=Плечо лука из бедрокия
+part.bolt.bedrockium=Болт из бедрокия
+
+# Progressive Automation
+tool.pickaxe.witheriron=Кирка из высохшего железа
+tool.shovel.witheriron=Лопата из высохшего железа
+tool.hatchet.witheriron=Топорик из высохшего железа
+tool.broadsword.witheriron=Палаш из высохшего железа
+tool.longsword.witheriron=Полуторный меч из высохшего железа
+tool.rapier.witheriron=Рапира из высохшего железа
+tool.dagger.witheriron=Кинжал из высохшего железа
+tool.cutlass.witheriron=Сабля из высохшего железа
+tool.fryingpan.witheriron=Сковорода из высохшего железа
+tool.battlesign.witheriron=Боевая табличка из высохшего железа
+tool.mattock.witheriron=Мотыготопор из высохшего железа
+tool.chisel.witheriron=Стамеска из высохшего железа
+tool.lumberaxe.witheriron=Большой топор из высохшего железа
+tool.cleaver.witheriron=Тесак из высохшего железа
+tool.scythe.witheriron=Коса из высохшего железа
+tool.excavator.witheriron=Копалка из высохшего железа
+tool.hammer.witheriron=Молот из высохшего железа
+tool.battleaxe.witheriron=Боевой топор из высохшего железа
+tool.shortbow.witheriron=Короткий лук из высохшего железа
+tool.shuriken.witheriron=Сюрикэн из высохшего железа
+tool.arrowammo.witheriron=Стрелы из высохшего железа
+tool.boltammo.witheriron=Болты из высохшего железа
+tool.throwingknife.witheriron=Метательный нож из высохшего железа
+tool.javelin.witheriron=Копьё из высохшего железа
+part.toolrod.wither.iron=Стержень из высохшего железа
+part.pickaxe.head.wither.iron=Обух кирки из высохшего железа
+part.battle.sign.wither.iron=Боевая табличка из высохшего железа
+part.chunk.wither.iron=Кусок из высохшего железа
+part.shovel.head.wither.iron=Штык лопаты из высохшего железа
+part.axe.head.wither.iron=Обух топора из высохшего железа
+part.binding.wither.iron=Крепление из высохшего железа
+part.tough.binding.wither.iron=Прочное крепление из высохшего железа
+part.tough.rod.wither.iron=Прочный стержень из высохшего железа
+part.large.plate.wither.iron=Большая пластина из высохшего железа
+part.sword.blade.wither.iron=Лезвие меча из высохшего железа
+part.large.guard.wither.iron=Широкая гарда из высохшего железа
+part.medium.guard.wither.iron=Малая гарда из высохшего железа
+part.crossbar.wither.iron=Поперечная гарда из высохшего железа
+part.knife.blade.wither.iron=Лезвие ножа из высохшего железа
+part.full.guard.wither.iron=Полная гарда из высохшего железа
+part.frypan.head.wither.iron=Сковорода из высохшего железа
+part.sign.head.wither.iron=Табличка из высохшего железа
+part.chisel.head.wither.iron=Лезвие стамески из высохшего железа
+part.scythe.head.wither.iron=Лезвие косы из высохшего железа
+part.lumber.axe.head.wither.iron=Большой обух топора из высохшего железа
+part.excavator.head.wither.iron=Пластина копалки из высохшего железа
+part.tool.shard.wither.iron=Осколок высохшего железа
+part.large.sword.blade.wither.iron=Большое лезвие меча из высохшего железа
+part.hammer.head.wither.iron=Боёк молота из высохшего железа
+part.arrowhead.wither.iron=Наконечник стрелы из высохшего железа
+part.shuriken.wither.iron=Сюрикэн из высохшего железа
+part.crossbow.limb.wither.iron=Плечо арбалета из высохшего железа
+part.crossbow.body.wither.iron=Основа арбалета из высохшего железа
+part.bow.limb.wither.iron=Плечо лука из высохшего железа
+part.bolt.wither.iron=Болт из высохшего железа
+
+# Thermal Foundation
+tool.pickaxe.enderium=Кирка из эндериума
+tool.shovel.enderium=Лопата из эндериума
+tool.hatchet.enderium=Топорик из эндериума
+tool.broadsword.enderium=Палаш из эндериума
+tool.longsword.enderium=Полуторный меч из эндериума
+tool.rapier.enderium=Рапира из эндериума
+tool.dagger.enderium=Кинжал из эндериума
+tool.cutlass.enderium=Сабля из эндериума
+tool.fryingpan.enderium=Сковорода из эндериума
+tool.battlesign.enderium=Боевая табличка из эндериума
+tool.mattock.enderium=Мотыготопор из эндериума
+tool.chisel.enderium=Стамеска из эндериума
+tool.lumberaxe.enderium=Большой топор из эндериума
+tool.cleaver.enderium=Тесак из эндериума
+tool.scythe.enderium=Коса из эндериума
+tool.excavator.enderium=Копалка из эндериума
+tool.hammer.enderium=Молот из эндериума
+tool.battleaxe.enderium=Боевой топор из эндериума
+tool.shortbow.enderium=Короткий лук из эндериума
+tool.shuriken.enderium=Сюрикэн из эндериума
+tool.arrowammo.enderium=Стрелы из эндериума
+tool.boltammo.enderium=Болты из эндериума
+tool.throwingknife.enderium=Метательный нож из эндериума
+tool.javelin.enderium=Копьё из эндериума
+part.toolrod.enderium=Стержень из эндериума
+part.pickaxe.head.enderium=Обух кирки из эндериума
+part.battle.sign.enderium=Боевая табличка из эндериума
+part.chunk.enderium=Кусок из эндериума
+part.shovel.head.enderium=Штык лопаты из эндериума
+part.axe.head.enderium=Обух топора из эндериума
+part.binding.enderium=Крепление из эндериума
+part.tough.binding.enderium=Прочное крепление из эндериума
+part.tough.rod.enderium=Прочный стержень из эндериума
+part.large.plate.enderium=Большая пластина из эндериума
+part.sword.blade.enderium=Лезвие меча из эндериума
+part.large.guard.enderium=Широкая гарда из эндериума
+part.medium.guard.enderium=Малая гарда из эндериума
+part.crossbar.enderium=Поперечная гарда из эндериума
+part.knife.blade.enderium=Лезвие ножа из эндериума
+part.full.guard.enderium=Полная гарда из эндериума
+part.frypan.head.enderium=Сковорода из эндериума
+part.sign.head.enderium=Табличка из эндериума
+part.chisel.head.enderium=Лезвие стамески из эндериума
+part.scythe.head.enderium=Лезвие косы из эндериума
+part.lumber.axe.head.enderium=Большой обух топора из эндериума
+part.excavator.head.enderium=Пластина копалки из эндериума
+part.tool.shard.enderium=Осколок эндериума
+part.large.sword.blade.enderium=Большое лезвие меча из эндериума
+part.hammer.head.enderium=Боёк молота из эндериума
+part.arrowhead.enderium=Наконечник стрелы из эндериума
+part.shuriken.enderium=Сюрикэн из эндериума
+part.crossbow.limb.enderium=Плечо арбалета из эндериума
+part.crossbow.body.enderium=Основа арбалета из эндериума
+part.bow.limb.enderium=Плечо лука из эндериума
+part.bolt.enderium=Болт из эндериума
+
+# Nevermine 2: Advent of Ascenion
+tool.pickaxe.bloodstone=Кирка из кровавого камня
+tool.shovel.bloodstone=Лопата из кровавого камня
+tool.hatchet.bloodstone=Топорик из кровавого камня
+tool.broadsword.bloodstone=Палаш из кровавого камня
+tool.longsword.bloodstone=Полуторный меч из кровавого камня
+tool.rapier.bloodstone=Рапира из кровавого камня
+tool.dagger.bloodstone=Кинжал из кровавого камня
+tool.cutlass.bloodstone=Сабля из кровавого камня
+tool.fryingpan.bloodstone=Сковорода из кровавого камня
+tool.battlesign.bloodstone=Боевая табличка из кровавого камня
+tool.mattock.bloodstone=Мотыготопор из кровавого камня
+tool.chisel.bloodstone=Стамеска из кровавого камня
+tool.lumberaxe.bloodstone=Большой топор из кровавого камня
+tool.cleaver.bloodstone=Тесак из кровавого камня
+tool.scythe.bloodstone=Коса из кровавого камня
+tool.excavator.bloodstone=Копалка из кровавого камня
+tool.hammer.bloodstone=Молот из кровавого камня
+tool.battleaxe.bloodstone=Боевой топор из кровавого камня
+tool.shortbow.bloodstone=Короткий лук из кровавого камня
+tool.shuriken.bloodstone=Сюрикэн из кровавого камня
+tool.arrowammo.bloodstone=Стрелы из кровавого камня
+tool.boltammo.bloodstone=Болты из кровавого камня
+tool.throwingknife.bloodstone=Метательный нож из кровавого камня
+tool.javelin.bloodstone=Копьё из кровавого камня
+part.toolrod.bloodstone=Стержень из кровавого камня
+part.pickaxe.head.bloodstone=Обух кирки из кровавого камня
+part.battle.sign.bloodstone=Боевая табличка из кровавого камня
+part.chunk.bloodstone=Кусок из кровавого камня
+part.shovel.head.bloodstone=Штык лопаты из кровавого камня
+part.axe.head.bloodstone=Обух топора из кровавого камня
+part.binding.bloodstone=Крепление из кровавого камня
+part.tough.binding.bloodstone=Прочное крепление из кровавого камня
+part.tough.rod.bloodstone=Прочный стержень из кровавого камня
+part.large.plate.bloodstone=Большая пластина из кровавого камня
+part.sword.blade.bloodstone=Лезвие меча из кровавого камня
+part.large.guard.bloodstone=Широкая гарда из кровавого камня
+part.medium.guard.bloodstone=Малая гарда из кровавого камня
+part.crossbar.bloodstone=Поперечная гарда из кровавого камня
+part.knife.blade.bloodstone=Лезвие ножа из кровавого камня
+part.full.guard.bloodstone=Полная гарда из кровавого камня
+part.frypan.head.bloodstone=Сковорода из кровавого камня
+part.sign.head.bloodstone=Табличка из кровавого камня
+part.chisel.head.bloodstone=Лезвие стамески из кровавого камня
+part.scythe.head.bloodstone=Лезвие косы из кровавого камня
+part.lumber.axe.head.bloodstone=Большой обух топора из кровавого камня
+part.excavator.head.bloodstone=Пластина копалки из кровавого камня
+part.tool.shard.bloodstone=Осколок кровавого камня
+part.large.sword.blade.bloodstone=Большое лезвие меча из кровавого камня
+part.hammer.head.bloodstone=Боёк молота из кровавого камня
+part.arrowhead.bloodstone=Наконечник стрелы из кровавого камня
+part.shuriken.bloodstone=Сюрикэн из кровавого камня
+part.crossbow.limb.bloodstone=Плечо арбалета из кровавого камня
+part.crossbow.body.bloodstone=Основа арбалета из кровавого камня
+part.bow.limb.bloodstone=Плечо лука из кровавого камня
+part.bolt.bloodstone=Болт из кровавого камня
+
+tool.pickaxe.crystalitestone=Кирка из кристаллита
+tool.shovel.crystalitestone=Лопата из кристаллита
+tool.hatchet.crystalitestone=Топорик из кристаллита
+tool.broadsword.crystalitestone=Палаш из кристаллита
+tool.longsword.crystalitestone=Полуторный меч из кристаллита
+tool.rapier.crystalitestone=Рапира из кристаллита
+tool.dagger.crystalitestone=Кинжал из кристаллита
+tool.cutlass.crystalitestone=Сабля из кристаллита
+tool.fryingpan.crystalitestone=Сковорода из кристаллита
+tool.battlesign.crystalitestone=Боевая табличка из кристаллита
+tool.mattock.crystalitestone=Мотыготопор из кристаллита
+tool.chisel.crystalitestone=Стамеска из кристаллита
+tool.lumberaxe.crystalitestone=Большой топор из кристаллита
+tool.cleaver.crystalitestone=Тесак из кристаллита
+tool.scythe.crystalitestone=Коса из кристаллита
+tool.excavator.crystalitestone=Копалка из кристаллита
+tool.hammer.crystalitestone=Молот из кристаллита
+tool.battleaxe.crystalitestone=Боевой топор из кристаллита
+tool.shortbow.crystalitestone=Короткий лук из кристаллита
+tool.shuriken.crystalitestone=Сюрикэн из кристаллита
+tool.arrowammo.crystalitestone=Стрелы из кристаллита
+tool.boltammo.crystalitestone=Болты из кристаллита
+tool.throwingknife.crystalitestone=Метательный нож из кристаллита
+tool.javelin.crystalitestone=Копьё из кристаллита
+part.toolrod.crystalitestone=Стержень из кристаллита
+part.pickaxe.head.crystalitestone=Обух кирки из кристаллита
+part.battle.sign.crystalitestone=Боевая табличка из кристаллита
+part.chunk.crystalitestone=Кусок из кристаллита
+part.shovel.head.crystalitestone=Штык лопаты из кристаллита
+part.axe.head.crystalitestone=Обух топора из кристаллита
+part.binding.crystalitestone=Крепление из кристаллита
+part.tough.binding.crystalitestone=Прочное крепление из кристаллита
+part.tough.rod.crystalitestone=Прочный стержень из кристаллита
+part.large.plate.crystalitestone=Большая пластина из кристаллита
+part.sword.blade.crystalitestone=Лезвие меча из кристаллита
+part.large.guard.crystalitestone=Широкая гарда из кристаллита
+part.medium.guard.crystalitestone=Малая гарда из кристаллита
+part.crossbar.crystalitestone=Поперечная гарда из кристаллита
+part.knife.blade.crystalitestone=Лезвие ножа из кристаллита
+part.full.guard.crystalitestone=Полная гарда из кристаллита
+part.frypan.head.crystalitestone=Сковорода из кристаллита
+part.sign.head.crystalitestone=Табличка из кристаллита
+part.chisel.head.crystalitestone=Лезвие стамески из кристаллита
+part.scythe.head.crystalitestone=Лезвие косы из кристаллита
+part.lumber.axe.head.crystalitestone=Большой обух топора из кристаллита
+part.excavator.head.crystalitestone=Пластина копалки из кристаллита
+part.tool.shard.crystalitestone=Осколок кристаллита
+part.large.sword.blade.crystalitestone=Большое лезвие меча из кристаллита
+part.hammer.head.crystalitestone=Боёк молота из кристаллита
+part.arrowhead.crystalitestone=Наконечник стрелы из кристаллита
+part.shuriken.crystalitestone=Сюрикэн из кристаллита
+part.crossbow.limb.crystalitestone=Плечо арбалета из кристаллита
+part.crossbow.body.crystalitestone=Основа арбалета из кристаллита
+part.bow.limb.crystalitestone=Плечо лука из кристаллита
+part.bolt.crystalitestone=Болт из кристаллита
+
+tool.pickaxe.emberstone=Кирка из тлеющего камня
+tool.shovel.emberstone=Лопата из тлеющего камня
+tool.hatchet.emberstone=Топорик из тлеющего камня
+tool.broadsword.emberstone=Палаш из тлеющего камня
+tool.longsword.emberstone=Полуторный меч из тлеющего камня
+tool.rapier.emberstone=Рапира из тлеющего камня
+tool.dagger.emberstone=Кинжал из тлеющего камня
+tool.cutlass.emberstone=Сабля из тлеющего камня
+tool.fryingpan.emberstone=Сковорода из тлеющего камня
+tool.battlesign.emberstone=Боевая табличка из тлеющего камня
+tool.mattock.emberstone=Мотыготопор из тлеющего камня
+tool.chisel.emberstone=Стамеска из тлеющего камня
+tool.lumberaxe.emberstone=Большой топор из тлеющего камня
+tool.cleaver.emberstone=Тесак из тлеющего камня
+tool.scythe.emberstone=Коса из тлеющего камня
+tool.excavator.emberstone=Копалка из тлеющего камня
+tool.hammer.emberstone=Молот из тлеющего камня
+tool.battleaxe.emberstone=Боевой топор из тлеющего камня
+tool.shortbow.emberstone=Короткий лук из тлеющего камня
+tool.shuriken.emberstone=Сюрикэн из тлеющего камня
+tool.arrowammo.emberstone=Стрелы из тлеющего камня
+tool.boltammo.emberstone=Болты из тлеющего камня
+tool.throwingknife.emberstone=Метательный нож из тлеющего камня
+tool.javelin.emberstone=Копьё из тлеющего камня
+part.toolrod.emberstone=Стержень из тлеющего камня
+part.pickaxe.head.emberstone=Обух кирки из тлеющего камня
+part.battle.sign.emberstone=Боевая табличка из тлеющего камня
+part.chunk.emberstone=Кусок из тлеющего камня
+part.shovel.head.emberstone=Штык лопаты из тлеющего камня
+part.axe.head.emberstone=Обух топора из тлеющего камня
+part.binding.emberstone=Крепление из тлеющего камня
+part.tough.binding.emberstone=Прочное крепление из тлеющего камня
+part.tough.rod.emberstone=Прочный стержень из тлеющего камня
+part.large.plate.emberstone=Большая пластина из тлеющего камня
+part.sword.blade.emberstone=Лезвие меча из тлеющего камня
+part.large.guard.emberstone=Широкая гарда из тлеющего камня
+part.medium.guard.emberstone=Малая гарда из тлеющего камня
+part.crossbar.emberstone=Поперечная гарда из тлеющего камня
+part.knife.blade.emberstone=Лезвие ножа из тлеющего камня
+part.full.guard.emberstone=Полная гарда из тлеющего камня
+part.frypan.head.emberstone=Сковорода из тлеющего камня
+part.sign.head.emberstone=Табличка из тлеющего камня
+part.chisel.head.emberstone=Лезвие стамески из тлеющего камня
+part.scythe.head.emberstone=Лезвие косы из тлеющего камня
+part.lumber.axe.head.emberstone=Большой обух топора из тлеющего камня
+part.excavator.head.emberstone=Пластина копалки из тлеющего камня
+part.tool.shard.emberstone=Осколок тлеющего камня
+part.large.sword.blade.emberstone=Большое лезвие меча из тлеющего камня
+part.hammer.head.emberstone=Боёк молота из тлеющего камня
+part.arrowhead.emberstone=Наконечник стрелы из тлеющего камня
+part.shuriken.emberstone=Сюрикэн из тлеющего камня
+part.crossbow.limb.emberstone=Плечо арбалета из тлеющего камня
+part.crossbow.body.emberstone=Основа арбалета из тлеющего камня
+part.bow.limb.emberstone=Плечо лука из тлеющего камня
+part.bolt.emberstone=Болт из тлеющего камня
+
 # Fix for other tools (This going to be painful)
 # Metallurgy Base
 tool.pickaxe.angmallen=Ангмалленновая кирка
@@ -2885,6 +3547,127 @@ tool.excavator.cardboard=Картонная копалка
 tool.arrowammo.cardboard=Картонные стрелы
 tool.boltammo.cardboard=Картонные болты
 tool.javelin.cardboard=Картонное копьё
+
+# Big Reactors
+tool.pickaxe.yellorium=Йеллориумовая кирка
+tool.shovel.yellorium=Йеллориумовая лопата
+tool.rapier.yellorium=Йеллориумовая рапира
+tool.cutlass.yellorium=Йеллориумовая сабля
+tool.fryingpan.yellorium=Йеллориумовая сковорода
+tool.battlesign.yellorium=Йеллориумовая боевая табличка
+tool.chisel.yellorium=Йеллориумовая стамеска
+tool.scythe.yellorium=Йеллориумовая коса
+tool.excavator.yellorium=Йеллориумовая копалка
+tool.arrowammo.yellorium=Йеллориумовые стрелы
+tool.boltammo.yellorium=Йеллориумовые болты
+tool.javelin.yellorium=Йеллориумовое копьё
+
+tool.pickaxe.cyanite=Цианитовая кирка
+tool.shovel.cyanite=Цианитовая лопата
+tool.rapier.cyanite=Цианитовая рапира
+tool.cutlass.cyanite=Цианитовая сабля
+tool.fryingpan.cyanite=Цианитовая сковорода
+tool.battlesign.cyanite=Цианитовая боевая табличка
+tool.chisel.cyanite=Цианитовая стамеска
+tool.scythe.cyanite=Цианитовая коса
+tool.excavator.cyanite=Цианитовая копалка
+tool.arrowammo.cyanite=Цианитовые стрелы
+tool.boltammo.cyanite=Цианитовые болты
+tool.javelin.cyanite=Цианитовое копьё
+
+tool.pickaxe.blutonium=Блутониевая кирка
+tool.shovel.blutonium=Блутониевая лопата
+tool.rapier.blutonium=Блутониевая рапира
+tool.cutlass.blutonium=Блутониевая сабля
+tool.fryingpan.blutonium=Блутониевая сковорода
+tool.battlesign.blutonium=Блутониевая боевая табличка
+tool.chisel.blutonium=Блутониевая стамеска
+tool.scythe.blutonium=Блутониевая коса
+tool.excavator.blutonium=Блутониевая копалка
+tool.arrowammo.blutonium=Блутониевые стрелы
+tool.boltammo.blutonium=Блутониевые болты
+tool.javelin.blutonium=Блутониевое копьё
+
+tool.pickaxe.ludicrite=Лудикритовая кирка
+tool.shovel.ludicrite=Лудикритовая лопата
+tool.rapier.ludicrite=Лудикритовая рапира
+tool.cutlass.ludicrite=Лудикритовая сабля
+tool.fryingpan.ludicrite=Лудикритовая сковорода
+tool.battlesign.ludicrite=Лудикритовая боевая табличка
+tool.chisel.ludicrite=Лудикритовая стамеска
+tool.scythe.ludicrite=Лудикритовая коса
+tool.excavator.ludicrite=Лудикритовая копалка
+tool.arrowammo.ludicrite=Лудикритовые стрелы
+tool.boltammo.ludicrite=Лудикритовые болты
+tool.javelin.ludicrite=Лудикритовое копьё
+
+# Thermal Foundation
+tool.pickaxe.signalum=Синаловая кирка
+tool.shovel.signalum=Синаловая лопата
+tool.rapier.signalum=Синаловая рапира
+tool.cutlass.signalum=Синаловая сабля
+tool.fryingpan.signalum=Синаловая сковорода
+tool.battlesign.signalum=Синаловая боевая табличка
+tool.chisel.signalum=Синаловая стамеска
+tool.scythe.signalum=Синаловая коса
+tool.excavator.signalum=Синаловая копалка
+tool.arrowammo.signalum=Синаловые стрелы
+tool.boltammo.signalum=Синаловые болты
+tool.javelin.signalum=Синаловое копьё
+
+tool.pickaxe.lumium=Ламиумовая кирка
+tool.shovel.lumium=Ламиумовая лопата
+tool.rapier.lumium=Ламиумовая рапира
+tool.cutlass.lumium=Ламиумовая сабля
+tool.fryingpan.lumium=Ламиумовая сковорода
+tool.battlesign.lumium=Ламиумовая боевая табличка
+tool.chisel.lumium=Ламиумовая стамеска
+tool.scythe.lumium=Ламиумовая коса
+tool.excavator.lumium=Ламиумовая копалка
+tool.arrowammo.lumium=Ламиумовые стрелы
+tool.boltammo.lumium=Ламиумовые болты
+tool.javelin.lumium=Ламиумовое копьё
+
+# Nevermine 2: Advent of Ascenion
+tool.pickaxe.limonite=Лимонитовая кирка
+tool.shovel.limonite=Лимонитовая лопата
+tool.rapier.limonite=Лимонитовая рапира
+tool.cutlass.limonite=Лимонитовая сабля
+tool.fryingpan.limonite=Лимонитовая сковорода
+tool.battlesign.limonite=Лимонитовая боевая табличка
+tool.chisel.limonite=Лимонитовая стамеска
+tool.scythe.limonite=Лимонитовая коса
+tool.excavator.limonite=Лимонитовая копалка
+tool.arrowammo.limonite=Лимонитовые стрелы
+tool.boltammo.limonite=Лимонитовые болты
+tool.javelin.limonite=Лимонитовое копьё
+
+tool.pickaxe.rosite=Розитовая кирка
+tool.shovel.rosite=Розитовая лопата
+tool.rapier.rosite=Розитовая рапира
+tool.cutlass.rosite=Розитовая сабля
+tool.fryingpan.rosite=Розитовая сковорода
+tool.battlesign.rosite=Розитовая боевая табличка
+tool.chisel.rosite=Розитовая стамеска
+tool.scythe.rosite=Розитовая коса
+tool.excavator.rosite=Розитовая копалка
+tool.arrowammo.rosite=Розитовые стрелы
+tool.boltammo.rosite=Розитовые болты
+tool.javelin.rosite=Розитовое копьё
+
+# Immersive Engineering
+tool.pickaxe.limonite=Константановая кирка
+tool.shovel.limonite=Константановая лопата
+tool.rapier.limonite=Константановая рапира
+tool.cutlass.limonite=Константановая сабля
+tool.fryingpan.limonite=Константановая сковорода
+tool.battlesign.limonite=Константановая боевая табличка
+tool.chisel.limonite=Константановая стамеска
+tool.scythe.limonite=Константановая коса
+tool.excavator.limonite=Константановая копалка
+tool.arrowammo.limonite=Константановые стрелы
+tool.boltammo.limonite=Константановые болты
+tool.javelin.limonite=Константановое копьё
 
 # Fix for other parts (Do you know what is real pain?)
 # Metallurgy Base
@@ -3871,3 +4654,178 @@ part.toughbind.cardboard=Картонное прочное крепление
 part.crossbow.limb.cardboard=Картонное плечо арбалета
 part.crossbow.body.cardboard=Картонная основа арбалета
 part.bow.limb.cardboard=Картонное плечо лука
+
+# Big Reactors
+part.battle.sign.yellorium=Йеллориумовая боевая табличка
+part.binding.yellorium=Йеллориумовое крепление
+part.chisel.head.yellorium=Йеллориумовое лезвие стамески
+part.crossbar.yellorium=Йеллориумовая поперечная гарда
+part.excavator.head.yellorium=Йеллориумовая пластина копалки
+part.frypan.head.yellorium=Йеллориумовая сковорода
+part.full.guard.yellorium=Йеллориумовая полная гарда
+part.knife.blade.yellorium=Йеллориумовое лезвие ножа
+part.large.guard.yellorium=Йеллориумовая широкая гарда
+part.large.sword.blade.yellorium=Йеллориумовое большое лезвие меча
+part.largeplate.yellorium=Йеллориумовая большая пластина
+part.medium.guard.yellorium=Йеллориумовая малая гарда
+part.scythe.head.yellorium=Йеллориумовое лезвие косы
+part.sword.blade.yellorium=Йеллориумовое лезвие меча
+part.toughbind.yellorium=Йеллориумовое прочное крепление
+part.crossbow.limb.yellorium=Йеллориумовое плечо арбалета
+part.crossbow.body.yellorium=Йеллориумовая основа арбалета
+part.bow.limb.yellorium=Йеллориумовое плечо лука
+
+part.battle.sign.cyanite=Цианитовая боевая табличка
+part.binding.cyanite=Цианитовое крепление
+part.chisel.head.cyanite=Цианитовое лезвие стамески
+part.crossbar.cyanite=Цианитовая поперечная гарда
+part.excavator.head.cyanite=Цианитовая пластина копалки
+part.frypan.head.cyanite=Цианитовая сковорода
+part.full.guard.cyanite=Цианитовая полная гарда
+part.knife.blade.cyanite=Цианитовое лезвие ножа
+part.large.guard.cyanite=Цианитовая широкая гарда
+part.large.sword.blade.cyanite=Цианитовое большое лезвие меча
+part.largeplate.cyanite=Цианитовая большая пластина
+part.medium.guard.cyanite=Цианитовая малая гарда
+part.scythe.head.cyanite=Цианитовое лезвие косы
+part.sword.blade.cyanite=Цианитовое лезвие меча
+part.toughbind.cyanite=Цианитовое прочное крепление
+part.crossbow.limb.cyanite=Цианитовое плечо арбалета
+part.crossbow.body.cyanite=Цианитовая основа арбалета
+part.bow.limb.cyanite=Цианитовое плечо лука
+
+part.battle.sign.blutonium=Блутониевая боевая табличка
+part.binding.blutonium=Блутониевое крепление
+part.chisel.head.blutonium=Блутониевое лезвие стамески
+part.crossbar.blutonium=Блутониевая поперечная гарда
+part.excavator.head.blutonium=Блутониевая пластина копалки
+part.frypan.head.blutonium=Блутониевая сковорода
+part.full.guard.blutonium=Блутониевая полная гарда
+part.knife.blade.blutonium=Блутониевое лезвие ножа
+part.large.guard.blutonium=Блутониевая широкая гарда
+part.large.sword.blade.blutonium=Блутониевое большое лезвие меча
+part.largeplate.blutonium=Блутониевая большая пластина
+part.medium.guard.blutonium=Блутониевая малая гарда
+part.scythe.head.blutonium=Блутониевое лезвие косы
+part.sword.blade.blutonium=Блутониевое лезвие меча
+part.toughbind.blutonium=Блутониевое прочное крепление
+part.crossbow.limb.blutonium=Блутониевое плечо арбалета
+part.crossbow.body.blutonium=Блутониевая основа арбалета
+part.bow.limb.blutonium=Блутониевое плечо лука
+
+part.battle.sign.ludicrite=Лудикритовая боевая табличка
+part.binding.ludicrite=Лудикритовое крепление
+part.chisel.head.ludicrite=Лудикритовое лезвие стамески
+part.crossbar.ludicrite=Лудикритовая поперечная гарда
+part.excavator.head.ludicrite=Лудикритовая пластина копалки
+part.frypan.head.ludicrite=Лудикритовая сковорода
+part.full.guard.ludicrite=Лудикритовая полная гарда
+part.knife.blade.ludicrite=Лудикритовое лезвие ножа
+part.large.guard.ludicrite=Лудикритовая широкая гарда
+part.large.sword.blade.ludicrite=Лудикритовое большое лезвие меча
+part.largeplate.ludicrite=Лудикритовая большая пластина
+part.medium.guard.ludicrite=Лудикритовая малая гарда
+part.scythe.head.ludicrite=Лудикритовое лезвие косы
+part.sword.blade.ludicrite=Лудикритовое лезвие меча
+part.toughbind.ludicrite=Лудикритовое прочное крепление
+part.crossbow.limb.ludicrite=Лудикритовое плечо арбалета
+part.crossbow.body.ludicrite=Лудикритовая основа арбалета
+part.bow.limb.ludicrite=Лудикритовое плечо лука
+
+# Thermal Foundation
+part.battle.sign.signalum=Синаловая боевая табличка
+part.binding.signalum=Синаловое крепление
+part.chisel.head.signalum=Синаловое лезвие стамески
+part.crossbar.signalum=Синаловая поперечная гарда
+part.excavator.head.signalum=Синаловая пластина копалки
+part.frypan.head.signalum=Синаловая сковорода
+part.full.guard.signalum=Синаловая полная гарда
+part.knife.blade.signalum=Синаловое лезвие ножа
+part.large.guard.signalum=Синаловая широкая гарда
+part.large.sword.blade.signalum=Синаловое большое лезвие меча
+part.largeplate.signalum=Синаловая большая пластина
+part.medium.guard.signalum=Синаловая малая гарда
+part.scythe.head.signalum=Синаловое лезвие косы
+part.sword.blade.signalum=Синаловое лезвие меча
+part.toughbind.signalum=Синаловое прочное крепление
+part.crossbow.limb.signalum=Синаловое плечо арбалета
+part.crossbow.body.signalum=Синаловая основа арбалета
+part.bow.limb.signalum=Синаловое плечо лука
+
+part.battle.sign.lumium=Ламиумовая боевая табличка
+part.binding.lumium=Ламиумовое крепление
+part.chisel.head.lumium=Ламиумовое лезвие стамески
+part.crossbar.lumium=Ламиумовая поперечная гарда
+part.excavator.head.lumium=Ламиумовая пластина копалки
+part.frypan.head.lumium=Ламиумовая сковорода
+part.full.guard.lumium=Ламиумовая полная гарда
+part.knife.blade.lumium=Ламиумовое лезвие ножа
+part.large.guard.lumium=Ламиумовая широкая гарда
+part.large.sword.blade.lumium=Ламиумовое большое лезвие меча
+part.largeplate.lumium=Ламиумовая большая пластина
+part.medium.guard.lumium=Ламиумовая малая гарда
+part.scythe.head.lumium=Ламиумовое лезвие косы
+part.sword.blade.lumium=Ламиумовое лезвие меча
+part.toughbind.lumium=Ламиумовое прочное крепление
+part.crossbow.limb.lumium=Ламиумовое плечо арбалета
+part.crossbow.body.lumium=Ламиумовая основа арбалета
+part.bow.limb.lumium=Ламиумовое плечо лука
+
+# Nevermine 2: Advent of Ascenion
+part.battle.sign.limonite=Лимонитовая боевая табличка
+part.binding.limonite=Лимонитовое крепление
+part.chisel.head.limonite=Лимонитовое лезвие стамески
+part.crossbar.limonite=Лимонитовая поперечная гарда
+part.excavator.head.limonite=Лимонитовая пластина копалки
+part.frypan.head.limonite=Лимонитовая сковорода
+part.full.guard.limonite=Лимонитовая полная гарда
+part.knife.blade.limonite=Лимонитовое лезвие ножа
+part.large.guard.limonite=Лимонитовая широкая гарда
+part.large.sword.blade.limonite=Лимонитовое большое лезвие меча
+part.largeplate.limonite=Лимонитовая большая пластина
+part.medium.guard.limonite=Лимонитовая малая гарда
+part.scythe.head.limonite=Лимонитовое лезвие косы
+part.sword.blade.limonite=Лимонитовое лезвие меча
+part.toughbind.limonite=Лимонитовое прочное крепление
+part.crossbow.limb.limonite=Лимонитовое плечо арбалета
+part.crossbow.body.limonite=Лимонитовая основа арбалета
+part.bow.limb.limonite=Лимонитовое плечо лука
+
+part.battle.sign.rosite=Розитовая боевая табличка
+part.binding.rosite=Розитовое крепление
+part.chisel.head.rosite=Розитовое лезвие стамески
+part.crossbar.rosite=Розитовая поперечная гарда
+part.excavator.head.rosite=Розитовая пластина копалки
+part.frypan.head.rosite=Розитовая сковорода
+part.full.guard.rosite=Розитовая полная гарда
+part.knife.blade.rosite=Розитовое лезвие ножа
+part.large.guard.rosite=Розитовая широкая гарда
+part.large.sword.blade.rosite=Розитовое большое лезвие меча
+part.largeplate.rosite=Розитовая большая пластина
+part.medium.guard.rosite=Розитовая малая гарда
+part.scythe.head.rosite=Розитовое лезвие косы
+part.sword.blade.rosite=Розитовое лезвие меча
+part.toughbind.rosite=Розитовое прочное крепление
+part.crossbow.limb.rosite=Розитовое плечо арбалета
+part.crossbow.body.rosite=Розитовая основа арбалета
+part.bow.limb.rosite=Розитовое плечо лука
+
+# Immersive Engineering
+part.battle.sign.constantan=Константановая боевая табличка
+part.binding.constantan=Константановое крепление
+part.chisel.head.constantan=Константановое лезвие стамески
+part.crossbar.constantan=Константановая поперечная гарда
+part.excavator.head.constantan=Константановая пластина копалки
+part.frypan.head.constantan=Константановая сковорода
+part.full.guard.constantan=Константановая полная гарда
+part.knife.blade.constantan=Константановое лезвие ножа
+part.large.guard.constantan=Константановая широкая гарда
+part.large.sword.blade.constantan=Константановое большое лезвие меча
+part.largeplate.constantan=Константановая большая пластина
+part.medium.guard.constantan=Константановая малая гарда
+part.scythe.head.constantan=Константановое лезвие косы
+part.sword.blade.constantan=Константановое лезвие меча
+part.toughbind.constantan=Константановое прочное крепление
+part.crossbow.limb.constantan=Константановое плечо арбалета
+part.crossbow.body.constantan=Константановая основа арбалета
+part.bow.limb.constantan=Константановое плечо лука
