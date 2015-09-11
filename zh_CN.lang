@@ -78,6 +78,9 @@ fluid.lyon.molten=熔融莱昂钢
 fluid.mystite.molten=熔融奥秘
 fluid.varsium.molten=熔融镁
 
+# Immersive Engineering
+fluid.constantan.molten=熔融康铜
+
 # Fluids (for NEI and the fluid blocks in the world)
 # Mekanism
 tile.molten.refined.glowstone=熔融强化荧石
@@ -155,7 +158,8 @@ tile.molten.lyon=熔融莱昂钢
 tile.molten.mystite=熔融奥秘
 tile.molten.varsium=熔融镁
 
-
+# Immersive Engineering
+tile.molten.constantan.name=熔融康铜
 
 # Buckets of molten metals
 
@@ -234,6 +238,9 @@ item.extratic.bucket.filled.ghoulish.molten=桶装熔融恐惧
 item.extratic.bucket.filled.lyon.molten=桶装熔融莱昂钢
 item.extratic.bucket.filled.mystite.molten=桶装熔融奥秘
 item.extratic.bucket.filled.varsium.molten=桶装熔融镁
+
+# Immersive Engineering
+item.extratic.bucket.filled.constantan.molten.name=桶装熔融康铜
 
 # Materials (for toolparts)
 # Metallurgy Base
@@ -405,6 +412,9 @@ material.emberstone=余烬石
 material.limonite=褐铁
 material.rosite=硫铜锑
 material.skeletal=骷髅
+
+# Immersive Engineering
+material.constantan=康铜
 
 # Toolparts
 part.arrowhead=@material@箭头
