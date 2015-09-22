@@ -78,6 +78,9 @@ fluid.lyon.molten=熔融莱昂钢
 fluid.mystite.molten=熔融奥秘
 fluid.varsium.molten=熔融镁
 
+# Immersive Engineering
+fluid.constantan.molten=熔融康铜
+
 # Fluids (for NEI and the fluid blocks in the world)
 # Mekanism
 tile.molten.refined.glowstone=熔融强化荧石
@@ -155,85 +158,89 @@ tile.molten.lyon=熔融莱昂钢
 tile.molten.mystite=熔融奥秘
 tile.molten.varsium=熔融镁
 
-
+# Immersive Engineering
+tile.molten.constantan.name=熔融康铜
 
 # Buckets of molten metals
 
 # Mekanism
-item.extratic.bucket.filled.refined.glowstone.molten=桶装熔融强化荧石
-item.extratic.bucket.filled.osmium.molten=桶装熔融锇
+item.extratic.bucket.filled.refined.glowstone.molten.name=桶装熔融强化荧石
+item.extratic.bucket.filled.osmium.molten.name=桶装熔融锇
 
 # Funstuff
-item.extratic.bucket.filled.pokefennium.molten=桶装熔融铁血
-item.extratic.bucket.filled.fairy.molten=桶装熔融精灵
-item.extratic.bucket.filled.red.aurum.molten=桶装熔融赤金
+item.extratic.bucket.filled.pokefennium.molten.name=桶装熔融铁血
+item.extratic.bucket.filled.fairy.molten.name=桶装熔融精灵
+item.extratic.bucket.filled.red.aurum.molten.name=桶装熔融赤金
 
 # ThaumicIntegration / ThermalSmeltery 
-item.extratic.bucket.filled.potato.soup=桶装马铃薯汤
-item.extratic.bucket.filled.drulloy.molten=桶装熔融朱氏合金
+item.extratic.bucket.filled.potato.soup.name=桶装马铃薯汤
+item.extratic.bucket.filled.drulloy.molten.name=桶装熔融朱氏合金
 
 # Galicticraft
-item.extratic.bucket.filled.desh.molten=桶装熔融戴斯
+item.extratic.bucket.filled.desh.molten.name=桶装熔融戴斯
 
 # Generic
-item.extratic.bucket.filled.dark.steel.molten=桶装熔融玄钢
-item.extratic.bucket.filled.adamantine.molten=桶装熔融金刚
-item.extratic.bucket.filled.zinc.molten=桶装熔融锌
-item.extratic.bucket.filled.brass.molten=桶装熔融黄铜
+item.extratic.bucket.filled.dark.steel.molten.name=桶装熔融玄钢
+item.extratic.bucket.filled.adamantine.molten.name=桶装熔融金刚
+item.extratic.bucket.filled.zinc.molten.name=桶装熔融锌
+item.extratic.bucket.filled.brass.molten.name=桶装熔融黄铜
 
 # Blue power
-item.extratic.bucket.filled.blue.alloy.molten=桶装熔融蓝石合金
-item.extratic.bucket.filled.infused.teslatite.liquid=桶装液态充能蓝石
-item.extratic.bucket.filled.purple.alloy.molten=桶装熔融紫晶合金
-item.extratic.bucket.filled.red.alloy.molten桶装熔融红色合金
-item.extratic.bucket.filled.teslatite.liquid=桶装液态蓝石
-item.extratic.bucket.filled.tungsten.molten=桶装熔融钨
+item.extratic.bucket.filled.blue.alloy.molten.name=桶装熔融蓝石合金
+item.extratic.bucket.filled.infused.teslatite.liquid.name=桶装液态充能蓝石
+item.extratic.bucket.filled.purple.alloy.molten.name=桶装熔融紫晶合金
+item.extratic.bucket.filled.red.alloy.molten.name桶装熔融红色合金
+item.extratic.bucket.filled.teslatite.liquid.name=桶装液态蓝石
+item.extratic.bucket.filled.tungsten.molten.name=桶装熔融钨
 
 # EnderIO
-item.extratic.bucket.filled.conductive.iron.molten=桶装熔融导电铁
-item.extratic.bucket.filled.electrical.steel.molten=桶装熔融磁钢
-item.extratic.bucket.filled.energetic.alloy.molten=桶装熔融充能合金
-item.extratic.bucket.filled.phased.gold.molten=桶装熔融脉冲合金
-item.extratic.bucket.filled.phased.iron.molten=桶装熔融脉冲铁
-item.extratic.bucket.filled.redstone.alloy.molten=桶装熔融红石合金
-item.extratic.bucket.filled.silicon.liquid=桶装熔融硅
-item.extratic.bucket.filled.soularium.molten=桶装熔融魂金
+item.extratic.bucket.filled.conductive.iron.molten.name=桶装熔融导电铁
+item.extratic.bucket.filled.electrical.steel.molten.name=桶装熔融磁钢
+item.extratic.bucket.filled.energetic.alloy.molten.name=桶装熔融充能合金
+item.extratic.bucket.filled.phased.gold.molten.name=桶装熔融脉冲合金
+item.extratic.bucket.filled.phased.iron.molten.name=桶装熔融脉冲铁
+item.extratic.bucket.filled.redstone.alloy.molten.name=桶装熔融红石合金
+item.extratic.bucket.filled.silicon.liquid.name=桶装熔融硅
+item.extratic.bucket.filled.soularium.molten.name=桶装熔融魂金
 
 # Botaina
-item.extratic.bucket.filled.manasteel.molten=桶装熔融魔钢
-item.extratic.bucket.filled.terrasteel.molten=桶装熔融泰拉钢
-item.extratic.bucket.filled.elementium.molten=桶装熔融源质钢
+item.extratic.bucket.filled.manasteel.molten.name=桶装熔融魔钢
+item.extratic.bucket.filled.terrasteel.molten.name=桶装熔融泰拉钢
+item.extratic.bucket.filled.elementium.molten.name=桶装熔融源质钢
 
 # Thaumcraft
-item.extratic.bucket.filled.voidmetal.molten=桶装熔融虚空金属
+item.extratic.bucket.filled.voidmetal.molten.name=桶装熔融虚空金属
 
 # Big Reactors
-item.extratic.bucket.filled.blutonium.molten=桶装熔融蓝钚
-item.extratic.bucket.filled.ludicrite.molten=桶装熔融纯镥
+item.extratic.bucket.filled.blutonium.molten.name=桶装熔融蓝钚
+item.extratic.bucket.filled.ludicrite.molten.name=桶装熔融纯镥
 
 # ExtraUtils
-item.extratic.bucket.filled.bedrockium.molten=桶装熔融基岩
+item.extratic.bucket.filled.bedrockium.molten.name=桶装熔融基岩
 
 # ProgAuto
-item.extratic.bucket.filled.witheriron.molten=桶装熔融凋零铁
+item.extratic.bucket.filled.witheriron.molten.name=桶装熔融凋零铁
 
 # Nevermine 2: Advent of Ascenion
-item.extratic.bucket.filled.amethyst.molten=桶装熔融紫晶
-item.extratic.bucket.filled.emberstone.molten=桶装熔融余烬石
-item.extratic.bucket.filled.jade.molten=桶装熔融翡翠
-item.extratic.bucket.filled.limonite.molten=桶装熔融褐铁
-item.extratic.bucket.filled.rosite.molten=桶装熔融硫铜锑
-item.extratic.bucket.filled.sapphire.molten=桶装熔融蓝宝石
-item.extratic.bucket.filled.skeletal.molten=桶装熔融骷髅
+item.extratic.bucket.filled.amethyst.molten.name=桶装熔融紫晶
+item.extratic.bucket.filled.emberstone.molten.name=桶装熔融余烬石
+item.extratic.bucket.filled.jade.molten.name=桶装熔融翡翠
+item.extratic.bucket.filled.limonite.molten.name=桶装熔融褐铁
+item.extratic.bucket.filled.rosite.molten.name=桶装熔融硫铜锑
+item.extratic.bucket.filled.sapphire.molten.name=桶装熔融蓝宝石
+item.extratic.bucket.filled.skeletal.molten.name=桶装熔融骷髅
 
-item.extratic.bucket.filled.baronyte.molten=桶装熔融硫铁钾
-item.extratic.bucket.filled.blazium.molten=桶装熔融虚空
-item.extratic.bucket.filled.elecanium.molten=桶装熔融钛
-item.extratic.bucket.filled.ghastly.molten=桶装熔融阴森
-item.extratic.bucket.filled.ghoulish.molten=桶装熔融恐惧
-item.extratic.bucket.filled.lyon.molten=桶装熔融莱昂钢
-item.extratic.bucket.filled.mystite.molten=桶装熔融奥秘
-item.extratic.bucket.filled.varsium.molten=桶装熔融镁
+item.extratic.bucket.filled.baronyte.molten.name=桶装熔融硫铁钾
+item.extratic.bucket.filled.blazium.molten.name=桶装熔融虚空
+item.extratic.bucket.filled.elecanium.molten.name=桶装熔融钛
+item.extratic.bucket.filled.ghastly.molten.name=桶装熔融阴森
+item.extratic.bucket.filled.ghoulish.molten.name=桶装熔融恐惧
+item.extratic.bucket.filled.lyon.molten.name=桶装熔融莱昂钢
+item.extratic.bucket.filled.mystite.molten.name=桶装熔融奥秘
+item.extratic.bucket.filled.varsium.molten.name=桶装熔融镁
+
+# Immersive Engineering
+item.extratic.bucket.filled.constantan.molten.name=桶装熔融康铜
 
 # Materials (for toolparts)
 # Metallurgy Base
@@ -405,6 +412,9 @@ material.emberstone=余烬石
 material.limonite=褐铁
 material.rosite=硫铜锑
 material.skeletal=骷髅
+
+# Immersive Engineering
+material.constantan=康铜
 
 # Toolparts
 part.arrowhead=@material@箭头
